@@ -1,1 +1,1 @@
-python ./scripts/utils/preprocess_panel.py --in_dir ./data/images --out_dir ./data/png_images
+python ./scripts/utils/preprocess_panel.py --in_dir ./data/jap --out_dir ./data/jap_imgs

@@ -1,0 +1,48 @@
+{
+  "env": {
+    "FLAGS_use_mkldnn": "0",
+    "KMP_DUPLICATE_LIB_OK": "TRUE",
+    "FLAGS_use_new_executor": "0"
+  },
+  "paths": {
+    "input_png_dir": "data/jap_imgs",
+    "out_json_dir": "outputs/ocr_json_jap",
+    "out_vis_dir": "outputs/ocr_vis_jap",
+    "stats_json": "outputs/debug/ocr_stats.json"
+  },
+  "ocr": {
+    "lang": "japan",
+    "use_angle_cls": true,
+    "det_db_thresh": 0.1,
+    "det_db_box_thresh": 0.4,
+    "det_db_unclip_ratio": 1.8,
+    "det_limit_side_len": 4096
+  },
+  "postprocess": {
+    "merge": {
+      "enabled": true,
+      "expand_px": 10,
+      "iou_thresh": 0.01,
+      "max_center_dist": 80.0,
+      "max_gap_x": 40.0,
+      "max_gap_y": 30.0,
+      "require_overlap_after_expand": true
+    },
+    "filter": {
+      "enabled": true,
+      "min_conf": 0.4,
+      "min_chars": 2,
+      "drop_patterns": ["raw", "\\.net", "http", "www"]
+    },
+    "contained": {
+      "enabled": true,
+      "containment_thresh": 0.9,
+      "prefer_keep": "bigger"
+    }
+  },
+  "output": {
+    "draw_text": false,
+    "overlay_suffix": "_overlay.png",
+    "save_stats": true
+  }
+}
