@@ -1,0 +1,162 @@
+{
+  "source_ocr_json": "outputs\\ocr_json_jap\\pg_3.json",
+  "translator": "marian",
+  "items": [
+    {
+      "bbox_xyxy": [
+        170,
+        100,
+        251,
+        201
+      ],
+      "text": "根ル 性と",
+      "conf": 0.985319731385214,
+      "merged_from": 2,
+      "ja_text": "根ル 性と",
+      "en_text": "The root property and the like are explained."
+    },
+    {
+      "bbox_xyxy": [
+        60,
+        179,
+        128,
+        266
+      ],
+      "text": "いなる ø -",
+      "conf": 0.887017790417979,
+      "merged_from": 3,
+      "ja_text": "いなる ø -",
+      "en_text": "It will be 49 -."
+    },
+    {
+      "bbox_xyxy": [
+        832,
+        429,
+        924,
+        574
+      ],
+      "text": "かははは 飲め飲め",
+      "conf": 0.8491446771354318,
+      "merged_from": 2,
+      "ja_text": "かははは 飲め飲め",
+      "en_text": "It is burn-out."
+    },
+    {
+      "bbox_xyxy": [
+        414,
+        431,
+        535,
+        589
+      ],
+      "text": "オそバ のだ! の 肉 は",
+      "conf": 0.7681461567625021,
+      "merged_from": 5,
+      "ja_text": "オそバ のだ! の 肉 は",
+      "en_text": "The meat of Mole of Oshiba is known."
+    },
+    {
+      "bbox_xyxy": [
+        259,
+        432,
+        339,
+        583
+      ],
+      "text": "おんが食う うせエー",
+      "conf": 0.7862102440042108,
+      "merged_from": 2,
+      "ja_text": "おんが食う うせエー",
+      "en_text": "Odor jumps."
+    },
+    {
+      "bbox_xyxy": [
+        43,
+        447,
+        194,
+        553
+      ],
+      "text": "見ヶ酒お ぞ ンの し カ上! - よせ はの",
+      "conf": 0.8864269380488058,
+      "merged_from": 8,
+      "ja_text": "見ヶ酒お ぞ ンの し カ上! - よせ はの",
+      "en_text": "Odorruinolus roentgene roentgenume roentgene roentgene."
+    },
+    {
+      "bbox_xyxy": [
+        667,
+        594,
+        824,
+        654
+      ],
+      "text": "まはし",
+      "conf": 0.7502295970916748,
+      "merged_from": 1,
+      "ja_text": "まはし",
+      "en_text": "Aperture."
+    },
+    {
+      "bbox_xyxy": [
+        429,
+        1100,
+        576,
+        1548
+      ],
+      "text": "連れてつてくれよ次の怖海 ぜんぜん恐くないんだい おれはケガだつて",
+      "conf": 0.8633023310890507,
+      "merged_from": 3,
+      "ja_text": "連れてつてくれよ次の怖海 ぜんぜん恐くないんだい おれはケガだつて",
+      "en_text": "This paper takes out the following rough sea ice cream, but it does not know."
+    },
+    {
+      "bbox_xyxy": [
+        608,
+        1105,
+        695,
+        1241
+      ],
+      "text": "バカな じやエ",
+      "conf": 0.8026277537673899,
+      "merged_from": 2,
+      "ja_text": "バカな じやエ",
+      "en_text": "Peculiar deglutitions are observed."
+    },
+    {
+      "bbox_xyxy": [
+        769,
+        1113,
+        882,
+        1247
+      ],
+      "text": "はいあ が つた",
+      "conf": 0.8469328640573209,
+      "merged_from": 3,
+      "ja_text": "はいあ が つた",
+      "en_text": "A moxibustion was observed."
+    },
+    {
+      "bbox_xyxy": [
+        29,
+        1164,
+        123,
+        1440
+      ],
+      "text": "おれだつて海賊に なりたりんだよ",
+      "conf": 0.8925427939290198,
+      "merged_from": 2,
+      "ja_text": "おれだつて海賊に なりたりんだよ",
+      "en_text": "He had fallen into abuse."
+    },
+    {
+      "bbox_xyxy": [
+        215,
+        1426,
+        343,
+        1464
+      ],
+      "text": "ANCHOR",
+      "conf": 0.9998295307159424,
+      "merged_from": 1,
+      "ja_text": "ANCHOR",
+      "en_text": "ANCHOR"
+    }
+  ]
+}

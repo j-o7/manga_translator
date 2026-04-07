@@ -1,0 +1,123 @@
+{
+  "source_ocr_json": "outputs\\ocr_json_jap\\pg_4.json",
+  "translator": "marian",
+  "items": [
+    {
+      "bbox_xyxy": [
+        73,
+        111,
+        291,
+        143
+      ],
+      "text": "ONE PIECEI",
+      "conf": 0.9167881957570413,
+      "merged_from": 2,
+      "ja_text": "ONE PIECEI",
+      "en_text": "ONE PIECEI"
+    },
+    {
+      "bbox_xyxy": [
+        858,
+        188,
+        965,
+        463
+      ],
+      "text": "海賊になれかり お前なんかが",
+      "conf": 0.8017339954220212,
+      "merged_from": 2,
+      "ja_text": "海賊になれかり お前なんかが",
+      "en_text": "It is thought that tsunami has a lot to do with it."
+    },
+    {
+      "bbox_xyxy": [
+        116,
+        227,
+        215,
+        419
+      ],
+      "text": "ナッテは て",
+      "conf": 0.7854508289431744,
+      "merged_from": 2,
+      "ja_text": "ナッテは て",
+      "en_text": "The nattsite is put on."
+    },
+    {
+      "bbox_xyxy": [
+        262,
+        589,
+        384,
+        742
+      ],
+      "text": "じな船もカ やきかナ ツ なやら - いい落*チ でも かいち",
+      "conf": 0.9312301745960921,
+      "merged_from": 8,
+      "ja_text": "じな船もカ やきかナ ツ なやら - いい落*チ でも かいち",
+      "en_text": "The poor ship is also a kana kana kana kana kana kana misojia."
+    },
+    {
+      "bbox_xyxy": [
+        46,
+        600,
+        199,
+        722
+      ],
+      "text": "強お戦そ いれっれ んはでに だーも",
+      "conf": 0.9337521509944038,
+      "merged_from": 4,
+      "ja_text": "強お戦そ いれっれ んはでに だーも",
+      "en_text": "The strong war is also left in the hiragana."
+    },
+    {
+      "bbox_xyxy": [
+        753,
+        858,
+        913,
+        974
+      ],
+      "text": "海餓顗 赤髪の ツヤンクス",
+      "conf": 0.8234743302454681,
+      "merged_from": 3,
+      "ja_text": "海餓顗 赤髪の ツヤンクス",
+      "en_text": "It is red-green tuchannaces."
+    },
+    {
+      "bbox_xyxy": [
+        59,
+        1066,
+        186,
+        1233
+      ],
+      "text": "強銃 おんのバンチは のよう店 いんだい",
+      "conf": 0.8814118126538241,
+      "merged_from": 4,
+      "ja_text": "強銃 おんのバンチは のよう店 いんだい",
+      "en_text": "The bunch of the strong gun buttock is solder."
+    },
+    {
+      "bbox_xyxy": [
+        261,
+        1079,
+        351,
+        1202
+      ],
+      "text": "から ぎたえて ちやんと",
+      "conf": 0.9099512129456752,
+      "merged_from": 3,
+      "ja_text": "から ぎたえて ちやんと",
+      "en_text": "It came out, and it came out, and it was vagina and vagina."
+    },
+    {
+      "bbox_xyxy": [
+        5,
+        1459,
+        275,
+        1598
+      ],
+      "text": "DONK",
+      "conf": 0.7274198532104492,
+      "merged_from": 1,
+      "ja_text": "DONK",
+      "en_text": "DONK."
+    }
+  ]
+}

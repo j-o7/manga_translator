@@ -1,0 +1,1230 @@
+{
+  "pg_1": [
+    {
+      "bbox_xyxy": [
+        816,
+        84,
+        942,
+        144
+      ],
+      "pad_bbox_xyxy": [
+        818,
+        86,
+        940,
+        142
+      ],
+      "fits": true,
+      "font_size": 22,
+      "en_len": 20,
+      "ja_len": 3,
+      "conf": 0.6854667067527771
+    },
+    {
+      "bbox_xyxy": [
+        820,
+        670,
+        949,
+        767
+      ],
+      "pad_bbox_xyxy": [
+        822,
+        672,
+        947,
+        765
+      ],
+      "fits": true,
+      "font_size": 18,
+      "en_len": 49,
+      "ja_len": 9,
+      "conf": 0.9987860654707009
+    },
+    {
+      "bbox_xyxy": [
+        102,
+        904,
+        222,
+        976
+      ],
+      "pad_bbox_xyxy": [
+        104,
+        906,
+        220,
+        974
+      ],
+      "fits": true,
+      "font_size": 17,
+      "en_len": 48,
+      "ja_len": 7,
+      "conf": 0.768768799183497
+    },
+    {
+      "bbox_xyxy": [
+        452,
+        1133,
+        543,
+        1305
+      ],
+      "pad_bbox_xyxy": [
+        454,
+        1135,
+        541,
+        1303
+      ],
+      "fits": true,
+      "font_size": 36,
+      "en_len": 16,
+      "ja_len": 7,
+      "conf": 0.8683150817425762
+    },
+    {
+      "bbox_xyxy": [
+        817,
+        1176,
+        876,
+        1294
+      ],
+      "pad_bbox_xyxy": [
+        819,
+        1178,
+        874,
+        1292
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 17,
+      "ja_len": 3,
+      "conf": 0.5469527840614319
+    },
+    {
+      "bbox_xyxy": [
+        74,
+        1392,
+        196,
+        1548
+      ],
+      "pad_bbox_xyxy": [
+        76,
+        1394,
+        194,
+        1546
+      ],
+      "fits": true,
+      "font_size": 28,
+      "en_len": 32,
+      "ja_len": 16,
+      "conf": 0.9574441209390668
+    },
+    {
+      "bbox_xyxy": [
+        818,
+        1392,
+        878,
+        1437
+      ],
+      "pad_bbox_xyxy": [
+        820,
+        1394,
+        876,
+        1435
+      ],
+      "fits": true,
+      "font_size": 30,
+      "en_len": 3,
+      "ja_len": 3,
+      "conf": 0.6371742486953735
+    }
+  ],
+  "pg_2": [
+    {
+      "bbox_xyxy": [
+        60,
+        87,
+        182,
+        402
+      ],
+      "pad_bbox_xyxy": [
+        62,
+        89,
+        180,
+        400
+      ],
+      "fits": true,
+      "font_size": 27,
+      "en_len": 63,
+      "ja_len": 11,
+      "conf": 0.8451857129081772
+    },
+    {
+      "bbox_xyxy": [
+        780,
+        87,
+        918,
+        431
+      ],
+      "pad_bbox_xyxy": [
+        782,
+        89,
+        916,
+        429
+      ],
+      "fits": true,
+      "font_size": 38,
+      "en_len": 48,
+      "ja_len": 30,
+      "conf": 0.8788084837238854
+    },
+    {
+      "bbox_xyxy": [
+        404,
+        412,
+        519,
+        466
+      ],
+      "pad_bbox_xyxy": [
+        406,
+        414,
+        517,
+        464
+      ],
+      "fits": true,
+      "font_size": 24,
+      "en_len": 7,
+      "ja_len": 6,
+      "conf": 0.780263364315033
+    },
+    {
+      "bbox_xyxy": [
+        684,
+        611,
+        870,
+        738
+      ],
+      "pad_bbox_xyxy": [
+        686,
+        613,
+        868,
+        736
+      ],
+      "fits": true,
+      "font_size": 29,
+      "en_len": 41,
+      "ja_len": 14,
+      "conf": 0.8432151083086358
+    },
+    {
+      "bbox_xyxy": [
+        876,
+        830,
+        966,
+        956
+      ],
+      "pad_bbox_xyxy": [
+        878,
+        832,
+        964,
+        954
+      ],
+      "fits": true,
+      "font_size": 11,
+      "en_len": 38,
+      "ja_len": 15,
+      "conf": 0.8662075104038757
+    },
+    {
+      "bbox_xyxy": [
+        533,
+        841,
+        644,
+        953
+      ],
+      "pad_bbox_xyxy": [
+        535,
+        843,
+        642,
+        951
+      ],
+      "fits": true,
+      "font_size": 17,
+      "en_len": 68,
+      "ja_len": 18,
+      "conf": 0.7976372815168704
+    },
+    {
+      "bbox_xyxy": [
+        882,
+        1005,
+        982,
+        1106
+      ],
+      "pad_bbox_xyxy": [
+        884,
+        1007,
+        980,
+        1104
+      ],
+      "fits": true,
+      "font_size": 20,
+      "en_len": 34,
+      "ja_len": 12,
+      "conf": 0.7548770533152002
+    },
+    {
+      "bbox_xyxy": [
+        94,
+        1106,
+        163,
+        1179
+      ],
+      "pad_bbox_xyxy": [
+        96,
+        1108,
+        161,
+        1177
+      ],
+      "fits": true,
+      "font_size": 14,
+      "en_len": 10,
+      "ja_len": 2,
+      "conf": 0.99610835313797
+    },
+    {
+      "bbox_xyxy": [
+        811,
+        1268,
+        834,
+        1327
+      ],
+      "pad_bbox_xyxy": [
+        813,
+        1270,
+        832,
+        1325
+      ],
+      "fits": true,
+      "font_size": 13,
+      "en_len": 3,
+      "ja_len": 3,
+      "conf": 0.7344037890434265
+    },
+    {
+      "bbox_xyxy": [
+        480,
+        1277,
+        555,
+        1508
+      ],
+      "pad_bbox_xyxy": [
+        482,
+        1279,
+        553,
+        1506
+      ],
+      "fits": true,
+      "font_size": 13,
+      "en_len": 23,
+      "ja_len": 11,
+      "conf": 0.66993507420934
+    },
+    {
+      "bbox_xyxy": [
+        217,
+        1281,
+        324,
+        1444
+      ],
+      "pad_bbox_xyxy": [
+        219,
+        1283,
+        322,
+        1442
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 35,
+      "ja_len": 18,
+      "conf": 0.8431326518786773
+    }
+  ],
+  "pg_3": [
+    {
+      "bbox_xyxy": [
+        170,
+        100,
+        251,
+        201
+      ],
+      "pad_bbox_xyxy": [
+        172,
+        102,
+        249,
+        199
+      ],
+      "fits": true,
+      "font_size": 17,
+      "en_len": 45,
+      "ja_len": 5,
+      "conf": 0.985319731385214
+    },
+    {
+      "bbox_xyxy": [
+        60,
+        179,
+        128,
+        266
+      ],
+      "pad_bbox_xyxy": [
+        62,
+        181,
+        126,
+        264
+      ],
+      "fits": true,
+      "font_size": 29,
+      "en_len": 16,
+      "ja_len": 7,
+      "conf": 0.887017790417979
+    },
+    {
+      "bbox_xyxy": [
+        832,
+        429,
+        924,
+        574
+      ],
+      "pad_bbox_xyxy": [
+        834,
+        431,
+        922,
+        572
+      ],
+      "fits": true,
+      "font_size": 22,
+      "en_len": 15,
+      "ja_len": 9,
+      "conf": 0.8491446771354318
+    },
+    {
+      "bbox_xyxy": [
+        414,
+        431,
+        535,
+        589
+      ],
+      "pad_bbox_xyxy": [
+        416,
+        433,
+        533,
+        587
+      ],
+      "fits": true,
+      "font_size": 27,
+      "en_len": 36,
+      "ja_len": 13,
+      "conf": 0.7681461567625021
+    },
+    {
+      "bbox_xyxy": [
+        259,
+        432,
+        339,
+        583
+      ],
+      "pad_bbox_xyxy": [
+        261,
+        434,
+        337,
+        581
+      ],
+      "fits": true,
+      "font_size": 24,
+      "en_len": 11,
+      "ja_len": 10,
+      "conf": 0.7862102440042108
+    },
+    {
+      "bbox_xyxy": [
+        43,
+        447,
+        194,
+        553
+      ],
+      "pad_bbox_xyxy": [
+        45,
+        449,
+        192,
+        551
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 55,
+      "ja_len": 23,
+      "conf": 0.8864269380488058
+    },
+    {
+      "bbox_xyxy": [
+        667,
+        594,
+        824,
+        654
+      ],
+      "pad_bbox_xyxy": [
+        669,
+        596,
+        822,
+        652
+      ],
+      "fits": true,
+      "font_size": 36,
+      "en_len": 9,
+      "ja_len": 3,
+      "conf": 0.7502295970916748
+    },
+    {
+      "bbox_xyxy": [
+        429,
+        1100,
+        576,
+        1548
+      ],
+      "pad_bbox_xyxy": [
+        431,
+        1102,
+        574,
+        1546
+      ],
+      "fits": true,
+      "font_size": 36,
+      "en_len": 77,
+      "ja_len": 33,
+      "conf": 0.8633023310890507
+    },
+    {
+      "bbox_xyxy": [
+        608,
+        1105,
+        695,
+        1241
+      ],
+      "pad_bbox_xyxy": [
+        610,
+        1107,
+        693,
+        1239
+      ],
+      "fits": true,
+      "font_size": 16,
+      "en_len": 35,
+      "ja_len": 7,
+      "conf": 0.8026277537673899
+    },
+    {
+      "bbox_xyxy": [
+        769,
+        1113,
+        882,
+        1247
+      ],
+      "pad_bbox_xyxy": [
+        771,
+        1115,
+        880,
+        1245
+      ],
+      "fits": true,
+      "font_size": 20,
+      "en_len": 27,
+      "ja_len": 8,
+      "conf": 0.8469328640573209
+    },
+    {
+      "bbox_xyxy": [
+        29,
+        1164,
+        123,
+        1440
+      ],
+      "pad_bbox_xyxy": [
+        31,
+        1166,
+        121,
+        1438
+      ],
+      "fits": true,
+      "font_size": 29,
+      "en_len": 25,
+      "ja_len": 16,
+      "conf": 0.8925427939290198
+    },
+    {
+      "bbox_xyxy": [
+        215,
+        1426,
+        343,
+        1464
+      ],
+      "pad_bbox_xyxy": [
+        217,
+        1428,
+        341,
+        1462
+      ],
+      "fits": true,
+      "font_size": 28,
+      "en_len": 6,
+      "ja_len": 6,
+      "conf": 0.9998295307159424
+    }
+  ],
+  "pg_4": [
+    {
+      "bbox_xyxy": [
+        73,
+        111,
+        291,
+        143
+      ],
+      "pad_bbox_xyxy": [
+        75,
+        113,
+        289,
+        141
+      ],
+      "fits": true,
+      "font_size": 37,
+      "en_len": 10,
+      "ja_len": 10,
+      "conf": 0.9167881957570413
+    },
+    {
+      "bbox_xyxy": [
+        858,
+        188,
+        965,
+        463
+      ],
+      "pad_bbox_xyxy": [
+        860,
+        190,
+        963,
+        461
+      ],
+      "fits": true,
+      "font_size": 29,
+      "en_len": 51,
+      "ja_len": 14,
+      "conf": 0.8017339954220212
+    },
+    {
+      "bbox_xyxy": [
+        116,
+        227,
+        215,
+        419
+      ],
+      "pad_bbox_xyxy": [
+        118,
+        229,
+        213,
+        417
+      ],
+      "fits": true,
+      "font_size": 29,
+      "en_len": 23,
+      "ja_len": 6,
+      "conf": 0.7854508289431744
+    },
+    {
+      "bbox_xyxy": [
+        262,
+        589,
+        384,
+        742
+      ],
+      "pad_bbox_xyxy": [
+        264,
+        591,
+        382,
+        740
+      ],
+      "fits": true,
+      "font_size": 22,
+      "en_len": 62,
+      "ja_len": 31,
+      "conf": 0.9312301745960921
+    },
+    {
+      "bbox_xyxy": [
+        46,
+        600,
+        199,
+        722
+      ],
+      "pad_bbox_xyxy": [
+        48,
+        602,
+        197,
+        720
+      ],
+      "fits": true,
+      "font_size": 30,
+      "en_len": 44,
+      "ja_len": 18,
+      "conf": 0.9337521509944038
+    },
+    {
+      "bbox_xyxy": [
+        753,
+        858,
+        913,
+        974
+      ],
+      "pad_bbox_xyxy": [
+        755,
+        860,
+        911,
+        972
+      ],
+      "fits": true,
+      "font_size": 26,
+      "en_len": 28,
+      "ja_len": 13,
+      "conf": 0.8234743302454681
+    },
+    {
+      "bbox_xyxy": [
+        59,
+        1066,
+        186,
+        1233
+      ],
+      "pad_bbox_xyxy": [
+        61,
+        1068,
+        184,
+        1231
+      ],
+      "fits": true,
+      "font_size": 27,
+      "en_len": 46,
+      "ja_len": 20,
+      "conf": 0.8814118126538241
+    },
+    {
+      "bbox_xyxy": [
+        261,
+        1079,
+        351,
+        1202
+      ],
+      "pad_bbox_xyxy": [
+        263,
+        1081,
+        349,
+        1200
+      ],
+      "fits": true,
+      "font_size": 17,
+      "en_len": 59,
+      "ja_len": 12,
+      "conf": 0.9099512129456752
+    },
+    {
+      "bbox_xyxy": [
+        5,
+        1459,
+        275,
+        1598
+      ],
+      "pad_bbox_xyxy": [
+        7,
+        1461,
+        273,
+        1596
+      ],
+      "fits": true,
+      "font_size": 42,
+      "en_len": 5,
+      "ja_len": 4,
+      "conf": 0.7274198532104492
+    }
+  ],
+  "pg_5": [
+    {
+      "bbox_xyxy": [
+        148,
+        193,
+        190,
+        359
+      ],
+      "pad_bbox_xyxy": [
+        150,
+        195,
+        188,
+        357
+      ],
+      "fits": true,
+      "font_size": 16,
+      "en_len": 11,
+      "ja_len": 6,
+      "conf": 0.9244967722729727
+    },
+    {
+      "bbox_xyxy": [
+        458,
+        476,
+        541,
+        581
+      ],
+      "pad_bbox_xyxy": [
+        460,
+        478,
+        539,
+        579
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 31,
+      "ja_len": 9,
+      "conf": 0.7515751534853379
+    },
+    {
+      "bbox_xyxy": [
+        69,
+        479,
+        177,
+        624
+      ],
+      "pad_bbox_xyxy": [
+        71,
+        481,
+        175,
+        622
+      ],
+      "fits": true,
+      "font_size": 26,
+      "en_len": 43,
+      "ja_len": 8,
+      "conf": 0.7948371151947596
+    },
+    {
+      "bbox_xyxy": [
+        802,
+        480,
+        943,
+        602
+      ],
+      "pad_bbox_xyxy": [
+        804,
+        482,
+        941,
+        600
+      ],
+      "fits": true,
+      "font_size": 23,
+      "en_len": 34,
+      "ja_len": 24,
+      "conf": 0.8388901419597713
+    },
+    {
+      "bbox_xyxy": [
+        631,
+        515,
+        688,
+        575
+      ],
+      "pad_bbox_xyxy": [
+        633,
+        517,
+        686,
+        573
+      ],
+      "fits": true,
+      "font_size": 13,
+      "en_len": 29,
+      "ja_len": 5,
+      "conf": 0.6632867883871605
+    },
+    {
+      "bbox_xyxy": [
+        429,
+        1147,
+        509,
+        1306
+      ],
+      "pad_bbox_xyxy": [
+        431,
+        1149,
+        507,
+        1304
+      ],
+      "fits": true,
+      "font_size": 13,
+      "en_len": 31,
+      "ja_len": 10,
+      "conf": 0.8288791354686095
+    },
+    {
+      "bbox_xyxy": [
+        25,
+        1159,
+        116,
+        1317
+      ],
+      "pad_bbox_xyxy": [
+        27,
+        1161,
+        114,
+        1315
+      ],
+      "fits": true,
+      "font_size": 13,
+      "en_len": 57,
+      "ja_len": 13,
+      "conf": 0.8101991054381346
+    },
+    {
+      "bbox_xyxy": [
+        897,
+        1502,
+        924,
+        1525
+      ],
+      "pad_bbox_xyxy": [
+        899,
+        1504,
+        922,
+        1523
+      ],
+      "fits": true,
+      "font_size": 20,
+      "en_len": 2,
+      "ja_len": 2,
+      "conf": 0.9997867941856384
+    }
+  ],
+  "pg_6": [
+    {
+      "bbox_xyxy": [
+        64,
+        120,
+        275,
+        153
+      ],
+      "pad_bbox_xyxy": [
+        66,
+        122,
+        273,
+        151
+      ],
+      "fits": true,
+      "font_size": 34,
+      "en_len": 10,
+      "ja_len": 10,
+      "conf": 0.9866337284289535
+    },
+    {
+      "bbox_xyxy": [
+        568,
+        167,
+        642,
+        298
+      ],
+      "pad_bbox_xyxy": [
+        570,
+        169,
+        640,
+        296
+      ],
+      "fits": true,
+      "font_size": 14,
+      "en_len": 31,
+      "ja_len": 9,
+      "conf": 0.833885830027659
+    },
+    {
+      "bbox_xyxy": [
+        696,
+        170,
+        803,
+        295
+      ],
+      "pad_bbox_xyxy": [
+        698,
+        172,
+        801,
+        293
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 57,
+      "ja_len": 20,
+      "conf": 0.8464675249860245
+    },
+    {
+      "bbox_xyxy": [
+        852,
+        173,
+        949,
+        266
+      ],
+      "pad_bbox_xyxy": [
+        854,
+        175,
+        947,
+        264
+      ],
+      "fits": true,
+      "font_size": 19,
+      "en_len": 30,
+      "ja_len": 12,
+      "conf": 0.8891931991666211
+    },
+    {
+      "bbox_xyxy": [
+        86,
+        186,
+        326,
+        408
+      ],
+      "pad_bbox_xyxy": [
+        88,
+        188,
+        324,
+        406
+      ],
+      "fits": true,
+      "font_size": 42,
+      "en_len": 49,
+      "ja_len": 13,
+      "conf": 0.737803549526827
+    },
+    {
+      "bbox_xyxy": [
+        392,
+        186,
+        497,
+        294
+      ],
+      "pad_bbox_xyxy": [
+        394,
+        188,
+        495,
+        292
+      ],
+      "fits": true,
+      "font_size": 36,
+      "en_len": 16,
+      "ja_len": 7,
+      "conf": 0.9621345173821588
+    },
+    {
+      "bbox_xyxy": [
+        536,
+        313,
+        564,
+        373
+      ],
+      "pad_bbox_xyxy": [
+        538,
+        315,
+        562,
+        371
+      ],
+      "fits": false,
+      "font_size": 10,
+      "en_len": 9,
+      "ja_len": 2,
+      "conf": 0.7466576099395752
+    },
+    {
+      "bbox_xyxy": [
+        239,
+        683,
+        361,
+        858
+      ],
+      "pad_bbox_xyxy": [
+        241,
+        685,
+        359,
+        856
+      ],
+      "fits": true,
+      "font_size": 24,
+      "en_len": 58,
+      "ja_len": 21,
+      "conf": 0.6998679732142685
+    },
+    {
+      "bbox_xyxy": [
+        107,
+        687,
+        176,
+        848
+      ],
+      "pad_bbox_xyxy": [
+        109,
+        689,
+        174,
+        846
+      ],
+      "fits": true,
+      "font_size": 17,
+      "en_len": 35,
+      "ja_len": 13,
+      "conf": 0.7789370838061783
+    },
+    {
+      "bbox_xyxy": [
+        822,
+        691,
+        943,
+        843
+      ],
+      "pad_bbox_xyxy": [
+        824,
+        693,
+        941,
+        841
+      ],
+      "fits": true,
+      "font_size": 25,
+      "en_len": 47,
+      "ja_len": 15,
+      "conf": 0.9430526122097721
+    },
+    {
+      "bbox_xyxy": [
+        203,
+        714,
+        220,
+        743
+      ],
+      "pad_bbox_xyxy": [
+        205,
+        716,
+        218,
+        741
+      ],
+      "fits": false,
+      "font_size": 10,
+      "en_len": 13,
+      "ja_len": 2,
+      "conf": 0.6140666007995605
+    },
+    {
+      "bbox_xyxy": [
+        828,
+        888,
+        943,
+        1070
+      ],
+      "pad_bbox_xyxy": [
+        830,
+        890,
+        941,
+        1068
+      ],
+      "fits": true,
+      "font_size": 22,
+      "en_len": 75,
+      "ja_len": 23,
+      "conf": 0.8343030407905933
+    },
+    {
+      "bbox_xyxy": [
+        806,
+        1167,
+        907,
+        1277
+      ],
+      "pad_bbox_xyxy": [
+        808,
+        1169,
+        905,
+        1275
+      ],
+      "fits": true,
+      "font_size": 22,
+      "en_len": 38,
+      "ja_len": 14,
+      "conf": 0.8858454563982681
+    },
+    {
+      "bbox_xyxy": [
+        599,
+        1174,
+        658,
+        1260
+      ],
+      "pad_bbox_xyxy": [
+        601,
+        1176,
+        656,
+        1258
+      ],
+      "fits": true,
+      "font_size": 10,
+      "en_len": 38,
+      "ja_len": 9,
+      "conf": 0.8015545403531985
+    },
+    {
+      "bbox_xyxy": [
+        414,
+        1203,
+        494,
+        1404
+      ],
+      "pad_bbox_xyxy": [
+        416,
+        1205,
+        492,
+        1402
+      ],
+      "fits": true,
+      "font_size": 14,
+      "en_len": 34,
+      "ja_len": 11,
+      "conf": 0.8494044864835154
+    },
+    {
+      "bbox_xyxy": [
+        654,
+        1309,
+        713,
+        1402
+      ],
+      "pad_bbox_xyxy": [
+        656,
+        1311,
+        711,
+        1400
+      ],
+      "fits": true,
+      "font_size": 20,
+      "en_len": 13,
+      "ja_len": 4,
+      "conf": 0.673952404448052
+    },
+    {
+      "bbox_xyxy": [
+        66,
+        1376,
+        139,
+        1533
+      ],
+      "pad_bbox_xyxy": [
+        68,
+        1378,
+        137,
+        1531
+      ],
+      "fits": true,
+      "font_size": 15,
+      "en_len": 24,
+      "ja_len": 6,
+      "conf": 0.8979715790650616
+    }
+  ]
+}

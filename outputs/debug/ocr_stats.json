@@ -1,0 +1,50 @@
+[
+  {
+    "page": "pg_1",
+    "num_boxes": 7,
+    "avg_conf": 0.7804154009779175,
+    "removed_contained": 0,
+    "json": "outputs\\ocr_json_jap\\pg_1.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_1_overlay.png"
+  },
+  {
+    "page": "pg_2",
+    "num_boxes": 11,
+    "avg_conf": 0.8190703984328266,
+    "removed_contained": 0,
+    "json": "outputs\\ocr_json_jap\\pg_2.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_2_overlay.png"
+  },
+  {
+    "page": "pg_3",
+    "num_boxes": 12,
+    "avg_conf": 0.8598108673670452,
+    "removed_contained": 0,
+    "json": "outputs\\ocr_json_jap\\pg_3.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_3_overlay.png"
+  },
+  {
+    "page": "pg_4",
+    "num_boxes": 9,
+    "avg_conf": 0.8568013949742388,
+    "removed_contained": 0,
+    "json": "outputs\\ocr_json_jap\\pg_4.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_4_overlay.png"
+  },
+  {
+    "page": "pg_5",
+    "num_boxes": 8,
+    "avg_conf": 0.826493875799048,
+    "removed_contained": 0,
+    "json": "outputs\\ocr_json_jap\\pg_5.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_5_overlay.png"
+  },
+  {
+    "page": "pg_6",
+    "num_boxes": 17,
+    "avg_conf": 0.8224548080603697,
+    "removed_contained": 1,
+    "json": "outputs\\ocr_json_jap\\pg_6.json",
+    "overlay": "outputs\\ocr_vis_jap\\pg_6_overlay.png"
+  }
+]
