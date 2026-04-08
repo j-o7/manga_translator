@@ -12,25 +12,32 @@ SUPPORTED_EXTS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff", ".webp", ".g
 import cv2
 import numpy as np
 
-def preprocess_for_manga(img_bgr, scale=2.0, invert=False):
-    # upscale
+def resize_keep_aspect(img_bgr, max_side=2400):
+    h, w = img_bgr.shape[:2]
+    scale = min(max_side / max(h, w), 1.0)  # only shrink if needed
+    new_w = int(round(w * scale))
+    new_h = int(round(h * scale))
+    resized = cv2.resize(img_bgr, (new_w, new_h), interpolation=cv2.INTER_CUBIC)
+    return resized, scale
+
+def preprocess_for_manga(img_bgr, scale=1.0, max_side=2400, invert=False):
     if scale != 1.0:
-        img_bgr = cv2.resize(img_bgr, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC)
+        img_bgr = cv2.resize(
+            img_bgr, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC
+        )
+
+    img_bgr, resize_scale = resize_keep_aspect(img_bgr, max_side=max_side)
 
     gray = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2GRAY)
-
-    # mild denoise
     gray = cv2.fastNlMeansDenoising(gray, h=8)
 
-    # binarize (try Otsu; adaptive also works)
     _, th = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)
 
     if invert:
         th = 255 - th
 
-    # return 3-channel because PaddleOCR often expects 3-ch
     th_bgr = cv2.cvtColor(th, cv2.COLOR_GRAY2BGR)
-    return th_bgr
+    return th_bgr, resize_scale
 
 
 def convert_one(in_path: Path, out_path: Path) -> None:
