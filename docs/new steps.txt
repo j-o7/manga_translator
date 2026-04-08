@@ -1,0 +1,49 @@
+Yes — the new steps are better than before because they make the pipeline more **structured, comparable, and measurable**. In the milestone/proposal, COMET was mostly a single OCR → translation → re-typesetting pipeline with heuristic evaluation such as OCR confidence, empty OCR rate, translation length expansion, overflow rate, and font size statistics.   Your new version turns it into a clearer experimental workflow: compare multiple OCR models, choose the best OCR using overlap with ground truth, compare multiple translation models on the same OCR output, use an LLM to compare translation against ground-truth text, and then reinsert the best translation into the image. That is a clear improvement because it separates the stages and makes model selection easier. 
+
+What is still weak is **Step 6**. “Use LLM to compare translation and gt OCR” is useful for qualitative judgment, but it should not be your main metric because it is subjective and harder to reproduce. A better version would be: use **automatic translation metrics first**, then use the LLM only for error analysis. Also, Step 3 should not rely only on bounding box overlap. Box overlap tells you localization quality, but not whether the recognized Japanese text is correct. So for OCR, evaluate both **detection quality** and **recognition quality**. A better pipeline would be: (1) multiple OCR models, (2) compare against GT boxes using IoU / precision / recall / F1, (3) compare extracted Japanese text against GT text using CER/WER or exact match, (4) pick best OCR using a combined score, (5) run multiple translation models on the same OCR text, (6) compare translations to GT English using BLEU, chrF, COMET, or BERTScore, (7) re-typeset best result, (8) evaluate layout using overflow and readability metrics, plus qualitative examples.
+
+The main metrics you can calculate are these:
+
+**OCR / detection**
+
+* Bounding box IoU
+* Detection precision, recall, F1
+* Mean Average Precision if you want a stronger detection metric
+* Empty OCR rate
+* Duplicate box rate / fragmentation rate
+
+**OCR / recognition**
+
+* Character Error Rate (CER)
+* Word Error Rate (WER), though CER is usually better for Japanese OCR
+* Exact match rate per bubble
+* Average OCR confidence
+
+**Translation**
+
+* BLEU
+* chrF
+* COMET score
+* BERTScore
+* Exact match on short phrases where appropriate
+* Length expansion ratio, which you already mentioned in the milestone 
+
+**Re-typesetting / layout**
+
+* Overflow rate
+* Average final font size
+* Minimum readable font size rate
+* Text coverage ratio inside bubble
+* Centering/alignment error
+* Number of bubbles needing aggressive shrinkage
+* Artifact rate after text removal/inpainting
+
+**End-to-end**
+
+* Percentage of bubbles that are fully correct: detected + recognized + translated + fit correctly
+* Page-level success rate
+* Human evaluation for readability / faithfulness / visual quality
+
+Best practical scoring rule: make one table with columns like **OCR model, IoU F1, CER, translation BLEU/chrF/COMET, overflow rate, final font size, end-to-end success rate**. That will make your project much stronger and easier to defend. The biggest improvement you can make now is to replace vague evaluation with a **stage-wise benchmark + one final end-to-end metric**.
+
+Files referenced: [new steps](sandbox:/mnt/data/new%20steps.txt), [Project Milestone](sandbox:/mnt/data/Project%20Milestone.pdf), [Project Proposal](sandbox:/mnt/data/Project%20Proposal.pdf)
