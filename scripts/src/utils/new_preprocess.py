@@ -152,7 +152,7 @@ def main() -> None:
     ap.add_argument(
         "--technique",
         type=str,
-        default="otsu",
+        default="all",
         choices=sorted(TECHNIQUES),
         help="Preprocessing technique to apply.",
     )
