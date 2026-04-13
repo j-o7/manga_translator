@@ -325,12 +325,28 @@ def _p4_should_merge(a, b):
         return near_x and enough_y and near_y
 
     if a["orientation"] == "horizontal" and b["orientation"] == "horizontal":
-        ref_w = min(wa, wb)
-        ref_h = min(ha, hb)
+        cax, cay = _p4_center(ba)
+        cbx, cby = _p4_center(bb)
 
-        near_y = ygap <= max(3, int(0.22 * ref_h))
-        enough_x_overlap = xov >= 0.28
-        near_x = xgap <= max(6, int(0.18 * ref_w))
+        avg_w = (wa + wb) / 2.0
+        avg_h = (ha + hb) / 2.0
+
+        gap_x = bb[0] - ba[2]
+        gap_y = bb[1] - ba[3]
+
+        # row-wise merge
+        row_near_y = abs(cay - cby) <= max(10, int(0.95 * avg_h))
+        row_enough_x_overlap = gap_x >= -50
+        row_near_x = gap_x <= min(70, int(2.0 * avg_h))
+
+        # stacked merge
+        stack_near_y = (-15 <= gap_y <= max(25, int(1.0 * avg_h)))
+        stack_enough_x_overlap = abs(cax - cbx) <= max(20, int(0.9 * avg_w))
+        stack_near_x = True
+
+        near_y = row_near_y or stack_near_y
+        enough_x_overlap = row_enough_x_overlap or stack_enough_x_overlap
+        near_x = row_near_x or stack_near_x
 
         return near_y and enough_x_overlap and near_x
 
@@ -451,8 +467,8 @@ def _p4_find_parent(main_blocks, child):
     candidates = []
 
     for i, p in enumerate(main_blocks):
-        if p["orientation"] != "vertical":
-            continue
+        # if p["orientation"] != "vertical":
+        #     continue
 
         pb = p["bbox_xyxy"]
 
@@ -526,6 +542,85 @@ def _p4_furigana_candidate(child, parent):
         return False
 
     return True
+
+def _p4_is_symbol_or_punct_only(t):
+    """
+    True if text is only punctuation / symbols / marks / separators.
+    This catches things like:
+    ".", "...", "!!", "?", "・", "…", "—", "ー", "【】", "α", "β", "Σ", etc.
+    """
+    t = _p4_norm_text(t)
+    if not t:
+        return True
+
+    for ch in t:
+        cat = unicodedata.category(ch)
+        # P* = punctuation, S* = symbol, M* = mark, Z* = separator
+        if not (cat[0] in {"P", "S", "M", "Z"}):
+            return False
+    return True
+
+
+def _p4_should_drop_text(raw_text, clean_text, bbox,
+                         min_w=8, min_h=8, min_area=70):
+    t = _p4_norm_text(clean_text)
+    if not t:
+        return True
+
+    if _p4_is_symbol_or_punct_only(t):
+        return True
+
+    if len(t) == 1:
+        ch = t[0]
+        w, h = _p4_dims(bbox)
+        area = w * h
+
+        if _p4_is_japanese_char(ch):
+            # keep only if big enough
+            return not (w >= min_w and h >= min_h and area >= min_area)
+
+        # non-Japanese single chars always removed
+        return True
+
+    return False
+
+def _p4_is_japanese_char(ch):
+    code = ord(ch)
+    return (
+        0x3040 <= code <= 0x309F or   # Hiragana
+        0x30A0 <= code <= 0x30FF or   # Katakana
+        0x4E00 <= code <= 0x9FFF or   # Kanji
+        0x3400 <= code <= 0x4DBF or   # CJK Ext A
+        ch in {"々", "〆", "〇", "ヶ", "ゝ", "ゞ", "ヽ", "ヾ"}
+    )
+
+def _p4_filter_final_blocks(blocks, min_w=8, min_h=8, min_area=70):
+    kept = []
+
+    for b in blocks:
+        bbox = b["bbox_xyxy"]
+        w, h = _p4_dims(bbox)
+        area = w * h
+        t = b.get("text_augmented", "") or b.get("text", "")
+
+        if w < min_w or h < min_h or area < min_area:
+            continue
+
+        if _p4_should_drop_text(
+            t,
+            t,
+            bbox,
+            min_w=min_w,
+            min_h=min_h,
+            min_area=min_area
+        ):
+            continue
+
+        kept.append(b)
+
+    return kept
+
+    return kept
 
 def _p4_insertion_char_index(parent, child):
     members = parent.get("members", [])
@@ -716,6 +811,7 @@ def build_translation_ready_japanese_ocr_v4(res_dict):
                 all_blocks.append(_p4_make_passthrough(by_id[mid]))
 
     all_blocks = _p4_drop_combined_blocks_prefer_atomic(all_blocks)
+    all_blocks = _p4_filter_final_blocks(all_blocks)
     ordered = _p4_sort_reading_order(all_blocks)
     for i, b in enumerate(ordered):
         b["reading_order_index"] = i

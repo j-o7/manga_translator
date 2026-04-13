@@ -15,7 +15,7 @@ from argparse import ArgumentParser
 
 from paddleocr import PaddleOCR
 
-from src.utils.merging_ocr_jap import _p4_make_res_dict_from_ocr_result, build_translation_ready_japanese_ocr_v4
+from utils.merging_ocr_jap import _p4_make_res_dict_from_ocr_result, build_translation_ready_japanese_ocr_v4
 
 # function to get only important values
 def create_res_dict(res_out) -> dict:
