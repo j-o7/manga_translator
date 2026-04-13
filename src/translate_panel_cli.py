@@ -393,6 +393,11 @@ def save_metrics_csv(debug_json_path: Path, metrics_csv_path: Path) -> None:
 
 
 def main() -> None:
+
+    os.environ["FLAGS_use_mkldnn"] = "0"     # disable oneDNN (MKLDNN)
+    os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"  # sometimes helps on Windows envs
+    os.environ["FLAGS_use_new_executor"] = "0"
+    
     args = parse_args()
 
     ocr_json_dir = Path(args.ocr_json_dir)
