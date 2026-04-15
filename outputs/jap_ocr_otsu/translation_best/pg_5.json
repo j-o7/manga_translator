@@ -1,0 +1,442 @@
+{
+  "input": "data\\jap_imgs_tech\\otsu\\pg_5.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        875,
+        64
+      ],
+      [
+        960,
+        64
+      ],
+      [
+        960,
+        196
+      ],
+      [
+        875,
+        196
+      ]
+    ],
+    [
+      [
+        824,
+        391
+      ],
+      [
+        985,
+        391
+      ],
+      [
+        985,
+        539
+      ],
+      [
+        824,
+        539
+      ]
+    ],
+    [
+      [
+        737,
+        90
+      ],
+      [
+        841,
+        90
+      ],
+      [
+        841,
+        193
+      ],
+      [
+        737,
+        193
+      ]
+    ],
+    [
+      [
+        641,
+        390
+      ],
+      [
+        747,
+        390
+      ],
+      [
+        747,
+        511
+      ],
+      [
+        641,
+        511
+      ]
+    ],
+    [
+      [
+        522,
+        1185
+      ],
+      [
+        568,
+        1185
+      ],
+      [
+        568,
+        1283
+      ],
+      [
+        522,
+        1283
+      ]
+    ],
+    [
+      [
+        465,
+        388
+      ],
+      [
+        583,
+        388
+      ],
+      [
+        583,
+        533
+      ],
+      [
+        465,
+        533
+      ]
+    ],
+    [
+      [
+        447,
+        1188
+      ],
+      [
+        482,
+        1188
+      ],
+      [
+        482,
+        1360
+      ],
+      [
+        447,
+        1360
+      ]
+    ],
+    [
+      [
+        238,
+        384
+      ],
+      [
+        405,
+        384
+      ],
+      [
+        405,
+        561
+      ],
+      [
+        238,
+        561
+      ]
+    ],
+    [
+      [
+        38,
+        27
+      ],
+      [
+        191,
+        27
+      ],
+      [
+        191,
+        254
+      ],
+      [
+        38,
+        254
+      ]
+    ],
+    [
+      [
+        37,
+        379
+      ],
+      [
+        156,
+        379
+      ],
+      [
+        156,
+        561
+      ],
+      [
+        37,
+        561
+      ]
+    ],
+    [
+      [
+        17,
+        1460
+      ],
+      [
+        76,
+        1460
+      ],
+      [
+        76,
+        1555
+      ],
+      [
+        17,
+        1555
+      ]
+    ],
+    [
+      [
+        8,
+        1193
+      ],
+      [
+        93,
+        1193
+      ],
+      [
+        93,
+        1374
+      ],
+      [
+        8,
+        1374
+      ]
+    ],
+    [
+      [
+        602,
+        1167
+      ],
+      [
+        712,
+        1167
+      ],
+      [
+        712,
+        1258
+      ],
+      [
+        602,
+        1258
+      ]
+    ]
+  ],
+  "texts": [
+    "The gun?",
+    "Fucking fucked up, you're a little bit of a bitch.",
+    "Oh yeah yeah",
+    "Have fun, let’s do anything!",
+    "You guys are the ones.",
+    "It's fun to be a pirate.",
+    "Don't blow it in.",
+    "The heart of the sea is widespread and great adventure on many islands.",
+    "Ha Ni!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+    "More than anything!",
+    "No, it's not.",
+    "It's about the book, isn't it?",
+    "What is it?"
+  ],
+  "scores": [
+    0.7980364561080933,
+    0.9407170295715332,
+    0.7062768638134003,
+    0.8491902748743693,
+    0.8083598017692566,
+    0.9584985176722208,
+    0.9211816787719727,
+    0.7328450798988342,
+    0.8570361336072286,
+    0.8340819080670675,
+    0.9892773628234863,
+    0.8526566624641418,
+    0.9961515069007874
+  ],
+  "best_model": [
+    "fb",
+    "nllb",
+    "fb",
+    "fb",
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "hl",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.7980364561080933,
+    0.9407170295715332,
+    0.7062768638134003,
+    0.8491902748743693,
+    0.8083598017692566,
+    0.9584985176722208,
+    0.9211816787719727,
+    0.7328450798988342,
+    0.8570361336072286,
+    0.8340819080670675,
+    0.9892773628234863,
+    0.8526566624641418,
+    0.9961515069007874
+  ],
+  "source_texts": [
+    "銃?",
+    "おうおうルフイ!なんだかこきげんナナメだな",
+    "へーそう",
+    "楽し~いこうぜ何事も!",
+    "お前達",
+    "そう!海賊は楽しいぜエ",
+    "吹き込むなよ",
+    "心海は広いし大きいしいろんな島を冒険するんだ[心]",
+    "なんだその言い方はア!!![!!!]",
+    "何より°自由![°]",
+    "な",
+    "だ本の事だもんな",
+    "は"
+  ],
+  "base_ocr_scores": [
+    0.7980364561080933,
+    0.9407170295715332,
+    0.7062768638134003,
+    0.8491902748743693,
+    0.8083598017692566,
+    0.9584985176722208,
+    0.9211816787719727,
+    0.7328450798988342,
+    0.8570361336072286,
+    0.8340819080670675,
+    0.9892773628234863,
+    0.8526566624641418,
+    0.9961515069007874
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "The gun?",
+      "score": 0.7980364561080933,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Fucking fucked up, you're a little bit of a bitch.",
+      "score": 0.9407170295715332,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Oh yeah yeah",
+      "score": 0.7062768638134003,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Have fun, let’s do anything!",
+      "score": 0.8491902748743693,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You guys are the ones.",
+      "score": 0.8083598017692566,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's fun to be a pirate.",
+      "score": 0.9584985176722208,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Don't blow it in.",
+      "score": 0.9211816787719727,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The heart of the sea is widespread and great adventure on many islands.",
+      "score": 0.7328450798988342,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Ha Ni!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "score": 0.8570361336072286,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "More than anything!",
+      "score": 0.8340819080670675,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "No, it's not.",
+      "score": 0.9892773628234863,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's about the book, isn't it?",
+      "score": 0.8526566624641418,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What is it?",
+      "score": 0.9961515069007874,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap_ocr_otsu\\json\\pg_5.json",
+    "fb_json": "outputs\\jap_ocr_otsu\\translation_fb\\pg_5.json",
+    "hl_json": "outputs\\jap_ocr_otsu\\translation_hl\\pg_5.json",
+    "nllb_json": "outputs\\jap_ocr_otsu\\translation_nllb\\pg_5.json"
+  }
+}

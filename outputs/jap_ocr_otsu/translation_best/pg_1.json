@@ -1,0 +1,314 @@
+{
+  "input": "data\\jap_imgs_tech\\otsu\\pg_1.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        830,
+        32
+      ],
+      [
+        961,
+        32
+      ],
+      [
+        961,
+        144
+      ],
+      [
+        830,
+        144
+      ]
+    ],
+    [
+      [
+        821,
+        638
+      ],
+      [
+        978,
+        638
+      ],
+      [
+        978,
+        762
+      ],
+      [
+        821,
+        762
+      ]
+    ],
+    [
+      [
+        821,
+        1172
+      ],
+      [
+        876,
+        1172
+      ],
+      [
+        876,
+        1302
+      ],
+      [
+        821,
+        1302
+      ]
+    ],
+    [
+      [
+        462,
+        1141
+      ],
+      [
+        551,
+        1141
+      ],
+      [
+        551,
+        1322
+      ],
+      [
+        462,
+        1322
+      ]
+    ],
+    [
+      [
+        120,
+        1399
+      ],
+      [
+        200,
+        1399
+      ],
+      [
+        200,
+        1497
+      ],
+      [
+        120,
+        1497
+      ]
+    ],
+    [
+      [
+        86,
+        879
+      ],
+      [
+        214,
+        879
+      ],
+      [
+        214,
+        1023
+      ],
+      [
+        86,
+        1023
+      ]
+    ],
+    [
+      [
+        39,
+        1203
+      ],
+      [
+        93,
+        1203
+      ],
+      [
+        93,
+        1294
+      ],
+      [
+        39,
+        1294
+      ]
+    ],
+    [
+      [
+        0,
+        779
+      ],
+      [
+        33,
+        779
+      ],
+      [
+        33,
+        822
+      ],
+      [
+        0,
+        822
+      ]
+    ],
+    [
+      [
+        709,
+        818
+      ],
+      [
+        781,
+        818
+      ],
+      [
+        781,
+        840
+      ],
+      [
+        709,
+        840
+      ]
+    ]
+  ],
+  "texts": [
+    "This is a small port village.",
+    "I don't know what I'm talking about.",
+    "The wind is from the east.",
+    "What the hell are you doing?",
+    "What is it?",
+    "The pirate ships are stopping.",
+    "Oh, and the truth.",
+    "I'm looking forward to seeing you.",
+    "The building."
+  ],
+  "scores": [
+    0.7807550430297852,
+    0.6670724302530289,
+    0.9115988612174988,
+    0.9461493194103241,
+    0.87131267786026,
+    0.8166874945163727,
+    0.9591817855834961,
+    0.5967485904693604,
+    0.23473192751407623
+  ],
+  "best_model": [
+    "fb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb",
+    "fb"
+  ],
+  "best_model_score": [
+    0.7807550430297852,
+    0.6670724302530289,
+    0.9115988612174988,
+    0.9461493194103241,
+    0.87131267786026,
+    0.8166874945163727,
+    0.9591817855834961,
+    0.5967485904693604,
+    0.23473192751407623
+  ],
+  "source_texts": [
+    "こ小さな港村だ",
+    "巷には年程*元前ら[*元]",
+    "風は東",
+    "おいルフイ何する気だ",
+    "は",
+    "海賊船力停泊している",
+    "ふん",
+    "目",
+    "楼房"
+  ],
+  "base_ocr_scores": [
+    0.7807550430297852,
+    0.6670724302530289,
+    0.9115988612174988,
+    0.9461493194103241,
+    0.87131267786026,
+    0.8166874945163727,
+    0.9591817855834961,
+    0.5967485904693604,
+    0.23473192751407623
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "This is a small port village.",
+      "score": 0.7807550430297852,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know what I'm talking about.",
+      "score": 0.6670724302530289,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The wind is from the east.",
+      "score": 0.9115988612174988,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "What the hell are you doing?",
+      "score": 0.9461493194103241,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What is it?",
+      "score": 0.87131267786026,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The pirate ships are stopping.",
+      "score": 0.8166874945163727,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Oh, and the truth.",
+      "score": 0.9591817855834961,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm looking forward to seeing you.",
+      "score": 0.5967485904693604,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The building.",
+      "score": 0.23473192751407623,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap_ocr_otsu\\json\\pg_1.json",
+    "fb_json": "outputs\\jap_ocr_otsu\\translation_fb\\pg_1.json",
+    "hl_json": "outputs\\jap_ocr_otsu\\translation_hl\\pg_1.json",
+    "nllb_json": "outputs\\jap_ocr_otsu\\translation_nllb\\pg_1.json"
+  }
+}

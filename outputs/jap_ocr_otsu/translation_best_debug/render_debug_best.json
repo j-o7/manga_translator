@@ -1,0 +1,1056 @@
+{
+  "pg_1": [
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        39,
+        1203,
+        93,
+        1294
+      ],
+      "text": "Oh, and the truth.",
+      "status": "added",
+      "best_model_score": 0.9591817855834961
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        462,
+        1141,
+        551,
+        1322
+      ],
+      "text": "What the hell are you doing?",
+      "status": "added",
+      "best_model_score": 0.9461493194103241
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        821,
+        1172,
+        876,
+        1302
+      ],
+      "text": "The wind is from the east.",
+      "status": "added",
+      "best_model_score": 0.9115988612174988
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        120,
+        1399,
+        200,
+        1497
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model_score": 0.87131267786026
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        86,
+        879,
+        214,
+        1023
+      ],
+      "text": "The pirate ships are stopping.",
+      "status": "added",
+      "best_model_score": 0.8166874945163727
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        830,
+        32,
+        961,
+        144
+      ],
+      "text": "This is a small port village.",
+      "status": "added",
+      "best_model_score": 0.7807550430297852
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        821,
+        638,
+        978,
+        762
+      ],
+      "text": "I don't know what I'm talking about.",
+      "status": "added",
+      "best_model_score": 0.6670724302530289
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        0,
+        779,
+        33,
+        822
+      ],
+      "text": "I'm looking forward to seeing you.",
+      "status": "added",
+      "best_model_score": 0.5967485904693604
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        709,
+        818,
+        781,
+        840
+      ],
+      "text": "The building.",
+      "status": "added",
+      "best_model_score": 0.23473192751407623
+    }
+  ],
+  "pg_2": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        805,
+        15,
+        969,
+        411
+      ],
+      "text": "I'm not playing half! It's already here!",
+      "status": "added",
+      "best_model_score": 0.9495165149370829
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        718,
+        662,
+        902,
+        704
+      ],
+      "text": "Monkiro is the only one.",
+      "status": "added",
+      "best_model_score": 0.91728276014328
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        649,
+        850,
+        680,
+        906
+      ],
+      "text": "I'll see you later.",
+      "status": "added",
+      "best_model_score": 0.8737757205963135
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        901,
+        840,
+        998,
+        976
+      ],
+      "text": "Let's go! Let's go! Let's go!",
+      "status": "added",
+      "best_model_score": 0.872590978940328
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        760,
+        696,
+        863,
+        745
+      ],
+      "text": "Rufi is a very good person.",
+      "status": "merged_with",
+      "merged_with_idx": 14,
+      "best_model_score": 0.8701274394989014
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        557,
+        849,
+        615,
+        971
+      ],
+      "text": "I'm doing some interesting work.",
+      "status": "added",
+      "best_model_score": 0.8504149317741394
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        714,
+        609,
+        831,
+        656
+      ],
+      "text": "The village's boys.",
+      "status": "added",
+      "best_model_score": 0.835824728012085
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        714,
+        609,
+        831,
+        656
+      ],
+      "text": "The village's boys.",
+      "status": "merged_with",
+      "merged_with_idx": 12,
+      "best_model_score": 0.835824728012085
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        827,
+        1274,
+        880,
+        1372
+      ],
+      "text": "What a...",
+      "status": "added",
+      "best_model_score": 0.811623215675354
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        219,
+        1324,
+        346,
+        1497
+      ],
+      "text": "Ba...what kind of asshole are you!?",
+      "status": "added",
+      "best_model_score": 0.7965490420659384
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        37,
+        6,
+        184,
+        366
+      ],
+      "text": "Show me the evidence.",
+      "status": "added",
+      "best_model_score": 0.7654224932193756
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        908,
+        1027,
+        942,
+        1104
+      ],
+      "text": "Oh, my God!",
+      "status": "added",
+      "best_model_score": 0.6755651831626892
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        528,
+        6,
+        613,
+        90
+      ],
+      "text": "I don't know.",
+      "status": "added",
+      "best_model_score": 0.4887535870075226
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        493,
+        1307,
+        590,
+        1585
+      ],
+      "text": "The first is the \"T\"",
+      "status": "added",
+      "best_model_score": 0.4320231229066849
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        282,
+        0,
+        427,
+        116
+      ],
+      "text": "The Armor",
+      "status": "added",
+      "best_model_score": 0.40533870458602905
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        407,
+        1402,
+        480,
+        1499
+      ],
+      "text": "The book is a classic.",
+      "status": "added",
+      "best_model_score": 0.19313420355319977
+    }
+  ],
+  "pg_3": [
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        685,
+        381,
+        725,
+        426
+      ],
+      "text": "Drink.",
+      "status": "added",
+      "best_model_score": 0.999198853969574
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        159,
+        9,
+        266,
+        162
+      ],
+      "text": "Roots and Roots of Rufus",
+      "status": "added",
+      "best_model_score": 0.993825376033783
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        854,
+        382,
+        960,
+        541
+      ],
+      "text": "I'm not sure if I'll drink or not.",
+      "status": "added",
+      "best_model_score": 0.9727743268013
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        0,
+        1190,
+        102,
+        1497
+      ],
+      "text": "You want to be a pirate and become a pirate.",
+      "status": "added",
+      "best_model_score": 0.9663494229316711
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        446,
+        1116,
+        600,
+        1587
+      ],
+      "text": "I'm injured and I'm not afraid of anything! take me to the next ship.",
+      "status": "added",
+      "best_model_score": 0.9509832660357157
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        0,
+        56,
+        130,
+        190
+      ],
+      "text": "On our great journey.",
+      "status": "added",
+      "best_model_score": 0.947415272394816
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        259,
+        376,
+        348,
+        544
+      ],
+      "text": "I am eating! I am eating.",
+      "status": "added",
+      "best_model_score": 0.9341082274913788
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        870,
+        1119,
+        926,
+        1239
+      ],
+      "text": "Oh Oh",
+      "status": "added",
+      "best_model_score": 0.9334036707878113
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        791,
+        1119,
+        847,
+        1280
+      ],
+      "text": "there was no",
+      "status": "added",
+      "best_model_score": 0.9279618859291077
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        762,
+        93,
+        865,
+        245
+      ],
+      "text": "Let's drink to the boys!",
+      "status": "added",
+      "best_model_score": 0.9168382287025452
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        638,
+        377,
+        727,
+        544
+      ],
+      "text": "It’s not enough to drink.",
+      "status": "merged_with",
+      "merged_with_idx": 15,
+      "best_model_score": 0.9162896275520325
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        627,
+        1116,
+        753,
+        1313
+      ],
+      "text": "You're going to do something stupid!",
+      "status": "added",
+      "best_model_score": 0.8415926694869995
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        16,
+        379,
+        200,
+        517
+      ],
+      "text": "The fight over alcohol is painful.",
+      "status": "added",
+      "best_model_score": 0.8190332365532716
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        427,
+        370,
+        558,
+        539
+      ],
+      "text": "The meat is my own!",
+      "status": "added",
+      "best_model_score": 0.7549659510453542
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        672,
+        549,
+        863,
+        635
+      ],
+      "text": "There is a lot of it.",
+      "status": "added",
+      "best_model_score": 0.5715789198875427
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        140,
+        524,
+        527,
+        660
+      ],
+      "text": "The old one, the old one, the old one.",
+      "status": "merged_with",
+      "merged_with_idx": 9,
+      "best_model_score": 0.500272810459137
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        664,
+        270,
+        700,
+        289
+      ],
+      "text": "it's just a matter of time before it's too late.",
+      "status": "added",
+      "best_model_score": 0.31044402718544006
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        693,
+        77,
+        725,
+        119
+      ],
+      "text": "The country is a country.",
+      "status": "added",
+      "best_model_score": 0.25946754217147827
+    }
+  ],
+  "pg_4": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        45,
+        1029,
+        178,
+        1219
+      ],
+      "text": "My pants are as strong as a gun.",
+      "status": "added",
+      "best_model_score": 0.9924072623252869
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        315,
+        516,
+        389,
+        550
+      ],
+      "text": "The strength of the ship.",
+      "status": "added",
+      "best_model_score": 0.9918732047080994
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        25,
+        527,
+        195,
+        664
+      ],
+      "text": "I am strong enough to fight against it.",
+      "status": "added",
+      "best_model_score": 0.9740176945924759
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        354,
+        541,
+        392,
+        687
+      ],
+      "text": "I'm not sure if that's a good idea.",
+      "status": "merged_with",
+      "merged_with_idx": 6,
+      "best_model_score": 0.9713881611824036
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        35,
+        80,
+        209,
+        342
+      ],
+      "text": "Cannabis is fatal to the pirates.",
+      "status": "added",
+      "best_model_score": 0.9455408851305643
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        889,
+        65,
+        985,
+        350
+      ],
+      "text": "You can't be a pirate!",
+      "status": "added",
+      "best_model_score": 0.9423998594284058
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        775,
+        807,
+        895,
+        863
+      ],
+      "text": "Red-haired people.",
+      "status": "added",
+      "best_model_score": 0.9079170227050781
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        786,
+        835,
+        949,
+        901
+      ],
+      "text": "Shanks is a very good man.",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model_score": 0.9033874273300171
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        259,
+        1048,
+        357,
+        1189
+      ],
+      "text": "I'm going to get a little bit of a break.",
+      "status": "added",
+      "best_model_score": 0.8795871734619141
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        772,
+        762,
+        879,
+        817
+      ],
+      "text": "The sea is full of water.",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model_score": 0.7698346972465515
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        288,
+        520,
+        321,
+        550
+      ],
+      "text": "No, it's not.",
+      "status": "merged_with",
+      "merged_with_idx": 6,
+      "best_model_score": 0.3168838322162628
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        787,
+        799,
+        860,
+        828
+      ],
+      "text": "laughing",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model_score": 0.22541925311088562
+    }
+  ],
+  "pg_5": [
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        602,
+        1167,
+        712,
+        1258
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model_score": 0.9961515069007874
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        17,
+        1460,
+        76,
+        1555
+      ],
+      "text": "No, it's not.",
+      "status": "added",
+      "best_model_score": 0.9892773628234863
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        465,
+        388,
+        583,
+        533
+      ],
+      "text": "It's fun to be a pirate.",
+      "status": "added",
+      "best_model_score": 0.9584985176722208
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        824,
+        391,
+        985,
+        539
+      ],
+      "text": "Fucking fucked up, you're a little bit of a bitch.",
+      "status": "added",
+      "best_model_score": 0.9407170295715332
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        447,
+        1188,
+        482,
+        1360
+      ],
+      "text": "Don't blow it in.",
+      "status": "added",
+      "best_model_score": 0.9211816787719727
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        38,
+        27,
+        191,
+        254
+      ],
+      "text": "Ha Ni!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!",
+      "status": "added",
+      "best_model_score": 0.8570361336072286
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        8,
+        1193,
+        93,
+        1374
+      ],
+      "text": "It's about the book, isn't it?",
+      "status": "added",
+      "best_model_score": 0.8526566624641418
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        641,
+        390,
+        747,
+        511
+      ],
+      "text": "Have fun, let’s do anything!",
+      "status": "added",
+      "best_model_score": 0.8491902748743693
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        37,
+        379,
+        156,
+        561
+      ],
+      "text": "More than anything!",
+      "status": "added",
+      "best_model_score": 0.8340819080670675
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        522,
+        1185,
+        568,
+        1283
+      ],
+      "text": "You guys are the ones.",
+      "status": "added",
+      "best_model_score": 0.8083598017692566
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        875,
+        64,
+        960,
+        196
+      ],
+      "text": "The gun?",
+      "status": "added",
+      "best_model_score": 0.7980364561080933
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        238,
+        384,
+        405,
+        561
+      ],
+      "text": "The heart of the sea is widespread and great adventure on many islands.",
+      "status": "added",
+      "best_model_score": 0.7328450798988342
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        737,
+        90,
+        841,
+        193
+      ],
+      "text": "Oh yeah yeah",
+      "status": "added",
+      "best_model_score": 0.7062768638134003
+    }
+  ],
+  "pg_6": [
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        400,
+        1263,
+        492,
+        1495
+      ],
+      "text": "Come on, kid, fuck you!",
+      "status": "added",
+      "best_model_score": 0.9709942042827606
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        562,
+        1224,
+        672,
+        1337
+      ],
+      "text": "Oh, my God! Thank you!",
+      "status": "added",
+      "best_model_score": 0.9611376722653707
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        551,
+        102,
+        633,
+        249
+      ],
+      "text": "I feel the same way.",
+      "status": "added",
+      "best_model_score": 0.9304398000240326
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        817,
+        1226,
+        928,
+        1344
+      ],
+      "text": "Drink some of the juice from the tea.",
+      "status": "added",
+      "best_model_score": 0.924541691939036
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        846,
+        915,
+        965,
+        1111
+      ],
+      "text": "At least I'll think about it when I'm old.",
+      "status": "added",
+      "best_model_score": 0.9176243344942728
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        509,
+        263,
+        559,
+        340
+      ],
+      "text": "The first is the \"Fire\".",
+      "status": "added",
+      "best_model_score": 0.9123323559761047
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        83,
+        692,
+        161,
+        878
+      ],
+      "text": "I am not a child!",
+      "status": "added",
+      "best_model_score": 0.9085436761379242
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        177,
+        165,
+        286,
+        285
+      ],
+      "text": "Let's finish the conversation and have a drink.",
+      "status": "added",
+      "best_model_score": 0.893967847029368
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        215,
+        689,
+        351,
+        878
+      ],
+      "text": "I'll tell you what I'm talking about!",
+      "status": "added",
+      "best_model_score": 0.8887352347373962
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        45,
+        1453,
+        128,
+        1593
+      ],
+      "text": "Come on, you guys!",
+      "status": "added",
+      "best_model_score": 0.881432056427002
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        684,
+        82,
+        797,
+        229
+      ],
+      "text": "You can take him out once you're done with him.",
+      "status": "added",
+      "best_model_score": 0.8579026063283285
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        150,
+        331,
+        303,
+        388
+      ],
+      "text": "The most common is the",
+      "status": "added",
+      "best_model_score": 0.8111721873283386
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        328,
+        135,
+        476,
+        259
+      ],
+      "text": "Instead, the female or the boat will be lowered.",
+      "status": "added",
+      "best_model_score": 0.7867100685834885
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        62,
+        154,
+        146,
+        333
+      ],
+      "text": "It doesn’t taste!",
+      "status": "added",
+      "best_model_score": 0.7412561178207397
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        825,
+        677,
+        969,
+        857
+      ],
+      "text": "You’re too young, you’re too young.",
+      "status": "added",
+      "best_model_score": 0.6767055198550225
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        853,
+        55,
+        981,
+        191
+      ],
+      "text": "Hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey, hey.",
+      "status": "added",
+      "best_model_score": 0.6737587849299113
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        0,
+        1192,
+        402,
+        1295
+      ],
+      "text": "The first is the \"B\"",
+      "status": "merged_with",
+      "merged_with_idx": 9,
+      "best_model_score": 0.6074443459510803
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        650,
+        1377,
+        734,
+        1507
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model_score": 0.1826467514038086
+    }
+  ]
+}

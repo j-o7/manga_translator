@@ -1,0 +1,410 @@
+{
+  "input": "data\\jap_imgs_tech\\otsu\\pg_4.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        889,
+        65
+      ],
+      [
+        985,
+        65
+      ],
+      [
+        985,
+        350
+      ],
+      [
+        889,
+        350
+      ]
+    ],
+    [
+      [
+        354,
+        541
+      ],
+      [
+        392,
+        541
+      ],
+      [
+        392,
+        687
+      ],
+      [
+        354,
+        687
+      ]
+    ],
+    [
+      [
+        259,
+        1048
+      ],
+      [
+        357,
+        1048
+      ],
+      [
+        357,
+        1189
+      ],
+      [
+        259,
+        1189
+      ]
+    ],
+    [
+      [
+        45,
+        1029
+      ],
+      [
+        178,
+        1029
+      ],
+      [
+        178,
+        1219
+      ],
+      [
+        45,
+        1219
+      ]
+    ],
+    [
+      [
+        35,
+        80
+      ],
+      [
+        209,
+        80
+      ],
+      [
+        209,
+        342
+      ],
+      [
+        35,
+        342
+      ]
+    ],
+    [
+      [
+        25,
+        527
+      ],
+      [
+        195,
+        527
+      ],
+      [
+        195,
+        664
+      ],
+      [
+        25,
+        664
+      ]
+    ],
+    [
+      [
+        389,
+        516
+      ],
+      [
+        389,
+        550
+      ],
+      [
+        315,
+        550
+      ],
+      [
+        315,
+        516
+      ]
+    ],
+    [
+      [
+        321,
+        520
+      ],
+      [
+        321,
+        550
+      ],
+      [
+        288,
+        550
+      ],
+      [
+        288,
+        520
+      ]
+    ],
+    [
+      [
+        874,
+        762
+      ],
+      [
+        879,
+        806
+      ],
+      [
+        776,
+        817
+      ],
+      [
+        772,
+        773
+      ]
+    ],
+    [
+      [
+        858,
+        799
+      ],
+      [
+        860,
+        820
+      ],
+      [
+        790,
+        828
+      ],
+      [
+        787,
+        807
+      ]
+    ],
+    [
+      [
+        891,
+        807
+      ],
+      [
+        895,
+        854
+      ],
+      [
+        779,
+        863
+      ],
+      [
+        775,
+        816
+      ]
+    ],
+    [
+      [
+        944,
+        835
+      ],
+      [
+        949,
+        886
+      ],
+      [
+        790,
+        901
+      ],
+      [
+        786,
+        850
+      ]
+    ]
+  ],
+  "texts": [
+    "You can't be a pirate!",
+    "I'm not sure if that's a good idea.",
+    "I'm going to get a little bit of a break.",
+    "My pants are as strong as a gun.",
+    "Cannabis is fatal to the pirates.",
+    "I am strong enough to fight against it.",
+    "The strength of the ship.",
+    "No, it's not.",
+    "The sea is full of water.",
+    "laughing",
+    "Red-haired people.",
+    "Shanks is a very good man."
+  ],
+  "scores": [
+    0.9423998594284058,
+    0.9713881611824036,
+    0.8795871734619141,
+    0.9924072623252869,
+    0.9455408851305643,
+    0.9740176945924759,
+    0.9918732047080994,
+    0.3168838322162628,
+    0.7698346972465515,
+    0.22541925311088562,
+    0.9079170227050781,
+    0.9033874273300171
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "nllb",
+    "fb",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.9423998594284058,
+    0.9713881611824036,
+    0.8795871734619141,
+    0.9924072623252869,
+    0.9455408851305643,
+    0.9740176945924759,
+    0.9918732047080994,
+    0.3168838322162628,
+    0.7698346972465515,
+    0.22541925311088562,
+    0.9079170227050781,
+    0.9033874273300171
+  ],
+  "source_texts": [
+    "お前なんかが海賊になれるか!!",
+    "ナヅチでも",
+    "ちんときたえてるから",
+    "おれのパンチは銃のように強",
+    "カナヅチは海賊にとって致命的だぜ",
+    "それに戦ってもおれは強いんだ",
+    "船力",
+    "な",
+    "海贼頭",
+    "笑",
+    "赤髪の",
+    "シャンクス"
+  ],
+  "base_ocr_scores": [
+    0.9423998594284058,
+    0.9713881611824036,
+    0.8795871734619141,
+    0.9924072623252869,
+    0.9455408851305643,
+    0.9740176945924759,
+    0.9918732047080994,
+    0.3168838322162628,
+    0.7698346972465515,
+    0.22541925311088562,
+    0.9079170227050781,
+    0.9033874273300171
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "You can't be a pirate!",
+      "score": 0.9423998594284058,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm not sure if that's a good idea.",
+      "score": 0.9713881611824036,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to get a little bit of a break.",
+      "score": 0.8795871734619141,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "My pants are as strong as a gun.",
+      "score": 0.9924072623252869,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Cannabis is fatal to the pirates.",
+      "score": 0.9455408851305643,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I am strong enough to fight against it.",
+      "score": 0.9740176945924759,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The strength of the ship.",
+      "score": 0.9918732047080994,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "No, it's not.",
+      "score": 0.3168838322162628,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The sea is full of water.",
+      "score": 0.7698346972465515,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "laughing",
+      "score": 0.22541925311088562,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Red-haired people.",
+      "score": 0.9079170227050781,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Shanks is a very good man.",
+      "score": 0.9033874273300171,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap_ocr_otsu\\json\\pg_4.json",
+    "fb_json": "outputs\\jap_ocr_otsu\\translation_fb\\pg_4.json",
+    "hl_json": "outputs\\jap_ocr_otsu\\translation_hl\\pg_4.json",
+    "nllb_json": "outputs\\jap_ocr_otsu\\translation_nllb\\pg_4.json"
+  }
+}
