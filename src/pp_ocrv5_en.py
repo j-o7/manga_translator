@@ -192,8 +192,8 @@ def get_merged_dict(res_dict):
 
 if __name__ == "__main__":
     args = ArgumentParser()
-    args.add_argument("--in_dir", type=str, default="data/jap_imgs")
-    args.add_argument("--out_dir", type=str, default="outputs/")
+    args.add_argument("--in_dir", type=str, required=True, default="data/jap_imgs")
+    args.add_argument("--out_dir", type=str, required=True, default="outputs/")
     args = args.parse_args()
 
     INPUT_PNG_DIR = Path(args.in_dir)

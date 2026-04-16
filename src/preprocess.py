@@ -33,6 +33,15 @@ def resize_keep_aspect(img_bgr, max_side=2400):
     return resized, scale
 
 
+def resize_once(img_bgr, scale=1.0, max_side=2400):
+    if scale != 1.0:
+        img_bgr = cv2.resize(
+            img_bgr, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC
+        )
+    img_bgr, _ = resize_keep_aspect(img_bgr, max_side=max_side)
+    return img_bgr
+
+
 def _to_bgr(img_gray_or_bgr):
     if len(img_gray_or_bgr.shape) == 2:
         return cv2.cvtColor(img_gray_or_bgr, cv2.COLOR_GRAY2BGR)
@@ -42,17 +51,8 @@ def _to_bgr(img_gray_or_bgr):
 def preprocess_for_manga(
     img_bgr,
     technique="otsu",
-    scale=1.0,
-    max_side=2400,
     denoise_h=8,
 ):
-    if scale != 1.0:
-        img_bgr = cv2.resize(
-            img_bgr, None, fx=scale, fy=scale, interpolation=cv2.INTER_CUBIC
-        )
-
-    img_bgr, resize_scale = resize_keep_aspect(img_bgr, max_side=max_side)
-
     gray = cv2.cvtColor(img_bgr, cv2.COLOR_BGR2GRAY)
     gray = cv2.fastNlMeansDenoising(gray, h=denoise_h)
 
@@ -108,17 +108,10 @@ def preprocess_for_manga(
             f"Unknown technique '{technique}'. Choose from: {sorted(TECHNIQUES)}"
         )
 
-    return _to_bgr(out), resize_scale
+    return _to_bgr(out)
 
 
-def convert_one(
-    in_path: Path,
-    out_path: Path,
-    technique: str,
-    scale: float,
-    max_side: int,
-    denoise_h: int,
-) -> None:
+def _load_image_rgb(in_path: Path) -> np.ndarray:
     with Image.open(in_path) as im:
         im = ImageOps.exif_transpose(im)
         if im.mode in ("RGBA", "LA"):
@@ -128,19 +121,7 @@ def convert_one(
         else:
             im = im.convert("RGB")
 
-        img_bgr = cv2.cvtColor(np.array(im), cv2.COLOR_RGB2BGR)
-        processed_bgr, _ = preprocess_for_manga(
-            img_bgr,
-            technique=technique,
-            scale=scale,
-            max_side=max_side,
-            denoise_h=denoise_h,
-        )
-
-        out_path.parent.mkdir(parents=True, exist_ok=True)
-        ok = cv2.imwrite(str(out_path), processed_bgr)
-        if not ok:
-            raise RuntimeError(f"Failed to write output image: {out_path}")
+        return cv2.cvtColor(np.array(im), cv2.COLOR_RGB2BGR)
 
 
 def main() -> None:
@@ -178,9 +159,6 @@ def main() -> None:
     args = ap.parse_args()
 
     in_dir = Path(args.in_dir)
-    out_dir = Path(args.out_dir) / args.technique
-    # out_dir.mkdir(parents=True, exist_ok=True)
-
     pattern = "**/*" if args.recursive else "*"
     files = [p for p in in_dir.glob(pattern) if p.is_file() and p.suffix.lower() in SUPPORTED_EXTS]
 
@@ -194,26 +172,47 @@ def main() -> None:
         else [args.technique]
     )
 
-    written = 0
+    out_root = Path(args.out_dir)
+    resized_dir = out_root / "resized_original"
+    resized_dir.mkdir(parents=True, exist_ok=True)
 
     for tech in techniques_to_run:
-        out_dir = Path(f"{args.out_dir}/{tech}")
-        out_dir.mkdir(parents=True, exist_ok=True)
+        (out_root / tech).mkdir(parents=True, exist_ok=True)
 
-        for p in sorted(files):
-            out_path = out_dir / f"{p.stem}.png"
+    written = 0
+
+    for p in sorted(files):
+        img_bgr = _load_image_rgb(p)
+
+        resized_bgr = resize_once(
+            img_bgr,
+            scale=args.scale,
+            max_side=args.max_side,
+        )
+
+        resized_out = resized_dir / f"{p.stem}.png"
+        if not resized_out.exists():
+            ok = cv2.imwrite(str(resized_out), resized_bgr)
+            if not ok:
+                raise RuntimeError(f"Failed to write resized original: {resized_out}")
+            print(f"Wrote resized original: {resized_out}")
+
+        for tech in techniques_to_run:
+            out_path = out_root / tech / f"{p.stem}.png"
             if out_path.exists():
-                print(f"Skipping {p} (already exists: {out_path})")
+                print(f"Skipping {p} for '{tech}' (already exists: {out_path})")
                 continue
 
-            convert_one(
-                p,
-                out_path,
+            processed_bgr = preprocess_for_manga(
+                resized_bgr,
                 technique=tech,
-                scale=args.scale,
-                max_side=args.max_side,
                 denoise_h=args.denoise_h,
             )
+
+            ok = cv2.imwrite(str(out_path), processed_bgr)
+            if not ok:
+                raise RuntimeError(f"Failed to write output image: {out_path}")
+
             written += 1
             print(f"Wrote: {out_path}")
 
@@ -221,6 +220,8 @@ def main() -> None:
         print(f"Done. Converted {len(files)} file(s) across {len(techniques_to_run)} techniques.")
     else:
         print(f"Done. Converted {len(files)} file(s) with technique='{args.technique}'.")
+
+    print(f"Resized originals saved in: {resized_dir}")
 
 
 if __name__ == "__main__":

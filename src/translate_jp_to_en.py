@@ -91,6 +91,58 @@ def normalize_text(text: Optional[str]) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+def remove_repetitive_text(text: Optional[str]) -> str:
+    text = normalize_text(text)
+    if not text:
+        return ""
+
+    # Pass 1: remove consecutive repeated clauses (handles: "I'm sorry, I'm sorry, ...")
+    clauses = re.findall(r"[^,;:.!?]+[,;:.!?]?", text)
+    dedup_clauses = []
+    prev_key = None
+    for c in clauses:
+        c = c.strip()
+        if not c:
+            continue
+        key = re.sub(r"[^\w]+", " ", c.lower()).strip()
+        if key and key == prev_key:
+            continue
+        dedup_clauses.append(c)
+        prev_key = key
+    text = " ".join(dedup_clauses)
+    text = re.sub(r"\s+([,;:.!?])", r"\1", text)
+    text = normalize_text(text)
+
+    # Pass 2: collapse repeated token chunks (handles: "do not do it? do not do it?")
+    toks = text.split()
+    if len(toks) < 4:
+        return text
+
+    out = []
+    i = 0
+    max_chunk = min(10, max(2, len(toks) // 2))
+    while i < len(toks):
+        collapsed = False
+        for n in range(max_chunk, 1, -1):
+            if i + 2 * n > len(toks):
+                continue
+            chunk = toks[i:i + n]
+            rep = 1
+            j = i + n
+            while j + n <= len(toks) and toks[j:j + n] == chunk:
+                rep += 1
+                j += n
+            if rep > 1:
+                out.extend(chunk)   # keep one copy only
+                i = j
+                collapsed = True
+                break
+        if not collapsed:
+            out.append(toks[i])
+            i += 1
+
+    return normalize_text(" ".join(out))
+
 def get_ja_text(it: Dict[str, Any]) -> str:
     for k in ["ja_text", "text", "ocr_text", "jp_text"]:
         if k in it:
@@ -166,7 +218,8 @@ def translate_fb(model, tokenizer, items):
     new_items = []
     for it in items:
         ja = get_ja_text(it)
-        en = translate_ja_to_en_fb(ja) if ja else ""
+        en_raw = translate_ja_to_en_fb(ja) if ja else ""
+        en = remove_repetitive_text(en_raw)
         new_it = dict(it)
         new_it["ja_text"] = ja
         new_it["en_text"] = en
@@ -200,7 +253,8 @@ def translate_hl(model, tokenizer,items):
     new_items = []
     for it in items:
         ja = get_ja_text(it)
-        en = translate_ja_to_en_hl(ja) if ja else ""
+        en_raw = translate_ja_to_en_hl(ja) if ja else ""
+        en = remove_repetitive_text(en_raw)
         new_it = dict(it)
         new_it["ja_text"] = ja
         new_it["en_text"] = en
@@ -237,7 +291,8 @@ def translate_nllb(model, tokenizer, items):
     new_items = []
     for it in items:
         ja = get_ja_text(it)
-        en = translate_ja_to_en_nllb(ja) if ja else ""
+        en_raw = translate_ja_to_en_nllb(ja) if ja else ""
+        en = remove_repetitive_text(en_raw)
         new_it = dict(it)
         new_it["ja_text"] = ja
         new_it["en_text"] = en
