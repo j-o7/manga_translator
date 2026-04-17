@@ -1,0 +1,122 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_48.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        585,
+        169
+      ],
+      [
+        641,
+        169
+      ],
+      [
+        641,
+        310
+      ],
+      [
+        585,
+        310
+      ]
+    ],
+    [
+      [
+        408,
+        148
+      ],
+      [
+        603,
+        148
+      ],
+      [
+        603,
+        326
+      ],
+      [
+        408,
+        326
+      ]
+    ],
+    [
+      [
+        309,
+        683
+      ],
+      [
+        330,
+        683
+      ],
+      [
+        330,
+        701
+      ],
+      [
+        309,
+        701
+      ]
+    ]
+  ],
+  "texts": [
+    "The pistol is a pistol.",
+    "The gun.",
+    "The river"
+  ],
+  "scores": [
+    0.9833022952079773,
+    0.7896304726600647,
+    0.1953127533197403
+  ],
+  "best_model": [
+    "nllb",
+    "fb",
+    "fb"
+  ],
+  "best_model_score": [
+    0.9833022952079773,
+    0.7896304726600647,
+    0.1953127533197403
+  ],
+  "source_texts": [
+    "ピストル",
+    "銃",
+    "川"
+  ],
+  "base_ocr_scores": [
+    0.9833022952079773,
+    0.7896304726600647,
+    0.1953127533197403
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "The pistol is a pistol.",
+      "score": 0.9833022952079773,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The gun.",
+      "score": 0.7896304726600647,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The river",
+      "score": 0.1953127533197403,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_48.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_48.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_48.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_48.json"
+  }
+}

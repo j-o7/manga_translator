@@ -1,0 +1,570 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_4.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        871,
+        1120
+      ],
+      [
+        933,
+        1120
+      ],
+      [
+        933,
+        1241
+      ],
+      [
+        871,
+        1241
+      ]
+    ],
+    [
+      [
+        858,
+        401
+      ],
+      [
+        962,
+        401
+      ],
+      [
+        962,
+        558
+      ],
+      [
+        858,
+        558
+      ]
+    ],
+    [
+      [
+        793,
+        1126
+      ],
+      [
+        850,
+        1126
+      ],
+      [
+        850,
+        1286
+      ],
+      [
+        793,
+        1286
+      ]
+    ],
+    [
+      [
+        762,
+        117
+      ],
+      [
+        868,
+        117
+      ],
+      [
+        868,
+        266
+      ],
+      [
+        762,
+        266
+      ]
+    ],
+    [
+      [
+        643,
+        398
+      ],
+      [
+        682,
+        398
+      ],
+      [
+        682,
+        559
+      ],
+      [
+        643,
+        559
+      ]
+    ],
+    [
+      [
+        628,
+        1127
+      ],
+      [
+        754,
+        1127
+      ],
+      [
+        754,
+        1322
+      ],
+      [
+        628,
+        1322
+      ]
+    ],
+    [
+      [
+        445,
+        1125
+      ],
+      [
+        599,
+        1125
+      ],
+      [
+        599,
+        1593
+      ],
+      [
+        445,
+        1593
+      ]
+    ],
+    [
+      [
+        429,
+        389
+      ],
+      [
+        558,
+        389
+      ],
+      [
+        558,
+        556
+      ],
+      [
+        429,
+        556
+      ]
+    ],
+    [
+      [
+        252,
+        387
+      ],
+      [
+        352,
+        387
+      ],
+      [
+        352,
+        558
+      ],
+      [
+        252,
+        558
+      ]
+    ],
+    [
+      [
+        164,
+        22
+      ],
+      [
+        266,
+        22
+      ],
+      [
+        266,
+        177
+      ],
+      [
+        164,
+        177
+      ]
+    ],
+    [
+      [
+        160,
+        402
+      ],
+      [
+        195,
+        402
+      ],
+      [
+        195,
+        527
+      ],
+      [
+        160,
+        527
+      ]
+    ],
+    [
+      [
+        15,
+        392
+      ],
+      [
+        127,
+        392
+      ],
+      [
+        127,
+        514
+      ],
+      [
+        15,
+        514
+      ]
+    ],
+    [
+      [
+        0,
+        68
+      ],
+      [
+        132,
+        68
+      ],
+      [
+        132,
+        205
+      ],
+      [
+        0,
+        205
+      ]
+    ],
+    [
+      [
+        0,
+        1200
+      ],
+      [
+        103,
+        1200
+      ],
+      [
+        103,
+        1503
+      ],
+      [
+        0,
+        1503
+      ]
+    ],
+    [
+      [
+        321,
+        95
+      ],
+      [
+        355,
+        95
+      ],
+      [
+        355,
+        134
+      ],
+      [
+        321,
+        134
+      ]
+    ],
+    [
+      [
+        134,
+        540
+      ],
+      [
+        528,
+        540
+      ],
+      [
+        528,
+        665
+      ],
+      [
+        134,
+        665
+      ]
+    ],
+    [
+      [
+        676,
+        565
+      ],
+      [
+        868,
+        570
+      ],
+      [
+        866,
+        647
+      ],
+      [
+        674,
+        642
+      ]
+    ]
+  ],
+  "texts": [
+    "Oh Oh",
+    "I'm not sure if I'll drink or not.",
+    "there was no",
+    "Let's drink to the boys.",
+    "Enough is enough.",
+    "No way! You're such an idiot!",
+    "I'm injured and I'm not afraid of anything! take me to the next ship.",
+    "I'm the fucking meat!",
+    "I'm going to eat.",
+    "Roots and Roots of Rufus",
+    "I'm going to tell you something.",
+    "It's hard to see a fight.",
+    "Our great expedition.",
+    "You want to be a pirate and become a pirate.",
+    "hanging",
+    "The grass is soaked.",
+    "Oh, and oh, oh,"
+  ],
+  "scores": [
+    0.9276219606399536,
+    0.9696507751941681,
+    0.9426876902580261,
+    0.9110829532146454,
+    0.8995363116264343,
+    0.8117445508639017,
+    0.9307867685953776,
+    0.8758855859438578,
+    0.8611531257629395,
+    0.9931992590427399,
+    0.9672264456748962,
+    0.985745906829834,
+    0.9465251962343851,
+    0.9415656626224518,
+    0.13747024536132812,
+    0.5705318450927734,
+    0.49228063225746155
+  ],
+  "best_model": [
+    "fb",
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "fb",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.9276219606399536,
+    0.9696507751941681,
+    0.9426876902580261,
+    0.9110829532146454,
+    0.8995363116264343,
+    0.8117445508639017,
+    0.9307867685953776,
+    0.8758855859438578,
+    0.8611531257629395,
+    0.9931992590427399,
+    0.9672264456748962,
+    0.985745906829834,
+    0.9465251962343851,
+    0.9415656626224518,
+    0.13747024536132812,
+    0.5705318450927734,
+    0.49228063225746155
+  ],
+  "source_texts": [
+    "あ",
+    "がははは飲め飲め",
+    "なかった",
+    "野郎共乾杯だ",
+    "足りねエよ",
+    "うそつけ!バカな事んじやねエ",
+    "おれはケガだてぜんぜん恐くないんだ!!連れててれよ次の航海",
+    "バカその肉はオレんだ![バカ]",
+    "うるせエ!おれが食う",
+    "ルフの根性と",
+    "おいよせ",
+    "ケンカは見苦しいぞ",
+    "おれ達の大いなる旅",
+    "おれて海賊になりたいんだよ",
+    "吊",
+    "ギれぼははぼ",
+    "ほはほ"
+  ],
+  "base_ocr_scores": [
+    0.9276219606399536,
+    0.9696507751941681,
+    0.9426876902580261,
+    0.9110829532146454,
+    0.8995363116264343,
+    0.8117445508639017,
+    0.9307867685953776,
+    0.8758855859438578,
+    0.8611531257629395,
+    0.9931992590427399,
+    0.9672264456748962,
+    0.985745906829834,
+    0.9465251962343851,
+    0.9415656626224518,
+    0.13747024536132812,
+    0.5705318450927734,
+    0.49228063225746155
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "Oh Oh",
+      "score": 0.9276219606399536,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm not sure if I'll drink or not.",
+      "score": 0.9696507751941681,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "there was no",
+      "score": 0.9426876902580261,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Let's drink to the boys.",
+      "score": 0.9110829532146454,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Enough is enough.",
+      "score": 0.8995363116264343,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "No way! You're such an idiot!",
+      "score": 0.8117445508639017,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I'm injured and I'm not afraid of anything! take me to the next ship.",
+      "score": 0.9307867685953776,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm the fucking meat!",
+      "score": 0.8758855859438578,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to eat.",
+      "score": 0.8611531257629395,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Roots and Roots of Rufus",
+      "score": 0.9931992590427399,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to tell you something.",
+      "score": 0.9672264456748962,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's hard to see a fight.",
+      "score": 0.985745906829834,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Our great expedition.",
+      "score": 0.9465251962343851,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You want to be a pirate and become a pirate.",
+      "score": 0.9415656626224518,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "hanging",
+      "score": 0.13747024536132812,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The grass is soaked.",
+      "score": 0.5705318450927734,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Oh, and oh, oh,",
+      "score": 0.49228063225746155,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_4.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_4.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_4.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_4.json"
+  }
+}

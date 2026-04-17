@@ -1,0 +1,154 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_40.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        29,
+        334
+      ],
+      [
+        130,
+        334
+      ],
+      [
+        130,
+        563
+      ],
+      [
+        29,
+        563
+      ]
+    ],
+    [
+      [
+        0,
+        0
+      ],
+      [
+        327,
+        0
+      ],
+      [
+        327,
+        374
+      ],
+      [
+        0,
+        374
+      ]
+    ],
+    [
+      [
+        523,
+        352
+      ],
+      [
+        807,
+        352
+      ],
+      [
+        807,
+        641
+      ],
+      [
+        523,
+        641
+      ]
+    ],
+    [
+      [
+        110,
+        656
+      ],
+      [
+        149,
+        656
+      ],
+      [
+        149,
+        693
+      ],
+      [
+        110,
+        693
+      ]
+    ]
+  ],
+  "texts": [
+    "Get the fuck out of here.",
+    "Old man,",
+    "The mouth",
+    "It's good."
+  ],
+  "scores": [
+    0.9044284820556641,
+    0.024270430207252502,
+    0.3701479732990265,
+    0.09071092307567596
+  ],
+  "best_model": [
+    "hl",
+    "nllb",
+    "fb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9044284820556641,
+    0.024270430207252502,
+    0.3701479732990265,
+    0.09071092307567596
+  ],
+  "source_texts": [
+    "失せろ",
+    "老",
+    "口",
+    "品"
+  ],
+  "base_ocr_scores": [
+    0.9044284820556641,
+    0.024270430207252502,
+    0.3701479732990265,
+    0.09071092307567596
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "Get the fuck out of here.",
+      "score": 0.9044284820556641,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Old man,",
+      "score": 0.024270430207252502,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The mouth",
+      "score": 0.3701479732990265,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's good.",
+      "score": 0.09071092307567596,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_40.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_40.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_40.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_40.json"
+  }
+}

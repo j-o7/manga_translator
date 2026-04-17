@@ -1,0 +1,218 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_25.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        701,
+        467
+      ],
+      [
+        783,
+        467
+      ],
+      [
+        783,
+        596
+      ],
+      [
+        701,
+        596
+      ]
+    ],
+    [
+      [
+        691,
+        -1
+      ],
+      [
+        774,
+        -1
+      ],
+      [
+        774,
+        372
+      ],
+      [
+        691,
+        372
+      ]
+    ],
+    [
+      [
+        307,
+        679
+      ],
+      [
+        365,
+        679
+      ],
+      [
+        365,
+        855
+      ],
+      [
+        307,
+        855
+      ]
+    ],
+    [
+      [
+        29,
+        52
+      ],
+      [
+        123,
+        52
+      ],
+      [
+        123,
+        190
+      ],
+      [
+        29,
+        190
+      ]
+    ],
+    [
+      [
+        11,
+        690
+      ],
+      [
+        110,
+        690
+      ],
+      [
+        110,
+        860
+      ],
+      [
+        11,
+        860
+      ]
+    ],
+    [
+      [
+        11,
+        998
+      ],
+      [
+        115,
+        998
+      ],
+      [
+        115,
+        1254
+      ],
+      [
+        11,
+        1254
+      ]
+    ]
+  ],
+  "texts": [
+    "It's a little bit of a mess.",
+    "Oh Oh Oh Oh!",
+    "I've been drinking two drinks and I've been talking to you two.",
+    "I was so excited to get to know you.",
+    "I have said something about you (and I have said something about you).",
+    "Let's make a mistake."
+  ],
+  "scores": [
+    0.9123615026473999,
+    0.8051488995552063,
+    0.5799511720736822,
+    0.5277773141860962,
+    0.8226369917392731,
+    0.9271617829799652
+  ],
+  "best_model": [
+    "nllb",
+    "fb",
+    "hl",
+    "nllb",
+    "fb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9123615026473999,
+    0.8051488995552063,
+    0.5799511720736822,
+    0.5277773141860962,
+    0.8226369917392731,
+    0.9271617829799652
+  ],
+  "source_texts": [
+    "ガキ",
+    "うわああ~~!!",
+    "二酒飲んで語ちてたってのに...[二]",
+    "しつこいミ......",
+    "このおれが何かお前の気にさわる)事でも言ったかい[)]",
+    "あやまれちくしよう"
+  ],
+  "base_ocr_scores": [
+    0.9123615026473999,
+    0.8051488995552063,
+    0.5799511720736822,
+    0.5277773141860962,
+    0.8226369917392731,
+    0.9271617829799652
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "It's a little bit of a mess.",
+      "score": 0.9123615026473999,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Oh Oh Oh Oh!",
+      "score": 0.8051488995552063,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I've been drinking two drinks and I've been talking to you two.",
+      "score": 0.5799511720736822,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I was so excited to get to know you.",
+      "score": 0.5277773141860962,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I have said something about you (and I have said something about you).",
+      "score": 0.8226369917392731,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Let's make a mistake.",
+      "score": 0.9271617829799652,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_25.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_25.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_25.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_25.json"
+  }
+}

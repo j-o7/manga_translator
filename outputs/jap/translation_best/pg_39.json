@@ -1,0 +1,186 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_39.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        698,
+        1121
+      ],
+      [
+        749,
+        1121
+      ],
+      [
+        749,
+        1284
+      ],
+      [
+        698,
+        1284
+      ]
+    ],
+    [
+      [
+        684,
+        370
+      ],
+      [
+        789,
+        370
+      ],
+      [
+        789,
+        593
+      ],
+      [
+        684,
+        593
+      ]
+    ],
+    [
+      [
+        0,
+        223
+      ],
+      [
+        610,
+        264
+      ],
+      [
+        589,
+        601
+      ],
+      [
+        0,
+        559
+      ]
+    ],
+    [
+      [
+        521,
+        339
+      ],
+      [
+        622,
+        353
+      ],
+      [
+        613,
+        418
+      ],
+      [
+        512,
+        404
+      ]
+    ],
+    [
+      [
+        414,
+        1019
+      ],
+      [
+        430,
+        1019
+      ],
+      [
+        430,
+        1035
+      ],
+      [
+        414,
+        1035
+      ]
+    ]
+  ],
+  "texts": [
+    "Shanks is a very good man.",
+    "Oh Oh Oh Oh",
+    "it's just a matter of time.",
+    "It's a shop.",
+    "Two."
+  ],
+  "scores": [
+    0.9921759366989136,
+    0.9475044310092926,
+    0.06489051878452301,
+    0.052735067903995514,
+    0.2650455832481384
+  ],
+  "best_model": [
+    "nllb",
+    "fb",
+    "hl",
+    "hl",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9921759366989136,
+    0.9475044310092926,
+    0.06489051878452301,
+    0.052735067903995514,
+    0.2650455832481384
+  ],
+  "source_texts": [
+    "シャンクス",
+    "うわああああああああ",
+    "开",
+    "店",
+    "二"
+  ],
+  "base_ocr_scores": [
+    0.9921759366989136,
+    0.9475044310092926,
+    0.06489051878452301,
+    0.052735067903995514,
+    0.2650455832481384
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "Shanks is a very good man.",
+      "score": 0.9921759366989136,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Oh Oh Oh Oh",
+      "score": 0.9475044310092926,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "it's just a matter of time.",
+      "score": 0.06489051878452301,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's a shop.",
+      "score": 0.052735067903995514,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Two.",
+      "score": 0.2650455832481384,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_39.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_39.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_39.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_39.json"
+  }
+}

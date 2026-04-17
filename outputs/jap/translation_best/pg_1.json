@@ -1,0 +1,314 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_1.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        648,
+        458
+      ],
+      [
+        734,
+        458
+      ],
+      [
+        734,
+        597
+      ],
+      [
+        648,
+        597
+      ]
+    ],
+    [
+      [
+        558,
+        1072
+      ],
+      [
+        721,
+        1072
+      ],
+      [
+        721,
+        1283
+      ],
+      [
+        558,
+        1283
+      ]
+    ],
+    [
+      [
+        544,
+        461
+      ],
+      [
+        621,
+        461
+      ],
+      [
+        621,
+        623
+      ],
+      [
+        544,
+        623
+      ]
+    ],
+    [
+      [
+        56,
+        1071
+      ],
+      [
+        179,
+        1071
+      ],
+      [
+        179,
+        1297
+      ],
+      [
+        56,
+        1297
+      ]
+    ],
+    [
+      [
+        50,
+        156
+      ],
+      [
+        98,
+        156
+      ],
+      [
+        98,
+        332
+      ],
+      [
+        50,
+        332
+      ]
+    ],
+    [
+      [
+        14,
+        1
+      ],
+      [
+        148,
+        1
+      ],
+      [
+        148,
+        58
+      ],
+      [
+        14,
+        58
+      ]
+    ],
+    [
+      [
+        799,
+        78
+      ],
+      [
+        173,
+        60
+      ],
+      [
+        175,
+        5
+      ],
+      [
+        800,
+        23
+      ]
+    ],
+    [
+      [
+        518,
+        25
+      ],
+      [
+        473,
+        25
+      ],
+      [
+        473,
+        10
+      ],
+      [
+        518,
+        10
+      ]
+    ],
+    [
+      [
+        430,
+        863
+      ],
+      [
+        440,
+        863
+      ],
+      [
+        440,
+        873
+      ],
+      [
+        430,
+        873
+      ]
+    ]
+  ],
+  "texts": [
+    "My treasure is mine.",
+    "It's where I've left everything in this world.",
+    "I will give you. the glory.",
+    "We can replace the great pirates.",
+    "I've been to people all over the world.",
+    "&lt; i&gt; Hugo Barra&lt; /i&gt; &lt; i&gt;",
+    "- It was a rough dawn.",
+    "\"I'm not a fan of the show.",
+    "it's just a matter of time."
+  ],
+  "scores": [
+    0.7905272245407104,
+    0.856172576546669,
+    0.6880590319633484,
+    0.7911551296710968,
+    0.8732239007949829,
+    0.9470066428184509,
+    0.8992754220962524,
+    0.8816283345222473,
+    0.0890740379691124
+  ],
+  "best_model": [
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "nllb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.7905272245407104,
+    0.856172576546669,
+    0.6880590319633484,
+    0.7911551296710968,
+    0.8732239007949829,
+    0.9470066428184509,
+    0.8992754220962524,
+    0.8816283345222473,
+    0.0890740379691124
+  ],
+  "source_texts": [
+    "おれのん財宝",
+    "き探この世の全てをそこに置いてきた[そこに]",
+    "くれてやる...庄",
+    "大海賊代える",
+    "全世界の人々を",
+    "第話",
+    "-昌険の夜明け",
+    "一",
+    "产"
+  ],
+  "base_ocr_scores": [
+    0.7905272245407104,
+    0.856172576546669,
+    0.6880590319633484,
+    0.7911551296710968,
+    0.8732239007949829,
+    0.9470066428184509,
+    0.8992754220962524,
+    0.8816283345222473,
+    0.0890740379691124
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "My treasure is mine.",
+      "score": 0.7905272245407104,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's where I've left everything in this world.",
+      "score": 0.856172576546669,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I will give you. the glory.",
+      "score": 0.6880590319633484,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "We can replace the great pirates.",
+      "score": 0.7911551296710968,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I've been to people all over the world.",
+      "score": 0.8732239007949829,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "&lt; i&gt; Hugo Barra&lt; /i&gt; &lt; i&gt;",
+      "score": 0.9470066428184509,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "- It was a rough dawn.",
+      "score": 0.8992754220962524,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "\"I'm not a fan of the show.",
+      "score": 0.8816283345222473,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "it's just a matter of time.",
+      "score": 0.0890740379691124,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_1.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_1.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_1.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_1.json"
+  }
+}

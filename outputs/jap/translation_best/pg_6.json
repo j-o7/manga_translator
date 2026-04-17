@@ -1,0 +1,346 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_6.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        826,
+        380
+      ],
+      [
+        984,
+        380
+      ],
+      [
+        984,
+        526
+      ],
+      [
+        826,
+        526
+      ]
+    ],
+    [
+      [
+        731,
+        79
+      ],
+      [
+        839,
+        79
+      ],
+      [
+        839,
+        182
+      ],
+      [
+        731,
+        182
+      ]
+    ],
+    [
+      [
+        640,
+        383
+      ],
+      [
+        717,
+        383
+      ],
+      [
+        717,
+        500
+      ],
+      [
+        640,
+        500
+      ]
+    ],
+    [
+      [
+        464,
+        379
+      ],
+      [
+        584,
+        379
+      ],
+      [
+        584,
+        526
+      ],
+      [
+        464,
+        526
+      ]
+    ],
+    [
+      [
+        446,
+        1171
+      ],
+      [
+        570,
+        1171
+      ],
+      [
+        570,
+        1356
+      ],
+      [
+        446,
+        1356
+      ]
+    ],
+    [
+      [
+        240,
+        379
+      ],
+      [
+        404,
+        379
+      ],
+      [
+        404,
+        556
+      ],
+      [
+        240,
+        556
+      ]
+    ],
+    [
+      [
+        39,
+        23
+      ],
+      [
+        189,
+        23
+      ],
+      [
+        189,
+        251
+      ],
+      [
+        39,
+        251
+      ]
+    ],
+    [
+      [
+        39,
+        375
+      ],
+      [
+        155,
+        375
+      ],
+      [
+        155,
+        556
+      ],
+      [
+        39,
+        556
+      ]
+    ],
+    [
+      [
+        16,
+        1457
+      ],
+      [
+        75,
+        1457
+      ],
+      [
+        75,
+        1552
+      ],
+      [
+        16,
+        1552
+      ]
+    ],
+    [
+      [
+        7,
+        1188
+      ],
+      [
+        100,
+        1188
+      ],
+      [
+        100,
+        1371
+      ],
+      [
+        7,
+        1371
+      ]
+    ]
+  ],
+  "texts": [
+    "Fucking fucked up, you're a little bit of a bitch.",
+    "(Yes, it is true)",
+    "Let's do something!",
+    "It's fun to be a pirate.",
+    "Don't tell me what's wrong with you guys.",
+    "The sea is wide and mountains are wide and mountains are wide and mountains are wide and mountains are large and mountains are large and the mountains are large and the mountains are large and the mountains are large",
+    "What do you say about this book!",
+    "More free than anything!",
+    "Not to mention the fact that it's not.",
+    "There are many real things about people."
+  ],
+  "scores": [
+    0.8858479261398315,
+    0.6930558681488037,
+    0.9597273468971252,
+    0.878921389579773,
+    0.6704104132950306,
+    0.619571641087532,
+    0.7494574412703514,
+    0.8509835600852966,
+    0.7470705509185791,
+    0.8172092835108439
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8858479261398315,
+    0.6930558681488037,
+    0.9597273468971252,
+    0.878921389579773,
+    0.6704104132950306,
+    0.619571641087532,
+    0.7494574412703514,
+    0.8509835600852966,
+    0.7470705509185791,
+    0.8172092835108439
+  ],
+  "source_texts": [
+    "おうおうルフイ!なんだかこきげんナナメだな",
+    "(一そう",
+    "いこうぜ何事も!",
+    "そう!海賊は楽しいぜエ",
+    "お前達バカな事中吹き込むなよ[中]",
+    "¥海は広いし天大きいし山いろんな島をはうけ人冒険するんだ[天¥はうけ人山]",
+    "なんだその本言い方はア!!!![!!!!本]",
+    "何より自由っ!!",
+    "なー",
+    "人とだて本当の事だもんな[人と]"
+  ],
+  "base_ocr_scores": [
+    0.8858479261398315,
+    0.6930558681488037,
+    0.9597273468971252,
+    0.878921389579773,
+    0.6704104132950306,
+    0.619571641087532,
+    0.7494574412703514,
+    0.8509835600852966,
+    0.7470705509185791,
+    0.8172092835108439
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "Fucking fucked up, you're a little bit of a bitch.",
+      "score": 0.8858479261398315,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "(Yes, it is true)",
+      "score": 0.6930558681488037,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Let's do something!",
+      "score": 0.9597273468971252,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's fun to be a pirate.",
+      "score": 0.878921389579773,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Don't tell me what's wrong with you guys.",
+      "score": 0.6704104132950306,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The sea is wide and mountains are wide and mountains are wide and mountains are wide and mountains are large and mountains are large and the mountains are large and the mountains are large and the mountains are large",
+      "score": 0.619571641087532,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "What do you say about this book!",
+      "score": 0.7494574412703514,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "More free than anything!",
+      "score": 0.8509835600852966,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Not to mention the fact that it's not.",
+      "score": 0.7470705509185791,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "There are many real things about people.",
+      "score": 0.8172092835108439,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_6.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_6.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_6.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_6.json"
+  }
+}

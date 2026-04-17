@@ -1,0 +1,378 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_18.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        696,
+        428
+      ],
+      [
+        792,
+        428
+      ],
+      [
+        792,
+        811
+      ],
+      [
+        696,
+        811
+      ]
+    ],
+    [
+      [
+        589,
+        923
+      ],
+      [
+        643,
+        923
+      ],
+      [
+        643,
+        994
+      ],
+      [
+        589,
+        994
+      ]
+    ],
+    [
+      [
+        511,
+        692
+      ],
+      [
+        557,
+        692
+      ],
+      [
+        557,
+        832
+      ],
+      [
+        511,
+        832
+      ]
+    ],
+    [
+      [
+        432,
+        488
+      ],
+      [
+        515,
+        488
+      ],
+      [
+        515,
+        583
+      ],
+      [
+        432,
+        583
+      ]
+    ],
+    [
+      [
+        430,
+        939
+      ],
+      [
+        562,
+        939
+      ],
+      [
+        562,
+        1247
+      ],
+      [
+        430,
+        1247
+      ]
+    ],
+    [
+      [
+        314,
+        913
+      ],
+      [
+        411,
+        913
+      ],
+      [
+        411,
+        1079
+      ],
+      [
+        314,
+        1079
+      ]
+    ],
+    [
+      [
+        200,
+        473
+      ],
+      [
+        293,
+        473
+      ],
+      [
+        293,
+        768
+      ],
+      [
+        200,
+        768
+      ]
+    ],
+    [
+      [
+        14,
+        902
+      ],
+      [
+        126,
+        902
+      ],
+      [
+        126,
+        1035
+      ],
+      [
+        14,
+        1035
+      ]
+    ],
+    [
+      [
+        13,
+        282
+      ],
+      [
+        76,
+        282
+      ],
+      [
+        76,
+        427
+      ],
+      [
+        13,
+        427
+      ]
+    ],
+    [
+      [
+        11,
+        1217
+      ],
+      [
+        70,
+        1217
+      ],
+      [
+        70,
+        1298
+      ],
+      [
+        11,
+        1298
+      ]
+    ],
+    [
+      [
+        334,
+        141
+      ],
+      [
+        808,
+        141
+      ],
+      [
+        808,
+        444
+      ],
+      [
+        334,
+        444
+      ]
+    ]
+  ],
+  "texts": [
+    "My hand was stumbling.",
+    "What is it?",
+    "I'm going to be a little bit more careful.",
+    "You are the one who is the one who is the one who is the most powerful.",
+    "The fruit of Cacon taken from the mu enemy ship is mu.",
+    "I can't believe this is happening.",
+    "What is this woman!",
+    "The dessert. p",
+    "What are you talking about?",
+    "But first, it's a bit of a shock.",
+    "- What are you doing?"
+  ],
+  "scores": [
+    0.8549745082855225,
+    0.959716796875,
+    0.7086445093154907,
+    0.6963319977124532,
+    0.6808344125747681,
+    0.9430729746818542,
+    0.7086860537528992,
+    0.7593627770741781,
+    0.8674746751785278,
+    0.8701054751873016,
+    0.4395766258239746
+  ],
+  "best_model": [
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "hl",
+    "fb",
+    "fb",
+    "hl",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8549745082855225,
+    0.959716796875,
+    0.7086445093154907,
+    0.6963319977124532,
+    0.6808344125747681,
+    0.9430729746818542,
+    0.7086860537528992,
+    0.7593627770741781,
+    0.8674746751785278,
+    0.8701054751873016,
+    0.4395766258239746
+  ],
+  "source_texts": [
+    "手がのびた...",
+    "何",
+    "こリやあ",
+    "まさか文元お前[文元]",
+    "μ敵船から奪ったカコムの実が[μ]",
+    "ルおまさかこんなったんじゃ",
+    "女人何だこれつ![女人何だ]",
+    "......うんデザート......π",
+    "な...!?",
+    "まずかたけど",
+    "ー!"
+  ],
+  "base_ocr_scores": [
+    0.8549745082855225,
+    0.959716796875,
+    0.7086445093154907,
+    0.6963319977124532,
+    0.6808344125747681,
+    0.9430729746818542,
+    0.7086860537528992,
+    0.7593627770741781,
+    0.8674746751785278,
+    0.8701054751873016,
+    0.4395766258239746
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "My hand was stumbling.",
+      "score": 0.8549745082855225,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What is it?",
+      "score": 0.959716796875,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to be a little bit more careful.",
+      "score": 0.7086445093154907,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You are the one who is the one who is the one who is the most powerful.",
+      "score": 0.6963319977124532,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The fruit of Cacon taken from the mu enemy ship is mu.",
+      "score": 0.6808344125747681,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I can't believe this is happening.",
+      "score": 0.9430729746818542,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "What is this woman!",
+      "score": 0.7086860537528992,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The dessert. p",
+      "score": 0.7593627770741781,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "What are you talking about?",
+      "score": 0.8674746751785278,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "But first, it's a bit of a shock.",
+      "score": 0.8701054751873016,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "- What are you doing?",
+      "score": 0.4395766258239746,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_18.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_18.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_18.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_18.json"
+  }
+}

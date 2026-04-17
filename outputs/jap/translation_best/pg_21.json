@@ -1,0 +1,410 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_21.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        681,
+        537
+      ],
+      [
+        777,
+        537
+      ],
+      [
+        777,
+        686
+      ],
+      [
+        681,
+        686
+      ]
+    ],
+    [
+      [
+        671,
+        925
+      ],
+      [
+        759,
+        925
+      ],
+      [
+        759,
+        1060
+      ],
+      [
+        671,
+        1060
+      ]
+    ],
+    [
+      [
+        488,
+        122
+      ],
+      [
+        576,
+        122
+      ],
+      [
+        576,
+        242
+      ],
+      [
+        488,
+        242
+      ]
+    ],
+    [
+      [
+        481,
+        930
+      ],
+      [
+        611,
+        930
+      ],
+      [
+        611,
+        1092
+      ],
+      [
+        481,
+        1092
+      ]
+    ],
+    [
+      [
+        437,
+        784
+      ],
+      [
+        493,
+        784
+      ],
+      [
+        493,
+        880
+      ],
+      [
+        437,
+        880
+      ]
+    ],
+    [
+      [
+        428,
+        542
+      ],
+      [
+        524,
+        542
+      ],
+      [
+        524,
+        733
+      ],
+      [
+        428,
+        733
+      ]
+    ],
+    [
+      [
+        360,
+        943
+      ],
+      [
+        430,
+        943
+      ],
+      [
+        430,
+        1067
+      ],
+      [
+        360,
+        1067
+      ]
+    ],
+    [
+      [
+        319,
+        548
+      ],
+      [
+        408,
+        548
+      ],
+      [
+        408,
+        686
+      ],
+      [
+        319,
+        686
+      ]
+    ],
+    [
+      [
+        154,
+        1095
+      ],
+      [
+        202,
+        1095
+      ],
+      [
+        202,
+        1263
+      ],
+      [
+        154,
+        1263
+      ]
+    ],
+    [
+      [
+        56,
+        116
+      ],
+      [
+        157,
+        116
+      ],
+      [
+        157,
+        293
+      ],
+      [
+        56,
+        293
+      ]
+    ],
+    [
+      [
+        49,
+        321
+      ],
+      [
+        156,
+        321
+      ],
+      [
+        156,
+        484
+      ],
+      [
+        49,
+        484
+      ]
+    ],
+    [
+      [
+        46,
+        553
+      ],
+      [
+        146,
+        553
+      ],
+      [
+        146,
+        765
+      ],
+      [
+        46,
+        765
+      ]
+    ]
+  ],
+  "texts": [
+    "I had a lot of champagne on me!",
+    "I don't know, maquino's a once-in-a-lifetime thing.",
+    "The captain is far away from the sea and is far away from the sea.",
+    "You know, sometimes men have to do whatever they want.",
+    "I'm sorry for your loss.",
+    "I thought they were a good pirate.",
+    "I don't know what you're talking about.",
+    "I'm not sure if I'm being treated like that.",
+    "I'll be in your way.",
+    "It’s not time for you to get rid of it, Lucky.",
+    "No! I'm still letting you get away with that bandits thing!",
+    "I think seven years is cooler than being laughed at all."
+  ],
+  "scores": [
+    0.8721774369478226,
+    0.8585172494252523,
+    0.5461775243282319,
+    0.8786806106567383,
+    0.9244158267974854,
+    0.6918101112047831,
+    0.5208031336466471,
+    0.872354249159495,
+    0.9463609457015991,
+    0.8277655243873596,
+    0.8011018216609955,
+    0.5258247882127762
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "fb",
+    "hl",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "fb",
+    "hl",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8721774369478226,
+    0.8585172494252523,
+    0.5461775243282319,
+    0.8786806106567383,
+    0.9244158267974854,
+    0.6918101112047831,
+    0.5208031336466471,
+    0.872354249159495,
+    0.9463609457015991,
+    0.8277655243873596,
+    0.8011018216609955,
+    0.5258247882127762
+  ],
+  "source_texts": [
+    "おれはシャンクス達をかいかぶってたよ![おれはたよ!]",
+    "マキノはわかつてねエかな",
+    "#もう船長さん遠が航海に中出て長いわね[中#]",
+    "男にはやちなきやといけね時があるんだ[と]",
+    "げんめつしたね",
+    "もかいい海賊かと思ってたんだ[も]",
+    "*う...智ダメね私は[智]",
+    "そうかしち私はあんな事されても",
+    "邪魔する",
+    "そろそろさしくなってきたんじゃない?ルクイ[ルクイ]",
+    "ぜんぜん!おれはまだ許していんだあの上山賊の一件![上]",
+    "年中笑ってられる方が七年かっこいいと思うわ[年中七年]"
+  ],
+  "base_ocr_scores": [
+    0.8721774369478226,
+    0.8585172494252523,
+    0.5461775243282319,
+    0.8786806106567383,
+    0.9244158267974854,
+    0.6918101112047831,
+    0.5208031336466471,
+    0.872354249159495,
+    0.9463609457015991,
+    0.8277655243873596,
+    0.8011018216609955,
+    0.5258247882127762
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "I had a lot of champagne on me!",
+      "score": 0.8721774369478226,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know, maquino's a once-in-a-lifetime thing.",
+      "score": 0.8585172494252523,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The captain is far away from the sea and is far away from the sea.",
+      "score": 0.5461775243282319,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You know, sometimes men have to do whatever they want.",
+      "score": 0.8786806106567383,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm sorry for your loss.",
+      "score": 0.9244158267974854,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I thought they were a good pirate.",
+      "score": 0.6918101112047831,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know what you're talking about.",
+      "score": 0.5208031336466471,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm not sure if I'm being treated like that.",
+      "score": 0.872354249159495,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'll be in your way.",
+      "score": 0.9463609457015991,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "It’s not time for you to get rid of it, Lucky.",
+      "score": 0.8277655243873596,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "No! I'm still letting you get away with that bandits thing!",
+      "score": 0.8011018216609955,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I think seven years is cooler than being laughed at all.",
+      "score": 0.5258247882127762,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_21.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_21.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_21.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_21.json"
+  }
+}

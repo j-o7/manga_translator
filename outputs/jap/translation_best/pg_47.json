@@ -1,0 +1,122 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_47.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        303,
+        69
+      ],
+      [
+        382,
+        69
+      ],
+      [
+        382,
+        207
+      ],
+      [
+        303,
+        207
+      ]
+    ],
+    [
+      [
+        19,
+        431
+      ],
+      [
+        75,
+        431
+      ],
+      [
+        75,
+        585
+      ],
+      [
+        19,
+        585
+      ]
+    ],
+    [
+      [
+        11,
+        187
+      ],
+      [
+        55,
+        187
+      ],
+      [
+        55,
+        268
+      ],
+      [
+        11,
+        268
+      ]
+    ]
+  ],
+  "texts": [
+    "The Lord of the Near and Middle Seas is a man of great power.",
+    "He's been training for the year. He's here.",
+    "That's what I'm talking about."
+  ],
+  "scores": [
+    0.8600294987360636,
+    0.74629345536232,
+    0.9281728565692902
+  ],
+  "best_model": [
+    "nllb",
+    "hl",
+    "hl"
+  ],
+  "best_model_score": [
+    0.8600294987360636,
+    0.74629345536232,
+    0.9281728565692902
+  ],
+  "source_texts": [
+    "出たか人かい近海の主[人かい]",
+    "ね人きた年鍛え[ね人きた]",
+    "相手がわ[わ]"
+  ],
+  "base_ocr_scores": [
+    0.8600294987360636,
+    0.74629345536232,
+    0.9281728565692902
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "The Lord of the Near and Middle Seas is a man of great power.",
+      "score": 0.8600294987360636,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "He's been training for the year. He's here.",
+      "score": 0.74629345536232,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "That's what I'm talking about.",
+      "score": 0.9281728565692902,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_47.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_47.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_47.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_47.json"
+  }
+}

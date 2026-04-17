@@ -1,0 +1,378 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_32.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        715,
+        951
+      ],
+      [
+        767,
+        951
+      ],
+      [
+        767,
+        1029
+      ],
+      [
+        715,
+        1029
+      ]
+    ],
+    [
+      [
+        681,
+        720
+      ],
+      [
+        766,
+        720
+      ],
+      [
+        766,
+        835
+      ],
+      [
+        681,
+        835
+      ]
+    ],
+    [
+      [
+        673,
+        515
+      ],
+      [
+        760,
+        515
+      ],
+      [
+        760,
+        649
+      ],
+      [
+        673,
+        649
+      ]
+    ],
+    [
+      [
+        338,
+        528
+      ],
+      [
+        452,
+        528
+      ],
+      [
+        452,
+        769
+      ],
+      [
+        338,
+        769
+      ]
+    ],
+    [
+      [
+        318,
+        304
+      ],
+      [
+        342,
+        304
+      ],
+      [
+        342,
+        399
+      ],
+      [
+        318,
+        399
+      ]
+    ],
+    [
+      [
+        226,
+        119
+      ],
+      [
+        274,
+        119
+      ],
+      [
+        274,
+        392
+      ],
+      [
+        226,
+        392
+      ]
+    ],
+    [
+      [
+        133,
+        1189
+      ],
+      [
+        177,
+        1189
+      ],
+      [
+        177,
+        1253
+      ],
+      [
+        133,
+        1253
+      ]
+    ],
+    [
+      [
+        13,
+        126
+      ],
+      [
+        61,
+        126
+      ],
+      [
+        61,
+        379
+      ],
+      [
+        13,
+        379
+      ]
+    ],
+    [
+      [
+        54,
+        496
+      ],
+      [
+        266,
+        496
+      ],
+      [
+        266,
+        553
+      ],
+      [
+        54,
+        553
+      ]
+    ],
+    [
+      [
+        388,
+        583
+      ],
+      [
+        448,
+        583
+      ],
+      [
+        448,
+        646
+      ],
+      [
+        388,
+        646
+      ]
+    ],
+    [
+      [
+        370,
+        868
+      ],
+      [
+        751,
+        868
+      ],
+      [
+        751,
+        1077
+      ],
+      [
+        370,
+        1077
+      ]
+    ]
+  ],
+  "texts": [
+    "You are dying.",
+    "*The fact that the bandits are so nice makes them laugh.",
+    "The sea is full of pirates floating around.",
+    "You're a bastard and you're a fucking asshole.",
+    "Ninja.",
+    "The first is that it is a",
+    "and",
+    "What is it that you are saying?",
+    "Oh yeah yeah!",
+    "Oh, my God.",
+    "Ingredients"
+  ],
+  "scores": [
+    0.9037631750106812,
+    0.7805570214986801,
+    0.6701809167861938,
+    0.813263076543808,
+    0.9832664728164673,
+    0.9224727749824524,
+    0.6981677412986755,
+    0.8983157277107239,
+    0.9450733065605164,
+    0.09839360415935516,
+    0.20654964447021484
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "fb",
+    "nllb",
+    "fb",
+    "hl",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9037631750106812,
+    0.7805570214986801,
+    0.6701809167861938,
+    0.813263076543808,
+    0.9832664728164673,
+    0.9224727749824524,
+    0.6981677412986755,
+    0.8983157277107239,
+    0.9450733065605164,
+    0.09839360415935516,
+    0.20654964447021484
+  ],
+  "source_texts": [
+    "死ね",
+    "*山賊様仁たてつくとは笑わせる",
+    "海にブカブカ浮いてくうへうやてる海賊が",
+    "こしちまえブやろうとも野郎共[ブやろうともこ]",
+    "ンクス...",
+    "はつははは",
+    "お",
+    "許さねエだと?",
+    "うおおおっ!!",
+    "超",
+    "材"
+  ],
+  "base_ocr_scores": [
+    0.9037631750106812,
+    0.7805570214986801,
+    0.6701809167861938,
+    0.813263076543808,
+    0.9832664728164673,
+    0.9224727749824524,
+    0.6981677412986755,
+    0.8983157277107239,
+    0.9450733065605164,
+    0.09839360415935516,
+    0.20654964447021484
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "You are dying.",
+      "score": 0.9037631750106812,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "*The fact that the bandits are so nice makes them laugh.",
+      "score": 0.7805570214986801,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The sea is full of pirates floating around.",
+      "score": 0.6701809167861938,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You're a bastard and you're a fucking asshole.",
+      "score": 0.813263076543808,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Ninja.",
+      "score": 0.9832664728164673,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The first is that it is a",
+      "score": 0.9224727749824524,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "and",
+      "score": 0.6981677412986755,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What is it that you are saying?",
+      "score": 0.8983157277107239,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Oh yeah yeah!",
+      "score": 0.9450733065605164,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Oh, my God.",
+      "score": 0.09839360415935516,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Ingredients",
+      "score": 0.20654964447021484,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_32.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_32.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_32.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_32.json"
+  }
+}

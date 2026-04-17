@@ -1,0 +1,506 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_20.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        704,
+        32
+      ],
+      [
+        771,
+        32
+      ],
+      [
+        771,
+        167
+      ],
+      [
+        704,
+        167
+      ]
+    ],
+    [
+      [
+        626,
+        500
+      ],
+      [
+        747,
+        500
+      ],
+      [
+        747,
+        764
+      ],
+      [
+        626,
+        764
+      ]
+    ],
+    [
+      [
+        625,
+        877
+      ],
+      [
+        786,
+        877
+      ],
+      [
+        786,
+        1044
+      ],
+      [
+        625,
+        1044
+      ]
+    ],
+    [
+      [
+        467,
+        888
+      ],
+      [
+        557,
+        888
+      ],
+      [
+        557,
+        1023
+      ],
+      [
+        467,
+        1023
+      ]
+    ],
+    [
+      [
+        455,
+        1036
+      ],
+      [
+        510,
+        1036
+      ],
+      [
+        510,
+        1130
+      ],
+      [
+        455,
+        1130
+      ]
+    ],
+    [
+      [
+        441,
+        50
+      ],
+      [
+        571,
+        50
+      ],
+      [
+        571,
+        201
+      ],
+      [
+        441,
+        201
+      ]
+    ],
+    [
+      [
+        324,
+        45
+      ],
+      [
+        404,
+        45
+      ],
+      [
+        404,
+        167
+      ],
+      [
+        324,
+        167
+      ]
+    ],
+    [
+      [
+        270,
+        227
+      ],
+      [
+        287,
+        227
+      ],
+      [
+        287,
+        258
+      ],
+      [
+        270,
+        258
+      ]
+    ],
+    [
+      [
+        270,
+        898
+      ],
+      [
+        425,
+        898
+      ],
+      [
+        425,
+        1049
+      ],
+      [
+        270,
+        1049
+      ]
+    ],
+    [
+      [
+        178,
+        920
+      ],
+      [
+        211,
+        920
+      ],
+      [
+        211,
+        1035
+      ],
+      [
+        178,
+        1035
+      ]
+    ],
+    [
+      [
+        10,
+        507
+      ],
+      [
+        97,
+        507
+      ],
+      [
+        97,
+        766
+      ],
+      [
+        10,
+        766
+      ]
+    ],
+    [
+      [
+        7,
+        31
+      ],
+      [
+        180,
+        31
+      ],
+      [
+        180,
+        177
+      ],
+      [
+        7,
+        177
+      ]
+    ],
+    [
+      [
+        4,
+        895
+      ],
+      [
+        147,
+        895
+      ],
+      [
+        147,
+        1073
+      ],
+      [
+        4,
+        1073
+      ]
+    ],
+    [
+      [
+        114,
+        458
+      ],
+      [
+        366,
+        428
+      ],
+      [
+        381,
+        557
+      ],
+      [
+        130,
+        587
+      ]
+    ],
+    [
+      [
+        277,
+        1076
+      ],
+      [
+        375,
+        1076
+      ],
+      [
+        375,
+        1160
+      ],
+      [
+        277,
+        1160
+      ]
+    ]
+  ],
+  "texts": [
+    "Looks like you're having a lot of fun these days.",
+    "I don't know if I've ever been a scoundrel with rubber nuts.",
+    "What happened is certainly strange and interesting in the village, but what is the use of it?",
+    "The body was in rubber.",
+    "And then there's the village chief!",
+    "You could have been caught in the sea of pirates today, right?",
+    "You will swim all your life, and you will be in the workplace.",
+    "it's just a matter of time.",
+    "I'll tell you once and for all, you'll never be a pirate.",
+    "It's going to be a good one.",
+    "The three of them are happy to have each one of them.",
+    "Well, even if I live a life of cannabis, I'll be a pirate for life after falling from the sea.",
+    "The captain seems to know a little bit more about it, but he doesn't want to talk to him anymore.",
+    "It's a very good idea.",
+    "Three."
+  ],
+  "scores": [
+    0.9413532316684723,
+    0.8283364474773407,
+    0.7945731083552042,
+    0.960753877957662,
+    0.7267525792121887,
+    0.8641525030136108,
+    0.7894262472788492,
+    0.1918022185564041,
+    0.761138712366422,
+    0.9356850981712341,
+    0.6493064314126968,
+    0.8890889485677084,
+    0.9364785075187683,
+    0.8305060267448425,
+    0.5649651288986206
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb",
+    "fb",
+    "hl",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9413532316684723,
+    0.8283364474773407,
+    0.7945731083552042,
+    0.960753877957662,
+    0.7267525792121887,
+    0.8641525030136108,
+    0.7894262472788492,
+    0.1918022185564041,
+    0.761138712366422,
+    0.9356850981712341,
+    0.6493064314126968,
+    0.8890889485677084,
+    0.9364785075187683,
+    0.8305060267448425,
+    0.5649651288986206
+  ],
+  "source_texts": [
+    "近頃一段楽しそうだな",
+    "それよりおれはゴムゴムの実でにんげ人ゴム人間になれたかち[にんげ人]",
+    "それがどうした確かに不思議だし村中面白がつとるが何の+役にたつんじゃ[+]",
+    "体がゴムにたところで",
+    "そんち村長!",
+    "お前今日海賊達の航海つれてってもえかったんだろ?",
+    "それに一生泳げね工体になちまつて",
+    "丝",
+    "π何度でも言うがルクイお前は絶対海賊はなちせんぞ[π]",
+    "なるわい",
+    "三その方がずつと嬉しいんだほら[三]",
+    "いいんだ!一生カナヅチでもおれは一生海から落ち海賊になるから",
+    "あの船長は少しはわかっとるようじやがもうあいつちとはつきあうな",
+    "ひよん",
+    "三"
+  ],
+  "base_ocr_scores": [
+    0.9413532316684723,
+    0.8283364474773407,
+    0.7945731083552042,
+    0.960753877957662,
+    0.7267525792121887,
+    0.8641525030136108,
+    0.7894262472788492,
+    0.1918022185564041,
+    0.761138712366422,
+    0.9356850981712341,
+    0.6493064314126968,
+    0.8890889485677084,
+    0.9364785075187683,
+    0.8305060267448425,
+    0.5649651288986206
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "Looks like you're having a lot of fun these days.",
+      "score": 0.9413532316684723,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know if I've ever been a scoundrel with rubber nuts.",
+      "score": 0.8283364474773407,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What happened is certainly strange and interesting in the village, but what is the use of it?",
+      "score": 0.7945731083552042,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "The body was in rubber.",
+      "score": 0.960753877957662,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "And then there's the village chief!",
+      "score": 0.7267525792121887,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You could have been caught in the sea of pirates today, right?",
+      "score": 0.8641525030136108,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "You will swim all your life, and you will be in the workplace.",
+      "score": 0.7894262472788492,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "it's just a matter of time.",
+      "score": 0.1918022185564041,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'll tell you once and for all, you'll never be a pirate.",
+      "score": 0.761138712366422,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It's going to be a good one.",
+      "score": 0.9356850981712341,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The three of them are happy to have each one of them.",
+      "score": 0.6493064314126968,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Well, even if I live a life of cannabis, I'll be a pirate for life after falling from the sea.",
+      "score": 0.8890889485677084,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The captain seems to know a little bit more about it, but he doesn't want to talk to him anymore.",
+      "score": 0.9364785075187683,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It's a very good idea.",
+      "score": 0.8305060267448425,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Three.",
+      "score": 0.5649651288986206,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_20.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_20.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_20.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_20.json"
+  }
+}

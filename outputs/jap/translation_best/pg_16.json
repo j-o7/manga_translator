@@ -1,0 +1,346 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_16.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        698,
+        799
+      ],
+      [
+        784,
+        799
+      ],
+      [
+        784,
+        888
+      ],
+      [
+        698,
+        888
+      ]
+    ],
+    [
+      [
+        687,
+        522
+      ],
+      [
+        774,
+        522
+      ],
+      [
+        774,
+        712
+      ],
+      [
+        687,
+        712
+      ]
+    ],
+    [
+      [
+        451,
+        797
+      ],
+      [
+        495,
+        797
+      ],
+      [
+        495,
+        909
+      ],
+      [
+        451,
+        909
+      ]
+    ],
+    [
+      [
+        430,
+        1182
+      ],
+      [
+        512,
+        1182
+      ],
+      [
+        512,
+        1268
+      ],
+      [
+        430,
+        1268
+      ]
+    ],
+    [
+      [
+        297,
+        1024
+      ],
+      [
+        399,
+        1024
+      ],
+      [
+        399,
+        1209
+      ],
+      [
+        297,
+        1209
+      ]
+    ],
+    [
+      [
+        113,
+        0
+      ],
+      [
+        192,
+        0
+      ],
+      [
+        192,
+        189
+      ],
+      [
+        113,
+        189
+      ]
+    ],
+    [
+      [
+        16,
+        809
+      ],
+      [
+        84,
+        809
+      ],
+      [
+        84,
+        947
+      ],
+      [
+        16,
+        947
+      ]
+    ],
+    [
+      [
+        11,
+        536
+      ],
+      [
+        127,
+        536
+      ],
+      [
+        127,
+        678
+      ],
+      [
+        11,
+        678
+      ]
+    ],
+    [
+      [
+        0,
+        1026
+      ],
+      [
+        118,
+        1026
+      ],
+      [
+        118,
+        1187
+      ],
+      [
+        0,
+        1187
+      ]
+    ],
+    [
+      [
+        47,
+        561
+      ],
+      [
+        64,
+        561
+      ],
+      [
+        64,
+        579
+      ],
+      [
+        47,
+        579
+      ]
+    ]
+  ],
+  "texts": [
+    "Captain, are you all right?",
+    "I don't want to get drunk. I don't want to talk about it.",
+    "What is injured?",
+    "It’s okay, no problem.",
+    "What do you have in your head?",
+    "The back and neck are all together.",
+    "The world is full of shit!",
+    "I’m going to the city of insects.",
+    "Well, then, there's the story.",
+    "He is the one who is responsible for the deaths."
+  ],
+  "scores": [
+    0.8826435407002767,
+    0.6671483417352041,
+    0.959810733795166,
+    0.9214014609654745,
+    0.7334976593653361,
+    0.8239471912384033,
+    0.549182653427124,
+    0.6199457844098409,
+    0.539672777056694,
+    0.32158157229423523
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "fb",
+    "fb",
+    "fb",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8826435407002767,
+    0.6671483417352041,
+    0.959810733795166,
+    0.9214014609654745,
+    0.7334976593653361,
+    0.8239471912384033,
+    0.549182653427124,
+    0.6199457844098409,
+    0.539672777056694,
+    0.32158157229423523
+  ],
+  "source_texts": [
+    "船長さん大丈夫ですか!?",
+    "き酒がねんじや話になねエ[き]",
+    "ケガは?",
+    "あ大丈夫問題ない[あ]",
+    "っだ?はつはつは何てまだお頭",
+    "腰又ケ共",
+    "ぷっ!",
+    "虫ちの町へ行くぜ[虫ち]",
+    "さてたなァ",
+    "い"
+  ],
+  "base_ocr_scores": [
+    0.8826435407002767,
+    0.6671483417352041,
+    0.959810733795166,
+    0.9214014609654745,
+    0.7334976593653361,
+    0.8239471912384033,
+    0.549182653427124,
+    0.6199457844098409,
+    0.539672777056694,
+    0.32158157229423523
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "Captain, are you all right?",
+      "score": 0.8826435407002767,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't want to get drunk. I don't want to talk about it.",
+      "score": 0.6671483417352041,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "What is injured?",
+      "score": 0.959810733795166,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "It’s okay, no problem.",
+      "score": 0.9214014609654745,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "What do you have in your head?",
+      "score": 0.7334976593653361,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The back and neck are all together.",
+      "score": 0.8239471912384033,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The world is full of shit!",
+      "score": 0.549182653427124,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I’m going to the city of insects.",
+      "score": 0.6199457844098409,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Well, then, there's the story.",
+      "score": 0.539672777056694,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "He is the one who is responsible for the deaths.",
+      "score": 0.32158157229423523,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_16.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_16.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_16.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_16.json"
+  }
+}

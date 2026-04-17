@@ -1,0 +1,602 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_12.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        719,
+        12
+      ],
+      [
+        800,
+        12
+      ],
+      [
+        800,
+        164
+      ],
+      [
+        719,
+        164
+      ]
+    ],
+    [
+      [
+        402,
+        844
+      ],
+      [
+        421,
+        844
+      ],
+      [
+        421,
+        857
+      ],
+      [
+        402,
+        857
+      ]
+    ],
+    [
+      [
+        323,
+        704
+      ],
+      [
+        350,
+        704
+      ],
+      [
+        350,
+        778
+      ],
+      [
+        323,
+        778
+      ]
+    ],
+    [
+      [
+        305,
+        435
+      ],
+      [
+        381,
+        435
+      ],
+      [
+        381,
+        590
+      ],
+      [
+        305,
+        590
+      ]
+    ],
+    [
+      [
+        290,
+        1035
+      ],
+      [
+        367,
+        1035
+      ],
+      [
+        367,
+        1117
+      ],
+      [
+        290,
+        1117
+      ]
+    ],
+    [
+      [
+        74,
+        802
+      ],
+      [
+        91,
+        802
+      ],
+      [
+        91,
+        823
+      ],
+      [
+        74,
+        823
+      ]
+    ],
+    [
+      [
+        12,
+        735
+      ],
+      [
+        66,
+        735
+      ],
+      [
+        66,
+        883
+      ],
+      [
+        12,
+        883
+      ]
+    ],
+    [
+      [
+        6,
+        49
+      ],
+      [
+        130,
+        49
+      ],
+      [
+        130,
+        288
+      ],
+      [
+        6,
+        288
+      ]
+    ],
+    [
+      [
+        5,
+        1038
+      ],
+      [
+        75,
+        1038
+      ],
+      [
+        75,
+        1222
+      ],
+      [
+        5,
+        1222
+      ]
+    ],
+    [
+      [
+        3,
+        446
+      ],
+      [
+        81,
+        446
+      ],
+      [
+        81,
+        556
+      ],
+      [
+        3,
+        556
+      ]
+    ],
+    [
+      [
+        38,
+        55
+      ],
+      [
+        62,
+        55
+      ],
+      [
+        62,
+        78
+      ],
+      [
+        38,
+        78
+      ]
+    ],
+    [
+      [
+        777,
+        552
+      ],
+      [
+        776,
+        573
+      ],
+      [
+        685,
+        566
+      ],
+      [
+        687,
+        545
+      ]
+    ],
+    [
+      [
+        533,
+        553
+      ],
+      [
+        550,
+        553
+      ],
+      [
+        550,
+        572
+      ],
+      [
+        533,
+        572
+      ]
+    ],
+    [
+      [
+        782,
+        561
+      ],
+      [
+        779,
+        600
+      ],
+      [
+        678,
+        593
+      ],
+      [
+        681,
+        554
+      ]
+    ],
+    [
+      [
+        782,
+        594
+      ],
+      [
+        779,
+        647
+      ],
+      [
+        674,
+        642
+      ],
+      [
+        676,
+        590
+      ]
+    ],
+    [
+      [
+        71,
+        821
+      ],
+      [
+        94,
+        821
+      ],
+      [
+        94,
+        845
+      ],
+      [
+        71,
+        845
+      ]
+    ],
+    [
+      [
+        139,
+        1028
+      ],
+      [
+        214,
+        1028
+      ],
+      [
+        214,
+        1099
+      ],
+      [
+        139,
+        1099
+      ]
+    ],
+    [
+      [
+        301,
+        1203
+      ],
+      [
+        384,
+        1203
+      ],
+      [
+        384,
+        1277
+      ],
+      [
+        301,
+        1277
+      ]
+    ]
+  ],
+  "texts": [
+    "We are the pirates.",
+    "the heart.",
+    "What is it?",
+    "Sorry, but I'm not drinking.",
+    "Is there any water?",
+    "The heart.",
+    "It seems that the pirates are drinking something together.",
+    "The station is located at the station of the station, and is very convenient.",
+    "It's all about the wine coming out now.",
+    "I'm going to cut the pieces.",
+    "Drink.",
+    "People are people.",
+    "The heart.",
+    "The mountain is built on a high hill.",
+    "The brown bear.",
+    "Talk about it.",
+    "The first is the \"S\"",
+    "Oh, my God."
+  ],
+  "scores": [
+    0.8747222423553467,
+    0.44237378239631653,
+    0.9850028157234192,
+    0.962829053401947,
+    0.9334439933300018,
+    0.223518967628479,
+    0.916718602180481,
+    0.6117260092869401,
+    0.8938477039337158,
+    0.8756048480669657,
+    0.9963504076004028,
+    0.5277572274208069,
+    0.06521592289209366,
+    0.52720046043396,
+    0.9475203156471252,
+    0.5938187837600708,
+    0.42492666840553284,
+    0.4019390642642975
+  ],
+  "best_model": [
+    "fb",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "nllb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.8747222423553467,
+    0.44237378239631653,
+    0.9850028157234192,
+    0.962829053401947,
+    0.9334439933300018,
+    0.223518967628479,
+    0.916718602180481,
+    0.6117260092869401,
+    0.8938477039337158,
+    0.8756048480669657,
+    0.9963504076004028,
+    0.5277572274208069,
+    0.06521592289209366,
+    0.52720046043396,
+    0.9475203156471252,
+    0.5938187837600708,
+    0.42492666840553284,
+    0.4019390642642975
+  ],
+  "source_texts": [
+    "おれ達は山賊",
+    "心心",
+    "んん?",
+    "ごめんなさいお酒は",
+    "ありや水か?",
+    "心",
+    "海賊共が何か飲んる様だが",
+    "ω电店じねエ荒しにき駅をてくれ心で個ほど[心ω电店じねエ]",
+    "今出るお酒で全部なので",
+    "ちようど切ちしてるんです",
+    "酒",
+    "人",
+    "心",
+    "山威棟梁",
+    "ヒグマ",
+    "話",
+    "す",
+    "超"
+  ],
+  "base_ocr_scores": [
+    0.8747222423553467,
+    0.44237378239631653,
+    0.9850028157234192,
+    0.962829053401947,
+    0.9334439933300018,
+    0.223518967628479,
+    0.916718602180481,
+    0.6117260092869401,
+    0.8938477039337158,
+    0.8756048480669657,
+    0.9963504076004028,
+    0.5277572274208069,
+    0.06521592289209366,
+    0.52720046043396,
+    0.9475203156471252,
+    0.5938187837600708,
+    0.42492666840553284,
+    0.4019390642642975
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "We are the pirates.",
+      "score": 0.8747222423553467,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "the heart.",
+      "score": 0.44237378239631653,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What is it?",
+      "score": 0.9850028157234192,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Sorry, but I'm not drinking.",
+      "score": 0.962829053401947,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Is there any water?",
+      "score": 0.9334439933300018,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The heart.",
+      "score": 0.223518967628479,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It seems that the pirates are drinking something together.",
+      "score": 0.916718602180481,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The station is located at the station of the station, and is very convenient.",
+      "score": 0.6117260092869401,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It's all about the wine coming out now.",
+      "score": 0.8938477039337158,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to cut the pieces.",
+      "score": 0.8756048480669657,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Drink.",
+      "score": 0.9963504076004028,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "People are people.",
+      "score": 0.5277572274208069,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The heart.",
+      "score": 0.06521592289209366,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The mountain is built on a high hill.",
+      "score": 0.52720046043396,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The brown bear.",
+      "score": 0.9475203156471252,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Talk about it.",
+      "score": 0.5938187837600708,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The first is the \"S\"",
+      "score": 0.42492666840553284,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Oh, my God.",
+      "score": 0.4019390642642975,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_12.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_12.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_12.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_12.json"
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_28.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        709,
+        1029
+      ],
+      [
+        741,
+        1029
+      ],
+      [
+        741,
+        1091
+      ],
+      [
+        709,
+        1091
+      ]
+    ],
+    [
+      [
+        680,
+        56
+      ],
+      [
+        781,
+        56
+      ],
+      [
+        781,
+        164
+      ],
+      [
+        680,
+        164
+      ]
+    ],
+    [
+      [
+        661,
+        1037
+      ],
+      [
+        679,
+        1037
+      ],
+      [
+        679,
+        1067
+      ],
+      [
+        661,
+        1067
+      ]
+    ],
+    [
+      [
+        661,
+        1084
+      ],
+      [
+        713,
+        1084
+      ],
+      [
+        713,
+        1203
+      ],
+      [
+        661,
+        1203
+      ]
+    ],
+    [
+      [
+        342,
+        1050
+      ],
+      [
+        447,
+        1050
+      ],
+      [
+        447,
+        1218
+      ],
+      [
+        342,
+        1218
+      ]
+    ],
+    [
+      [
+        228,
+        317
+      ],
+      [
+        270,
+        317
+      ],
+      [
+        270,
+        437
+      ],
+      [
+        228,
+        437
+      ]
+    ],
+    [
+      [
+        184,
+        775
+      ],
+      [
+        299,
+        775
+      ],
+      [
+        299,
+        921
+      ],
+      [
+        184,
+        921
+      ]
+    ],
+    [
+      [
+        34,
+        40
+      ],
+      [
+        172,
+        40
+      ],
+      [
+        172,
+        294
+      ],
+      [
+        34,
+        294
+      ]
+    ],
+    [
+      [
+        26,
+        773
+      ],
+      [
+        119,
+        773
+      ],
+      [
+        119,
+        919
+      ],
+      [
+        26,
+        919
+      ]
+    ]
+  ],
+  "texts": [
+    "The Thief.",
+    "You will be a mountain thief one day.",
+    "Hello, I have been waiting for you.",
+    "He was there and was in the village.",
+    "You were cleaning up the village, by the way?",
+    "Captain, you are the one who is responsible for the ship.",
+    "I don't know what you're doing here, but you gotta get out of here.",
+    "Your ex-Bunch was like a gun, wasn't it?",
+    "Even more so, if you do, you will be shot and killed."
+  ],
+  "scores": [
+    0.7208890318870544,
+    0.8606522679328918,
+    0.34297800064086914,
+    0.5737686405579249,
+    0.9202003479003906,
+    0.6396112143993378,
+    0.8679808527231216,
+    0.9110349655151367,
+    0.8197239438692728
+  ],
+  "best_model": [
+    "fb",
+    "fb",
+    "nllb",
+    "fb",
+    "hl",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.7208890318870544,
+    0.8606522679328918,
+    0.34297800064086914,
+    0.5737686405579249,
+    0.9202003479003906,
+    0.6396112143993378,
+    0.8679808527231216,
+    0.9110349655151367,
+    0.8197239438692728
+  ],
+  "source_texts": [
+    "海贼",
+    "いつかの山き賊じないか",
+    "こ",
+    "居たのか品村[品村]",
+    "ずつと村の拭き掃除でもしてたのか?",
+    "¥船長さん[¥]",
+    "何しに来たか知んがカせんうちに逃げ出しな",
+    "ルフイ!元お前のバンチは銃のように強いんじやなかたのか?[元]",
+    "それ以上つくと撃ち殺すぜヌ"
+  ],
+  "base_ocr_scores": [
+    0.7208890318870544,
+    0.8606522679328918,
+    0.34297800064086914,
+    0.5737686405579249,
+    0.9202003479003906,
+    0.6396112143993378,
+    0.8679808527231216,
+    0.9110349655151367,
+    0.8197239438692728
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "The Thief.",
+      "score": 0.7208890318870544,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "You will be a mountain thief one day.",
+      "score": 0.8606522679328918,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Hello, I have been waiting for you.",
+      "score": 0.34297800064086914,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "He was there and was in the village.",
+      "score": 0.5737686405579249,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You were cleaning up the village, by the way?",
+      "score": 0.9202003479003906,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Captain, you are the one who is responsible for the ship.",
+      "score": 0.6396112143993378,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know what you're doing here, but you gotta get out of here.",
+      "score": 0.8679808527231216,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Your ex-Bunch was like a gun, wasn't it?",
+      "score": 0.9110349655151367,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Even more so, if you do, you will be shot and killed.",
+      "score": 0.8197239438692728,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_28.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_28.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_28.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_28.json"
+  }
+}

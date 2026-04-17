@@ -1,0 +1,154 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_49.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        728,
+        1158
+      ],
+      [
+        789,
+        1158
+      ],
+      [
+        789,
+        1298
+      ],
+      [
+        728,
+        1298
+      ]
+    ],
+    [
+      [
+        688,
+        657
+      ],
+      [
+        772,
+        657
+      ],
+      [
+        772,
+        774
+      ],
+      [
+        688,
+        774
+      ]
+    ],
+    [
+      [
+        286,
+        1148
+      ],
+      [
+        359,
+        1148
+      ],
+      [
+        359,
+        1300
+      ],
+      [
+        286,
+        1300
+      ]
+    ],
+    [
+      [
+        -1,
+        959
+      ],
+      [
+        76,
+        959
+      ],
+      [
+        76,
+        1083
+      ],
+      [
+        -1,
+        1083
+      ]
+    ]
+  ],
+  "texts": [
+    "A gathering of people.",
+    "You know what I'm talking about?",
+    "People want to be able to do that.",
+    "And the flag of the pirates."
+  ],
+  "scores": [
+    0.8658959865570068,
+    0.8217895328998566,
+    0.9087598919868469,
+    0.9693581163883209
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8658959865570068,
+    0.8217895328998566,
+    0.9087598919868469,
+    0.9693581163883209
+  ],
+  "source_texts": [
+    "仲間集",
+    "知ったか魚め",
+    "人はほしいなア",
+    "そして海賊旗"
+  ],
+  "base_ocr_scores": [
+    0.8658959865570068,
+    0.8217895328998566,
+    0.9087598919868469,
+    0.9693581163883209
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "A gathering of people.",
+      "score": 0.8658959865570068,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You know what I'm talking about?",
+      "score": 0.8217895328998566,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "People want to be able to do that.",
+      "score": 0.9087598919868469,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "And the flag of the pirates.",
+      "score": 0.9693581163883209,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_49.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_49.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_49.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_49.json"
+  }
+}

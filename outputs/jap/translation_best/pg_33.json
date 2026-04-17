@@ -1,0 +1,90 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_33.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        685,
+        493
+      ],
+      [
+        745,
+        493
+      ],
+      [
+        745,
+        724
+      ],
+      [
+        685,
+        724
+      ]
+    ],
+    [
+      [
+        20,
+        560
+      ],
+      [
+        76,
+        560
+      ],
+      [
+        76,
+        755
+      ],
+      [
+        20,
+        755
+      ]
+    ]
+  ],
+  "texts": [
+    "The story is told through the eyes of a young boy.",
+    "That's all you need to know."
+  ],
+  "scores": [
+    0.6338629126548767,
+    0.8232388496398926
+  ],
+  "best_model": [
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.6338629126548767,
+    0.8232388496398926
+  ],
+  "source_texts": [
+    "ちいつ",
+    "才才才才"
+  ],
+  "base_ocr_scores": [
+    0.6338629126548767,
+    0.8232388496398926
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "The story is told through the eyes of a young boy.",
+      "score": 0.6338629126548767,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "That's all you need to know.",
+      "score": 0.8232388496398926,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_33.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_33.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_33.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_33.json"
+  }
+}

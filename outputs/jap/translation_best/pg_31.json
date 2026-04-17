@@ -1,0 +1,314 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_31.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        674,
+        94
+      ],
+      [
+        803,
+        94
+      ],
+      [
+        803,
+        226
+      ],
+      [
+        674,
+        226
+      ]
+    ],
+    [
+      [
+        656,
+        860
+      ],
+      [
+        791,
+        860
+      ],
+      [
+        791,
+        1185
+      ],
+      [
+        656,
+        1185
+      ]
+    ],
+    [
+      [
+        651,
+        423
+      ],
+      [
+        780,
+        423
+      ],
+      [
+        780,
+        546
+      ],
+      [
+        651,
+        546
+      ]
+    ],
+    [
+      [
+        502,
+        422
+      ],
+      [
+        578,
+        422
+      ],
+      [
+        578,
+        511
+      ],
+      [
+        502,
+        511
+      ]
+    ],
+    [
+      [
+        502,
+        565
+      ],
+      [
+        579,
+        565
+      ],
+      [
+        579,
+        745
+      ],
+      [
+        502,
+        745
+      ]
+    ],
+    [
+      [
+        41,
+        634
+      ],
+      [
+        80,
+        634
+      ],
+      [
+        80,
+        744
+      ],
+      [
+        41,
+        744
+      ]
+    ],
+    [
+      [
+        8,
+        424
+      ],
+      [
+        152,
+        424
+      ],
+      [
+        152,
+        569
+      ],
+      [
+        8,
+        569
+      ]
+    ],
+    [
+      [
+        5,
+        878
+      ],
+      [
+        201,
+        878
+      ],
+      [
+        201,
+        1204
+      ],
+      [
+        5,
+        1204
+      ]
+    ],
+    [
+      [
+        0,
+        57
+      ],
+      [
+        90,
+        57
+      ],
+      [
+        90,
+        276
+      ],
+      [
+        0,
+        276
+      ]
+    ]
+  ],
+  "texts": [
+    "What is before your eyes is the rejuvenation.",
+    "Whatever the reason, it's not a good idea.",
+    "Shut the fuck up, man. I ain't got nothing to do with you.",
+    "Look at the people who are robbers.",
+    "I’m going to drink and eat, but I’m going to drink and eat.",
+    "But it is!",
+    "I don't care if you spit on me or not, but most of the things I laugh at and stare at.",
+    "I will not forgive those who hurt my friends.",
+    "They are pirates."
+  ],
+  "scores": [
+    0.6642780780792237,
+    0.91374871134758,
+    0.8062767744064331,
+    0.7743410070737203,
+    0.686209574341774,
+    0.8167949914932251,
+    0.8505026996135712,
+    0.8149763271212578,
+    0.9855329990386963
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "fb",
+    "hl",
+    "fb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.6642780780792237,
+    0.91374871134758,
+    0.8062767744064331,
+    0.7743410070737203,
+    0.686209574341774,
+    0.8167949914932251,
+    0.8505026996135712,
+    0.8149763271212578,
+    0.9855329990386963
+  ],
+  "source_texts": [
+    "重元お前らの元目の前にいるのは[重元元]",
+    "どんな理由があろうと",
+    "うるせエだいいおれはてめちに用はねぞ",
+    "いいか人山賊...",
+    "おれは酒や食い物を#>頭かぶつかけられようが[#>]",
+    "だがな!",
+    "中つばを吐きかけちれようがたいていの事は笑て見過こしてやる[中]",
+    "おれは友達を傷つける奴は香許さない[香]",
+    "海賊だぜ"
+  ],
+  "base_ocr_scores": [
+    0.6642780780792237,
+    0.91374871134758,
+    0.8062767744064331,
+    0.7743410070737203,
+    0.686209574341774,
+    0.8167949914932251,
+    0.8505026996135712,
+    0.8149763271212578,
+    0.9855329990386963
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "What is before your eyes is the rejuvenation.",
+      "score": 0.6642780780792237,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Whatever the reason, it's not a good idea.",
+      "score": 0.91374871134758,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Shut the fuck up, man. I ain't got nothing to do with you.",
+      "score": 0.8062767744064331,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Look at the people who are robbers.",
+      "score": 0.7743410070737203,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I’m going to drink and eat, but I’m going to drink and eat.",
+      "score": 0.686209574341774,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "But it is!",
+      "score": 0.8167949914932251,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't care if you spit on me or not, but most of the things I laugh at and stare at.",
+      "score": 0.8505026996135712,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I will not forgive those who hurt my friends.",
+      "score": 0.8149763271212578,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "They are pirates.",
+      "score": 0.9855329990386963,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_31.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_31.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_31.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_31.json"
+  }
+}

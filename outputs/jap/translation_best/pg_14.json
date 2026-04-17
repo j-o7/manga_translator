@@ -1,0 +1,506 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_14.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        691,
+        253
+      ],
+      [
+        795,
+        253
+      ],
+      [
+        795,
+        386
+      ],
+      [
+        691,
+        386
+      ]
+    ],
+    [
+      [
+        684,
+        57
+      ],
+      [
+        784,
+        57
+      ],
+      [
+        784,
+        200
+      ],
+      [
+        684,
+        200
+      ]
+    ],
+    [
+      [
+        670,
+        715
+      ],
+      [
+        773,
+        715
+      ],
+      [
+        773,
+        902
+      ],
+      [
+        670,
+        902
+      ]
+    ],
+    [
+      [
+        654,
+        998
+      ],
+      [
+        755,
+        998
+      ],
+      [
+        755,
+        1133
+      ],
+      [
+        654,
+        1133
+      ]
+    ],
+    [
+      [
+        550,
+        733
+      ],
+      [
+        651,
+        733
+      ],
+      [
+        651,
+        915
+      ],
+      [
+        550,
+        915
+      ]
+    ],
+    [
+      [
+        486,
+        257
+      ],
+      [
+        528,
+        257
+      ],
+      [
+        528,
+        316
+      ],
+      [
+        486,
+        316
+      ]
+    ],
+    [
+      [
+        368,
+        60
+      ],
+      [
+        485,
+        60
+      ],
+      [
+        485,
+        187
+      ],
+      [
+        368,
+        187
+      ]
+    ],
+    [
+      [
+        345,
+        1226
+      ],
+      [
+        360,
+        1226
+      ],
+      [
+        360,
+        1254
+      ],
+      [
+        345,
+        1254
+      ]
+    ],
+    [
+      [
+        265,
+        1109
+      ],
+      [
+        318,
+        1109
+      ],
+      [
+        318,
+        1238
+      ],
+      [
+        265,
+        1238
+      ]
+    ],
+    [
+      [
+        246,
+        90
+      ],
+      [
+        288,
+        90
+      ],
+      [
+        288,
+        217
+      ],
+      [
+        246,
+        217
+      ]
+    ],
+    [
+      [
+        210,
+        554
+      ],
+      [
+        289,
+        554
+      ],
+      [
+        289,
+        639
+      ],
+      [
+        210,
+        639
+      ]
+    ],
+    [
+      [
+        124,
+        740
+      ],
+      [
+        174,
+        740
+      ],
+      [
+        174,
+        882
+      ],
+      [
+        124,
+        882
+      ]
+    ],
+    [
+      [
+        39,
+        1032
+      ],
+      [
+        98,
+        1032
+      ],
+      [
+        98,
+        1146
+      ],
+      [
+        39,
+        1146
+      ]
+    ],
+    [
+      [
+        14,
+        721
+      ],
+      [
+        92,
+        721
+      ],
+      [
+        92,
+        904
+      ],
+      [
+        14,
+        904
+      ]
+    ],
+    [
+      [
+        67,
+        1028
+      ],
+      [
+        80,
+        1028
+      ],
+      [
+        80,
+        1041
+      ],
+      [
+        67,
+        1041
+      ]
+    ]
+  ],
+  "texts": [
+    "Don’t let me go, oh yeah.",
+    "Hey, smart, who do you think I am?",
+    "Eight million dollars hanging around my neck.",
+    "I don't know what you're talking about.",
+    "I'm not a first-class shooter.",
+    "He's alive.",
+    "The bedtime was drunk and I was drunk.",
+    "it's just a matter of time.",
+    "I don't think we'll ever see each other again.",
+    "Oh yeah.",
+    "Take a look at this.",
+    "He killed me.",
+    "The power of the East",
+    "You're such a smart guy.",
+    "HAPPINESS"
+  ],
+  "scores": [
+    0.8209072351455688,
+    0.725002646446228,
+    0.8639006018638611,
+    0.928121825059255,
+    0.9487836162249247,
+    0.12903307378292084,
+    0.805372342467308,
+    0.23446135222911835,
+    0.8679722845554352,
+    0.9453177452087402,
+    0.9610895812511444,
+    0.8690112829208374,
+    0.19831740856170654,
+    0.5556854456663132,
+    0.10183835029602051
+  ],
+  "best_model": [
+    "fb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "hl",
+    "hl"
+  ],
+  "best_model_score": [
+    0.8209072351455688,
+    0.725002646446228,
+    0.8639006018638611,
+    0.928121825059255,
+    0.9487836162249247,
+    0.12903307378292084,
+    0.805372342467308,
+    0.23446135222911835,
+    0.8679722845554352,
+    0.9453177452087402,
+    0.9610895812511444,
+    0.8690112829208374,
+    0.19831740856170654,
+    0.5556854456663132,
+    0.10183835029602051
+  ],
+  "source_texts": [
+    "ナメマネするんじやねエ.",
+    "おい貴様智このおれを誰だと思つてる[智]",
+    "八百万べかおれの首にかかつてる",
+    "わかったち...今後気をつけろ[今後]",
+    "第一級のおたすね者てわけだ",
+    "活",
+    "ビンー本じ寝酒なりやしねぜ",
+    "个",
+    "もう遭う事もなかろうがな",
+    "ああ",
+    "これを見ろ",
+    "殺したのさ",
+    "力东",
+    "よに生意気な奴を",
+    "福"
+  ],
+  "base_ocr_scores": [
+    0.8209072351455688,
+    0.725002646446228,
+    0.8639006018638611,
+    0.928121825059255,
+    0.9487836162249247,
+    0.12903307378292084,
+    0.805372342467308,
+    0.23446135222911835,
+    0.8679722845554352,
+    0.9453177452087402,
+    0.9610895812511444,
+    0.8690112829208374,
+    0.19831740856170654,
+    0.5556854456663132,
+    0.10183835029602051
+  ],
+  "selection_debug": [
+    {
+      "model": "fb",
+      "text": "Don’t let me go, oh yeah.",
+      "score": 0.8209072351455688,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Hey, smart, who do you think I am?",
+      "score": 0.725002646446228,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Eight million dollars hanging around my neck.",
+      "score": 0.8639006018638611,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know what you're talking about.",
+      "score": 0.928121825059255,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm not a first-class shooter.",
+      "score": 0.9487836162249247,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "He's alive.",
+      "score": 0.12903307378292084,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The bedtime was drunk and I was drunk.",
+      "score": 0.805372342467308,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "it's just a matter of time.",
+      "score": 0.23446135222911835,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't think we'll ever see each other again.",
+      "score": 0.8679722845554352,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Oh yeah.",
+      "score": 0.9453177452087402,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Take a look at this.",
+      "score": 0.9610895812511444,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "He killed me.",
+      "score": 0.8690112829208374,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The power of the East",
+      "score": 0.19831740856170654,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You're such a smart guy.",
+      "score": 0.5556854456663132,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "HAPPINESS",
+      "score": 0.10183835029602051,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_14.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_14.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_14.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_14.json"
+  }
+}

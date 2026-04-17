@@ -1,0 +1,154 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_50.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        642,
+        291
+      ],
+      [
+        749,
+        291
+      ],
+      [
+        749,
+        528
+      ],
+      [
+        642,
+        528
+      ]
+    ],
+    [
+      [
+        570,
+        1101
+      ],
+      [
+        776,
+        1101
+      ],
+      [
+        776,
+        1260
+      ],
+      [
+        570,
+        1260
+      ]
+    ],
+    [
+      [
+        21,
+        1102
+      ],
+      [
+        201,
+        1102
+      ],
+      [
+        201,
+        1283
+      ],
+      [
+        21,
+        1283
+      ]
+    ],
+    [
+      [
+        6,
+        716
+      ],
+      [
+        170,
+        716
+      ],
+      [
+        170,
+        925
+      ],
+      [
+        6,
+        925
+      ]
+    ]
+  ],
+  "texts": [
+    "The King of Pirates",
+    "As soon as his unseemly companions were involved, a small ship sailed through the sea.",
+    "The great journey began when the world was beginning to see the light of day.",
+    "I will be."
+  ],
+  "scores": [
+    0.961109459400177,
+    0.7299455902539194,
+    0.6906682401895523,
+    0.9812998473644257
+  ],
+  "best_model": [
+    "nllb",
+    "hl",
+    "nllb",
+    "fb"
+  ],
+  "best_model_score": [
+    0.961109459400177,
+    0.7299455902539194,
+    0.6906682401895523,
+    0.9812998473644257
+  ],
+  "source_texts": [
+    "海賊王",
+    "みまだ見ぬ彼の仲間達を号巻き込まんと中小小さな船は海をゆく[み号中]",
+    "レおお大いなる旅は始まつた日[おお]",
+    "おれはなる"
+  ],
+  "base_ocr_scores": [
+    0.961109459400177,
+    0.7299455902539194,
+    0.6906682401895523,
+    0.9812998473644257
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "The King of Pirates",
+      "score": 0.961109459400177,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "As soon as his unseemly companions were involved, a small ship sailed through the sea.",
+      "score": 0.7299455902539194,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The great journey began when the world was beginning to see the light of day.",
+      "score": 0.6906682401895523,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I will be.",
+      "score": 0.9812998473644257,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_50.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_50.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_50.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_50.json"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_13.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        731,
+        248
+      ],
+      [
+        765,
+        248
+      ],
+      [
+        765,
+        344
+      ],
+      [
+        731,
+        344
+      ]
+    ],
+    [
+      [
+        680,
+        88
+      ],
+      [
+        773,
+        88
+      ],
+      [
+        773,
+        190
+      ],
+      [
+        680,
+        190
+      ]
+    ],
+    [
+      [
+        648,
+        246
+      ],
+      [
+        711,
+        246
+      ],
+      [
+        711,
+        414
+      ],
+      [
+        648,
+        414
+      ]
+    ],
+    [
+      [
+        406,
+        296
+      ],
+      [
+        458,
+        296
+      ],
+      [
+        458,
+        394
+      ],
+      [
+        406,
+        394
+      ]
+    ],
+    [
+      [
+        328,
+        344
+      ],
+      [
+        336,
+        344
+      ],
+      [
+        336,
+        366
+      ],
+      [
+        328,
+        366
+      ]
+    ],
+    [
+      [
+        139,
+        90
+      ],
+      [
+        225,
+        90
+      ],
+      [
+        225,
+        212
+      ],
+      [
+        139,
+        212
+      ]
+    ],
+    [
+      [
+        31,
+        84
+      ],
+      [
+        93,
+        84
+      ],
+      [
+        93,
+        199
+      ],
+      [
+        31,
+        199
+      ]
+    ],
+    [
+      [
+        43,
+        805
+      ],
+      [
+        116,
+        805
+      ],
+      [
+        116,
+        872
+      ],
+      [
+        43,
+        872
+      ]
+    ]
+  ],
+  "texts": [
+    "We are the ones who are responsible for the situation.",
+    "This is a bad thing you did.",
+    "As if you were all overwhelmed.",
+    "Sorry, I was wrong.",
+    "\"I'm not a fan of the show.",
+    "I'll do well with this.",
+    "I haven't even opened the plug yet.",
+    "it's just a matter of time."
+  ],
+  "scores": [
+    0.9357398748397827,
+    0.9747814138730367,
+    0.901823490858078,
+    0.9867342114448547,
+    0.08692298829555511,
+    0.769961436589559,
+    0.8919740319252014,
+    0.17799866199493408
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9357398748397827,
+    0.9747814138730367,
+    0.901823490858078,
+    0.9867342114448547,
+    0.08692298829555511,
+    0.769961436589559,
+    0.8919740319252014,
+    0.17799866199493408
+  ],
+  "source_texts": [
+    "おれ達が",
+    "これは悪い事をしたな",
+    "尽くしちまつたみたいで",
+    "すまん",
+    "一",
+    "これでよかったちやるよ",
+    "まだ栓もあけてない",
+    "门"
+  ],
+  "base_ocr_scores": [
+    0.9357398748397827,
+    0.9747814138730367,
+    0.901823490858078,
+    0.9867342114448547,
+    0.08692298829555511,
+    0.769961436589559,
+    0.8919740319252014,
+    0.17799866199493408
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "We are the ones who are responsible for the situation.",
+      "score": 0.9357398748397827,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "This is a bad thing you did.",
+      "score": 0.9747814138730367,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "As if you were all overwhelmed.",
+      "score": 0.901823490858078,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Sorry, I was wrong.",
+      "score": 0.9867342114448547,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "\"I'm not a fan of the show.",
+      "score": 0.08692298829555511,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'll do well with this.",
+      "score": 0.769961436589559,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I haven't even opened the plug yet.",
+      "score": 0.8919740319252014,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "it's just a matter of time.",
+      "score": 0.17799866199493408,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_13.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_13.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_13.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_13.json"
+  }
+}

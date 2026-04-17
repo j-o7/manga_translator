@@ -1,0 +1,506 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_3.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        904,
+        1018
+      ],
+      [
+        1005,
+        1018
+      ],
+      [
+        1005,
+        1119
+      ],
+      [
+        904,
+        1119
+      ]
+    ],
+    [
+      [
+        899,
+        832
+      ],
+      [
+        997,
+        832
+      ],
+      [
+        997,
+        969
+      ],
+      [
+        899,
+        969
+      ]
+    ],
+    [
+      [
+        822,
+        1270
+      ],
+      [
+        875,
+        1270
+      ],
+      [
+        875,
+        1372
+      ],
+      [
+        822,
+        1372
+      ]
+    ],
+    [
+      [
+        803,
+        12
+      ],
+      [
+        963,
+        12
+      ],
+      [
+        963,
+        403
+      ],
+      [
+        803,
+        403
+      ]
+    ],
+    [
+      [
+        551,
+        839
+      ],
+      [
+        675,
+        839
+      ],
+      [
+        675,
+        965
+      ],
+      [
+        551,
+        965
+      ]
+    ],
+    [
+      [
+        450,
+        936
+      ],
+      [
+        518,
+        936
+      ],
+      [
+        518,
+        1098
+      ],
+      [
+        450,
+        1098
+      ]
+    ],
+    [
+      [
+        214,
+        1315
+      ],
+      [
+        339,
+        1315
+      ],
+      [
+        339,
+        1481
+      ],
+      [
+        214,
+        1481
+      ]
+    ],
+    [
+      [
+        36,
+        3
+      ],
+      [
+        180,
+        3
+      ],
+      [
+        180,
+        357
+      ],
+      [
+        36,
+        357
+      ]
+    ],
+    [
+      [
+        286,
+        0
+      ],
+      [
+        417,
+        0
+      ],
+      [
+        417,
+        106
+      ],
+      [
+        286,
+        106
+      ]
+    ],
+    [
+      [
+        512,
+        0
+      ],
+      [
+        623,
+        0
+      ],
+      [
+        623,
+        105
+      ],
+      [
+        512,
+        105
+      ]
+    ],
+    [
+      [
+        571,
+        555
+      ],
+      [
+        587,
+        555
+      ],
+      [
+        587,
+        572
+      ],
+      [
+        571,
+        572
+      ]
+    ],
+    [
+      [
+        705,
+        587
+      ],
+      [
+        833,
+        587
+      ],
+      [
+        833,
+        655
+      ],
+      [
+        705,
+        655
+      ]
+    ],
+    [
+      [
+        713,
+        653
+      ],
+      [
+        904,
+        653
+      ],
+      [
+        904,
+        699
+      ],
+      [
+        713,
+        699
+      ]
+    ],
+    [
+      [
+        756,
+        688
+      ],
+      [
+        861,
+        691
+      ],
+      [
+        860,
+        739
+      ],
+      [
+        755,
+        736
+      ]
+    ],
+    [
+      [
+        264,
+        1500
+      ],
+      [
+        323,
+        1500
+      ],
+      [
+        323,
+        1554
+      ],
+      [
+        264,
+        1554
+      ]
+    ]
+  ],
+  "texts": [
+    "I know what to do with my life.",
+    "I don't know what you're talking about.",
+    "What a.",
+    "I’m not going to play half it’s already done!",
+    "There's a lot of interesting work going on again.",
+    "Oh, and the truth.",
+    "What the fuck are you, stupid bastard!",
+    "Show me the evidence.",
+    "Uh-huh.",
+    "A woman is a woman.",
+    "respected",
+    "The boy with the marks.",
+    "Monkey Ro is a monkey.",
+    "Rufi is a very good person.",
+    "The book is a classic."
+  ],
+  "scores": [
+    0.6212729588150978,
+    0.85588139295578,
+    0.7778750061988831,
+    0.8324688673019409,
+    0.8367978483438492,
+    0.956069827079773,
+    0.7432640790939331,
+    0.750668853521347,
+    0.8019338846206665,
+    0.452869176864624,
+    0.17229105532169342,
+    0.856730043888092,
+    0.7671186327934265,
+    0.8360430598258972,
+    0.1613076776266098
+  ],
+  "best_model": [
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "hl",
+    "nllb",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb",
+    "fb",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.6212729588150978,
+    0.85588139295578,
+    0.7778750061988831,
+    0.8324688673019409,
+    0.8367978483438492,
+    0.956069827079773,
+    0.7432640790939331,
+    0.750668853521347,
+    0.8019338846206665,
+    0.452869176864624,
+    0.17229105532169342,
+    0.856730043888092,
+    0.7671186327934265,
+    0.8360430598258972,
+    0.1613076776266098
+  ],
+  "source_texts": [
+    "司何するか知ちねエかな[司]",
+    "だはっはおう!やってみろ",
+    "な...",
+    "办おれは遊び半分なんかじゃない!もうあったまきた![办]",
+    "またルフイが面白工事やつてるよ[また]",
+    "ふん",
+    "バ...バカπ野郎何やつてんだア!?[π]",
+    "証拠を見せて\\",
+    "む",
+    "女",
+    "敬",
+    "符の少年",
+    "モンキー・ロ",
+    "ルフイ",
+    "本"
+  ],
+  "base_ocr_scores": [
+    0.6212729588150978,
+    0.85588139295578,
+    0.7778750061988831,
+    0.8324688673019409,
+    0.8367978483438492,
+    0.956069827079773,
+    0.7432640790939331,
+    0.750668853521347,
+    0.8019338846206665,
+    0.452869176864624,
+    0.17229105532169342,
+    0.856730043888092,
+    0.7671186327934265,
+    0.8360430598258972,
+    0.1613076776266098
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "I know what to do with my life.",
+      "score": 0.6212729588150978,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't know what you're talking about.",
+      "score": 0.85588139295578,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What a.",
+      "score": 0.7778750061988831,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "I’m not going to play half it’s already done!",
+      "score": 0.8324688673019409,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "There's a lot of interesting work going on again.",
+      "score": 0.8367978483438492,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Oh, and the truth.",
+      "score": 0.956069827079773,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "What the fuck are you, stupid bastard!",
+      "score": 0.7432640790939331,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Show me the evidence.",
+      "score": 0.750668853521347,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Uh-huh.",
+      "score": 0.8019338846206665,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "A woman is a woman.",
+      "score": 0.452869176864624,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "respected",
+      "score": 0.17229105532169342,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The boy with the marks.",
+      "score": 0.856730043888092,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Monkey Ro is a monkey.",
+      "score": 0.7671186327934265,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Rufi is a very good person.",
+      "score": 0.8360430598258972,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The book is a classic.",
+      "score": 0.1613076776266098,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_3.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_3.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_3.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_3.json"
+  }
+}

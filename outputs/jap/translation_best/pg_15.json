@@ -1,0 +1,218 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_15.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        706,
+        216
+      ],
+      [
+        765,
+        216
+      ],
+      [
+        765,
+        318
+      ],
+      [
+        706,
+        318
+      ]
+    ],
+    [
+      [
+        682,
+        53
+      ],
+      [
+        772,
+        53
+      ],
+      [
+        772,
+        187
+      ],
+      [
+        682,
+        187
+      ]
+    ],
+    [
+      [
+        669,
+        999
+      ],
+      [
+        755,
+        999
+      ],
+      [
+        755,
+        1160
+      ],
+      [
+        669,
+        1160
+      ]
+    ],
+    [
+      [
+        545,
+        78
+      ],
+      [
+        602,
+        78
+      ],
+      [
+        602,
+        134
+      ],
+      [
+        545,
+        134
+      ]
+    ],
+    [
+      [
+        428,
+        89
+      ],
+      [
+        477,
+        89
+      ],
+      [
+        477,
+        199
+      ],
+      [
+        428,
+        199
+      ]
+    ],
+    [
+      [
+        159,
+        989
+      ],
+      [
+        282,
+        989
+      ],
+      [
+        282,
+        1236
+      ],
+      [
+        159,
+        1236
+      ]
+    ]
+  ],
+  "texts": [
+    "What's wrong with you?",
+    "I'm sorry, Mr. Mano.",
+    "The cleaning is not very nice; it is very nice.",
+    "Ah. the name.",
+    "I'll do it myself, that's all.",
+    "I'm sure you'd be better off with this shit."
+  ],
+  "scores": [
+    0.9886938333511353,
+    0.7178816199302673,
+    0.6685654819011688,
+    0.6083382964134216,
+    0.7959868609905243,
+    0.8436313271522522
+  ],
+  "best_model": [
+    "hl",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9886938333511353,
+    0.7178816199302673,
+    0.6685654819011688,
+    0.6083382964134216,
+    0.7959868609905243,
+    0.8436313271522522
+  ],
+  "source_texts": [
+    "ぞうきんあるか?",
+    "悪かったなマノさん[な]",
+    "掃除が;好きらしいな[;]",
+    "あ...元",
+    "私がやりますそれは",
+    "うこれくちいの方がやりがいがあるだろう...[う]"
+  ],
+  "base_ocr_scores": [
+    0.9886938333511353,
+    0.7178816199302673,
+    0.6685654819011688,
+    0.6083382964134216,
+    0.7959868609905243,
+    0.8436313271522522
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "What's wrong with you?",
+      "score": 0.9886938333511353,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm sorry, Mr. Mano.",
+      "score": 0.7178816199302673,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The cleaning is not very nice; it is very nice.",
+      "score": 0.6685654819011688,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Ah. the name.",
+      "score": 0.6083382964134216,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'll do it myself, that's all.",
+      "score": 0.7959868609905243,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm sure you'd be better off with this shit.",
+      "score": 0.8436313271522522,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_15.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_15.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_15.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_15.json"
+  }
+}

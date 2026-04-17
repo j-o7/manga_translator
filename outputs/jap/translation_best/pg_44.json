@@ -1,0 +1,218 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_44.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        634,
+        704
+      ],
+      [
+        755,
+        704
+      ],
+      [
+        755,
+        874
+      ],
+      [
+        634,
+        874
+      ]
+    ],
+    [
+      [
+        517,
+        27
+      ],
+      [
+        683,
+        27
+      ],
+      [
+        683,
+        213
+      ],
+      [
+        517,
+        213
+      ]
+    ],
+    [
+      [
+        36,
+        711
+      ],
+      [
+        174,
+        711
+      ],
+      [
+        174,
+        882
+      ],
+      [
+        36,
+        882
+      ]
+    ],
+    [
+      [
+        20,
+        475
+      ],
+      [
+        71,
+        475
+      ],
+      [
+        71,
+        619
+      ],
+      [
+        20,
+        619
+      ]
+    ],
+    [
+      [
+        4,
+        99
+      ],
+      [
+        104,
+        99
+      ],
+      [
+        104,
+        214
+      ],
+      [
+        4,
+        214
+      ]
+    ],
+    [
+      [
+        122,
+        156
+      ],
+      [
+        138,
+        156
+      ],
+      [
+        138,
+        174
+      ],
+      [
+        122,
+        174
+      ]
+    ]
+  ],
+  "texts": [
+    "This hat is a hat.",
+    "You're a pirate king. You're a pirate.",
+    "*I'll leave it up to you*",
+    "And then.",
+    "Well, you’re going to go beyond us.",
+    "The heart."
+  ],
+  "scores": [
+    0.9012666046619415,
+    0.7467387318611145,
+    0.6257624886929989,
+    0.9001418948173523,
+    0.9023757576942444,
+    0.4234159588813782
+  ],
+  "best_model": [
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "fb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.9012666046619415,
+    0.7467387318611145,
+    0.6257624886929989,
+    0.9001418948173523,
+    0.9023757576942444,
+    0.4234159588813782
+  ],
+  "source_texts": [
+    "この帽子を",
+    "海賊王なつて\\",
+    "*お前にな預ける[な*]",
+    "じゃあ...",
+    "ほう...おれ達を越えるのか",
+    "心"
+  ],
+  "base_ocr_scores": [
+    0.9012666046619415,
+    0.7467387318611145,
+    0.6257624886929989,
+    0.9001418948173523,
+    0.9023757576942444,
+    0.4234159588813782
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "This hat is a hat.",
+      "score": 0.9012666046619415,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You're a pirate king. You're a pirate.",
+      "score": 0.7467387318611145,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "*I'll leave it up to you*",
+      "score": 0.6257624886929989,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "And then.",
+      "score": 0.9001418948173523,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Well, you’re going to go beyond us.",
+      "score": 0.9023757576942444,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "The heart.",
+      "score": 0.4234159588813782,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_44.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_44.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_44.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_44.json"
+  }
+}

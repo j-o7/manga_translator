@@ -1,0 +1,6591 @@
+{
+  "pg_1": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        14,
+        1,
+        148,
+        58
+      ],
+      "text": "&lt; i&gt; Hugo Barra&lt; /i&gt; &lt; i&gt;",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9470066428184509
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        173,
+        5,
+        800,
+        78
+      ],
+      "text": "- It was a rough dawn.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8992754220962524
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        473,
+        10,
+        518,
+        25
+      ],
+      "text": "\"I'm not a fan of the show.",
+      "status": "merged_with",
+      "merged_with_idx": 6,
+      "best_model": "nllb",
+      "best_model_score": 0.8816283345222473
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        50,
+        156,
+        98,
+        332
+      ],
+      "text": "I've been to people all over the world.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8732239007949829
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        558,
+        1072,
+        721,
+        1283
+      ],
+      "text": "It's where I've left everything in this world.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.856172576546669
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        56,
+        1071,
+        179,
+        1297
+      ],
+      "text": "We can replace the great pirates.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7911551296710968
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        648,
+        458,
+        734,
+        597
+      ],
+      "text": "My treasure is mine.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7905272245407104
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        544,
+        461,
+        621,
+        623
+      ],
+      "text": "I will give you. the glory.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6880590319633484
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        430,
+        863,
+        440,
+        873
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.0890740379691124
+    }
+  ],
+  "pg_10": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        588,
+        60,
+        646,
+        165
+      ],
+      "text": "What a shame.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9699041247367859
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        651,
+        484,
+        781,
+        595
+      ],
+      "text": "Well, I'm sure you'd like to take a cross trip through this village.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9641269892454147
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        704,
+        46,
+        752,
+        182
+      ],
+      "text": "Shanks is a very good man.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9588570594787598
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        22,
+        865,
+        135,
+        954
+      ],
+      "text": "Well, that's a good idea.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9348563949267069
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        226,
+        863,
+        343,
+        973
+      ],
+      "text": "I’m going to practice swimming!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9139224886894226
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        20,
+        697,
+        67,
+        783
+      ],
+      "text": "Oh, and the truth.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9055052399635315
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        18,
+        1139,
+        110,
+        1257
+      ],
+      "text": "Try to wash your hands.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8818485140800476
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        157,
+        479,
+        218,
+        600
+      ],
+      "text": "And then we go back to the sea.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.862806111574173
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        693,
+        871,
+        725,
+        923
+      ],
+      "text": "More to come",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8614333868026733
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        20,
+        80,
+        138,
+        194
+      ],
+      "text": "What else is there in this village?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8586273640394211
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        677,
+        637,
+        766,
+        750
+      ],
+      "text": "It has been used for more than a year.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8575074871381124
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        20,
+        475,
+        111,
+        615
+      ],
+      "text": "I want to go to the north without leaving this village.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8574829498926798
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        631,
+        870,
+        668,
+        942
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8366366028785706
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        370,
+        80,
+        575,
+        179
+      ],
+      "text": "I'm not sure what the hell happened.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.724795401096344
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        394,
+        187,
+        432,
+        242
+      ],
+      "text": "The heart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.24067558348178864
+    }
+  ],
+  "pg_11": [
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        478,
+        662,
+        528,
+        777
+      ],
+      "text": "He's trying to make a fool of himself.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8949613571166992
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        718,
+        656,
+        778,
+        805
+      ],
+      "text": "Wow. this is pirate stuff.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8288140594959259
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        125,
+        9,
+        164,
+        78
+      ],
+      "text": "I will.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7144573926925659
+    }
+  ],
+  "pg_12": [
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        38,
+        55,
+        62,
+        78
+      ],
+      "text": "Drink.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9963504076004028
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        323,
+        704,
+        350,
+        778
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9850028157234192
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        305,
+        435,
+        381,
+        590
+      ],
+      "text": "Sorry, but I'm not drinking.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.962829053401947
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        674,
+        590,
+        782,
+        647
+      ],
+      "text": "The brown bear.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9475203156471252
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        290,
+        1035,
+        367,
+        1117
+      ],
+      "text": "Is there any water?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9334439933300018
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        12,
+        735,
+        66,
+        883
+      ],
+      "text": "It seems that the pirates are drinking something together.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.916718602180481
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        5,
+        1038,
+        75,
+        1222
+      ],
+      "text": "It's all about the wine coming out now.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8938477039337158
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        3,
+        446,
+        81,
+        556
+      ],
+      "text": "I'm going to cut the pieces.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8756048480669657
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        719,
+        12,
+        800,
+        164
+      ],
+      "text": "We are the pirates.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8747222423553467
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        6,
+        49,
+        130,
+        288
+      ],
+      "text": "The station is located at the station of the station, and is very convenient.",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model": "nllb",
+      "best_model_score": 0.6117260092869401
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        71,
+        821,
+        94,
+        845
+      ],
+      "text": "Talk about it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5938187837600708
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        685,
+        545,
+        777,
+        573
+      ],
+      "text": "People are people.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5277572274208069
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        678,
+        554,
+        782,
+        600
+      ],
+      "text": "The mountain is built on a high hill.",
+      "status": "merged_with",
+      "merged_with_idx": 14,
+      "best_model": "nllb",
+      "best_model_score": 0.52720046043396
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        402,
+        844,
+        421,
+        857
+      ],
+      "text": "the heart.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.44237378239631653
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        139,
+        1028,
+        214,
+        1099
+      ],
+      "text": "The first is the \"S\"",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.42492666840553284
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        301,
+        1203,
+        384,
+        1277
+      ],
+      "text": "Oh, my God.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.4019390642642975
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        74,
+        802,
+        91,
+        823
+      ],
+      "text": "The heart.",
+      "status": "merged_with",
+      "merged_with_idx": 15,
+      "best_model": "hl",
+      "best_model_score": 0.223518967628479
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        533,
+        553,
+        550,
+        572
+      ],
+      "text": "The heart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.06521592289209366
+    }
+  ],
+  "pg_13": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        406,
+        296,
+        458,
+        394
+      ],
+      "text": "Sorry, I was wrong.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9867342114448547
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        680,
+        88,
+        773,
+        190
+      ],
+      "text": "This is a bad thing you did.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9747814138730367
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        731,
+        248,
+        765,
+        344
+      ],
+      "text": "We are the ones who are responsible for the situation.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9357398748397827
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        648,
+        246,
+        711,
+        414
+      ],
+      "text": "As if you were all overwhelmed.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.901823490858078
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        31,
+        84,
+        93,
+        199
+      ],
+      "text": "I haven't even opened the plug yet.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8919740319252014
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        139,
+        90,
+        225,
+        212
+      ],
+      "text": "I'll do well with this.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.769961436589559
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        43,
+        805,
+        116,
+        872
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.17799866199493408
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        328,
+        344,
+        336,
+        366
+      ],
+      "text": "\"I'm not a fan of the show.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.08692298829555511
+    }
+  ],
+  "pg_14": [
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        210,
+        554,
+        289,
+        639
+      ],
+      "text": "Take a look at this.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9610895812511444
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        550,
+        733,
+        651,
+        915
+      ],
+      "text": "I'm not a first-class shooter.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9487836162249247
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        246,
+        90,
+        288,
+        217
+      ],
+      "text": "Oh yeah.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9453177452087402
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        654,
+        998,
+        755,
+        1133
+      ],
+      "text": "I don't know what you're talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.928121825059255
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        124,
+        740,
+        174,
+        882
+      ],
+      "text": "He killed me.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8690112829208374
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        265,
+        1109,
+        318,
+        1238
+      ],
+      "text": "I don't think we'll ever see each other again.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8679722845554352
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        670,
+        715,
+        773,
+        902
+      ],
+      "text": "Eight million dollars hanging around my neck.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8639006018638611
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        691,
+        253,
+        795,
+        386
+      ],
+      "text": "Don’t let me go, oh yeah.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8209072351455688
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        368,
+        60,
+        485,
+        187
+      ],
+      "text": "The bedtime was drunk and I was drunk.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.805372342467308
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        684,
+        57,
+        784,
+        200
+      ],
+      "text": "Hey, smart, who do you think I am?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.725002646446228
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        14,
+        721,
+        92,
+        904
+      ],
+      "text": "You're such a smart guy.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5556854456663132
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        345,
+        1226,
+        360,
+        1254
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.23446135222911835
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        39,
+        1032,
+        98,
+        1146
+      ],
+      "text": "The power of the East",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.19831740856170654
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        486,
+        257,
+        528,
+        316
+      ],
+      "text": "He's alive.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.12903307378292084
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        67,
+        1028,
+        80,
+        1041
+      ],
+      "text": "HAPPINESS",
+      "status": "merged_with",
+      "merged_with_idx": 12,
+      "best_model": "hl",
+      "best_model_score": 0.10183835029602051
+    }
+  ],
+  "pg_15": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        706,
+        216,
+        765,
+        318
+      ],
+      "text": "What's wrong with you?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9886938333511353
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        159,
+        989,
+        282,
+        1236
+      ],
+      "text": "I'm sure you'd be better off with this shit.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8436313271522522
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        428,
+        89,
+        477,
+        199
+      ],
+      "text": "I'll do it myself, that's all.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7959868609905243
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        682,
+        53,
+        772,
+        187
+      ],
+      "text": "I'm sorry, Mr. Mano.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7178816199302673
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        669,
+        999,
+        755,
+        1160
+      ],
+      "text": "The cleaning is not very nice; it is very nice.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6685654819011688
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        545,
+        78,
+        602,
+        134
+      ],
+      "text": "Ah. the name.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6083382964134216
+    }
+  ],
+  "pg_16": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        451,
+        797,
+        495,
+        909
+      ],
+      "text": "What is injured?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.959810733795166
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        430,
+        1182,
+        512,
+        1268
+      ],
+      "text": "It’s okay, no problem.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9214014609654745
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        698,
+        799,
+        784,
+        888
+      ],
+      "text": "Captain, are you all right?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8826435407002767
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        113,
+        0,
+        192,
+        189
+      ],
+      "text": "The back and neck are all together.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8239471912384033
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        297,
+        1024,
+        399,
+        1209
+      ],
+      "text": "What do you have in your head?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7334976593653361
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        687,
+        522,
+        774,
+        712
+      ],
+      "text": "I don't want to get drunk. I don't want to talk about it.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6671483417352041
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        11,
+        536,
+        127,
+        678
+      ],
+      "text": "I’m going to the city of insects.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6199457844098409
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        16,
+        809,
+        84,
+        947
+      ],
+      "text": "The world is full of shit!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.549182653427124
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        0,
+        1026,
+        118,
+        1187
+      ],
+      "text": "Well, then, there's the story.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.539672777056694
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        47,
+        561,
+        64,
+        579
+      ],
+      "text": "He is the one who is responsible for the deaths.",
+      "status": "merged_with",
+      "merged_with_idx": 7,
+      "best_model": "nllb",
+      "best_model_score": 0.32158157229423523
+    }
+  ],
+  "pg_17": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        505,
+        892,
+        580,
+        997
+      ],
+      "text": "I don't know how you feel, but I know.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9216174284617106
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        674,
+        451,
+        801,
+        729
+      ],
+      "text": "Why don't you fight a guy who's so mean and mean?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8482853889465332
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        38,
+        903,
+        173,
+        1037
+      ],
+      "text": "I don't know, the mountain is falling!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8450158983469009
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        289,
+        892,
+        403,
+        1057
+      ],
+      "text": "You're just drunk and you're not going to get angry, are you?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8039265394210815
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        40,
+        465,
+        237,
+        791
+      ],
+      "text": "How many of them, and strong, yet so excited, can you laugh at such a man or a fool or a pirate or a pirate?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7570437093575796
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        728,
+        86,
+        808,
+        286
+      ],
+      "text": "The one is the one!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.730513334274292
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        208,
+        913,
+        255,
+        1023
+      ],
+      "text": "It's over, Luxey. It's over.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7273492813110352
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        355,
+        93,
+        374,
+        128
+      ],
+      "text": "I'm not sure what to do.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5281257629394531
+    }
+  ],
+  "pg_18": [
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        589,
+        923,
+        643,
+        994
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.959716796875
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        314,
+        913,
+        411,
+        1079
+      ],
+      "text": "I can't believe this is happening.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9430729746818542
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        11,
+        1217,
+        70,
+        1298
+      ],
+      "text": "But first, it's a bit of a shock.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8701054751873016
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        13,
+        282,
+        76,
+        427
+      ],
+      "text": "What are you talking about?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8674746751785278
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        696,
+        428,
+        792,
+        811
+      ],
+      "text": "My hand was stumbling.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8549745082855225
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        14,
+        902,
+        126,
+        1035
+      ],
+      "text": "The dessert. p",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7593627770741781
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        200,
+        473,
+        293,
+        768
+      ],
+      "text": "What is this woman!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7086860537528992
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        511,
+        692,
+        557,
+        832
+      ],
+      "text": "I'm going to be a little bit more careful.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7086445093154907
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        432,
+        488,
+        515,
+        583
+      ],
+      "text": "You are the one who is the one who is the one who is the most powerful.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6963319977124532
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        430,
+        939,
+        562,
+        1247
+      ],
+      "text": "The fruit of Cacon taken from the mu enemy ship is mu.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6808344125747681
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        334,
+        141,
+        808,
+        444
+      ],
+      "text": "- What are you doing?",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "nllb",
+      "best_model_score": 0.4395766258239746
+    }
+  ],
+  "pg_19": [
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        155,
+        20,
+        191,
+        59
+      ],
+      "text": "I'm going to tell you, yeah.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9969925880432129
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        57,
+        965,
+        108,
+        1103
+      ],
+      "text": "Fish.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.96123868227005
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        31,
+        1121,
+        110,
+        1268
+      ],
+      "text": "The fish house is a small town.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9163087904453278
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        676,
+        37,
+        801,
+        267
+      ],
+      "text": "The reality of Comcom is that it's not really a comedy.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9046462774276733
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        686,
+        370,
+        798,
+        528
+      ],
+      "text": "The sea treasure, also known as the devil's fruit, is the secret of the sea.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8457253774007162
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        222,
+        67,
+        367,
+        474
+      ],
+      "text": "If you eat it all, you will get the whole body of humans on the ground and the body will not be able to swim.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7453351318836212
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        45,
+        394,
+        109,
+        505
+      ],
+      "text": "You're an idiot, you're a genius.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6832344035307566
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        721,
+        982,
+        775,
+        1062
+      ],
+      "text": "The Fisherman",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.33713388442993164
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        499,
+        935,
+        603,
+        1088
+      ],
+      "text": "Three.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.17413881421089172
+    }
+  ],
+  "pg_2": [
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        37,
+        1198,
+        100,
+        1294
+      ],
+      "text": "Oh, and the truth.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9939671754837036
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        468,
+        1133,
+        561,
+        1315
+      ],
+      "text": "Hey, Ruff, what are you doing?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9712088108062744
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        832,
+        34,
+        878,
+        141
+      ],
+      "text": "It's a port village.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9612124562263489
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        128,
+        1402,
+        198,
+        1494
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9007573127746582
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        41,
+        1402,
+        108,
+        1590
+      ],
+      "text": "Peace is peace.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8822879791259766
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        817,
+        1155,
+        904,
+        1304
+      ],
+      "text": "The wind is from the east.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7722229361534119
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        824,
+        630,
+        977,
+        758
+      ],
+      "text": "The port was about a year ago.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7559692859649658
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        87,
+        873,
+        219,
+        1020
+      ],
+      "text": "There's a pirate ship on board.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7041143278280894
+    }
+  ],
+  "pg_20": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        467,
+        888,
+        557,
+        1023
+      ],
+      "text": "The body was in rubber.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.960753877957662
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        704,
+        32,
+        771,
+        167
+      ],
+      "text": "Looks like you're having a lot of fun these days.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9413532316684723
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        4,
+        895,
+        147,
+        1073
+      ],
+      "text": "The captain seems to know a little bit more about it, but he doesn't want to talk to him anymore.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9364785075187683
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        178,
+        920,
+        211,
+        1035
+      ],
+      "text": "It's going to be a good one.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9356850981712341
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        7,
+        31,
+        180,
+        177
+      ],
+      "text": "Well, even if I live a life of cannabis, I'll be a pirate for life after falling from the sea.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8890889485677084
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        441,
+        50,
+        571,
+        201
+      ],
+      "text": "You could have been caught in the sea of pirates today, right?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8641525030136108
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        114,
+        428,
+        381,
+        587
+      ],
+      "text": "It's a very good idea.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8305060267448425
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        626,
+        500,
+        747,
+        764
+      ],
+      "text": "I don't know if I've ever been a scoundrel with rubber nuts.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8283364474773407
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        625,
+        877,
+        786,
+        1044
+      ],
+      "text": "What happened is certainly strange and interesting in the village, but what is the use of it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7945731083552042
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        324,
+        45,
+        404,
+        167
+      ],
+      "text": "You will swim all your life, and you will be in the workplace.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7894262472788492
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        270,
+        898,
+        425,
+        1049
+      ],
+      "text": "I'll tell you once and for all, you'll never be a pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.761138712366422
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        455,
+        1036,
+        510,
+        1130
+      ],
+      "text": "And then there's the village chief!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7267525792121887
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        10,
+        507,
+        97,
+        766
+      ],
+      "text": "The three of them are happy to have each one of them.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6493064314126968
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        277,
+        1076,
+        375,
+        1160
+      ],
+      "text": "Three.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5649651288986206
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        270,
+        227,
+        287,
+        258
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.1918022185564041
+    }
+  ],
+  "pg_21": [
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        154,
+        1095,
+        202,
+        1263
+      ],
+      "text": "I'll be in your way.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9463609457015991
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        437,
+        784,
+        493,
+        880
+      ],
+      "text": "I'm sorry for your loss.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9244158267974854
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        481,
+        930,
+        611,
+        1092
+      ],
+      "text": "You know, sometimes men have to do whatever they want.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8786806106567383
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        319,
+        548,
+        408,
+        686
+      ],
+      "text": "I'm not sure if I'm being treated like that.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.872354249159495
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        681,
+        537,
+        777,
+        686
+      ],
+      "text": "I had a lot of champagne on me!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8721774369478226
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        671,
+        925,
+        759,
+        1060
+      ],
+      "text": "I don't know, maquino's a once-in-a-lifetime thing.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8585172494252523
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        56,
+        116,
+        157,
+        293
+      ],
+      "text": "It’s not time for you to get rid of it, Lucky.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8277655243873596
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        49,
+        321,
+        156,
+        484
+      ],
+      "text": "No! I'm still letting you get away with that bandits thing!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8011018216609955
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        428,
+        542,
+        524,
+        733
+      ],
+      "text": "I thought they were a good pirate.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6918101112047831
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        488,
+        122,
+        576,
+        242
+      ],
+      "text": "The captain is far away from the sea and is far away from the sea.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.5461775243282319
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        46,
+        553,
+        146,
+        765
+      ],
+      "text": "I think seven years is cooler than being laughed at all.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5258247882127762
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        360,
+        943,
+        430,
+        1067
+      ],
+      "text": "I don't know what you're talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5208031336466471
+    }
+  ],
+  "pg_22": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        28,
+        89,
+        92,
+        227
+      ],
+      "text": "It's.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9868322014808655
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        15,
+        628,
+        164,
+        794
+      ],
+      "text": "And then I knocked on the door again, and I stopped by.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9041458249092102
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        398,
+        924,
+        486,
+        1044
+      ],
+      "text": "It's a very special place.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8653607666492462
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        359,
+        422,
+        380,
+        451
+      ],
+      "text": "Tada",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8643433451652527
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        704,
+        344,
+        809,
+        537
+      ],
+      "text": "Today the pirates are gathering together in a quiet and peaceful.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7936122020085653
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        707,
+        905,
+        789,
+        1046
+      ],
+      "text": "It's just one pi wart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.610753337542216
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        0,
+        1057,
+        100,
+        1289
+      ],
+      "text": "Nine of the wines.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.5865760147571564
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        480,
+        897,
+        671,
+        1028
+      ],
+      "text": "That's right.",
+      "status": "merged_with",
+      "merged_with_idx": 2,
+      "best_model": "hl",
+      "best_model_score": 0.19209188222885132
+    }
+  ],
+  "pg_23": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        386,
+        342,
+        456,
+        486
+      ],
+      "text": "What's wrong with the carrots?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9552043378353119
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        231,
+        811,
+        263,
+        943
+      ],
+      "text": "It's not a bad thing.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9041000008583069
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        107,
+        810,
+        198,
+        962
+      ],
+      "text": "Hey, you can help Rufi.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8457183043162028
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        0,
+        812,
+        88,
+        958
+      ],
+      "text": "But the enemy is a bandit and they can kill him.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8342066009839376
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        675,
+        808,
+        765,
+        926
+      ],
+      "text": "It may be true, but it's a real thing.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8317383925120035
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        216,
+        340,
+        268,
+        477
+      ],
+      "text": "The world is full of people.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8058665990829468
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        6,
+        346,
+        85,
+        505
+      ],
+      "text": "The candles are for the bandits.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8044840097427368
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        284,
+        354,
+        367,
+        468
+      ],
+      "text": "You're in such a hurry.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7707275152206421
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        -1,
+        1178,
+        122,
+        1297
+      ],
+      "text": "This fight is a fight between the ruff and the trickster.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7448422387242317
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        676,
+        344,
+        785,
+        503
+      ],
+      "text": "Mr. Murata-san, you've got a lot of work to do.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6791405454277992
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        279,
+        806,
+        352,
+        916
+      ],
+      "text": "It's also true.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5186486343542734
+    }
+  ],
+  "pg_24": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        408,
+        0,
+        501,
+        189
+      ],
+      "text": "Don't be fooled by me.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.955014169216156
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        0,
+        204,
+        81,
+        374
+      ],
+      "text": "What a weird creature there must be!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9376680850982666
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        562,
+        923,
+        636,
+        1036
+      ],
+      "text": "It is a new kind of discovery.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8866023421287537
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        311,
+        14,
+        370,
+        202
+      ],
+      "text": "Let's do it, you son of a bitch.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.873744010925293
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        690,
+        0,
+        761,
+        188
+      ],
+      "text": "The Oh!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8362784385681152
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        299,
+        273,
+        368,
+        394
+      ],
+      "text": "I don't know who you're talking about. I don't know what you're talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7125896364450455
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        413,
+        932,
+        523,
+        1099
+      ],
+      "text": "The items are sold in a small cottage and sold out.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7075052075088024
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        9,
+        927,
+        95,
+        1126
+      ],
+      "text": "I think it’s going to be money to say.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6917598942915598
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        3,
+        744,
+        57,
+        862
+      ],
+      "text": "Oh, and the.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6055606007575989
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        713,
+        907,
+        784,
+        1068
+      ],
+      "text": "Let's try[amigo] friendship",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5565436705946922
+    }
+  ],
+  "pg_25": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        11,
+        998,
+        115,
+        1254
+      ],
+      "text": "Let's make a mistake.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9271617829799652
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        701,
+        467,
+        783,
+        596
+      ],
+      "text": "It's a little bit of a mess.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9123615026473999
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        11,
+        690,
+        110,
+        860
+      ],
+      "text": "I have said something about you (and I have said something about you).",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8226369917392731
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        691,
+        -1,
+        774,
+        372
+      ],
+      "text": "Oh Oh Oh Oh!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8051488995552063
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        307,
+        679,
+        365,
+        855
+      ],
+      "text": "I've been drinking two drinks and I've been talking to you two.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5799511720736822
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        29,
+        52,
+        123,
+        190
+      ],
+      "text": "I was so excited to get to know you.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.5277773141860962
+    }
+  ],
+  "pg_26": [
+    {
+      "idx": 18,
+      "bbox_xyxy": [
+        505,
+        928,
+        684,
+        1029
+      ],
+      "text": "The first is that there is no one.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9787156581878662
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        406,
+        446,
+        455,
+        552
+      ],
+      "text": "Please.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9335296154022217
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        726,
+        1111,
+        792,
+        1301
+      ],
+      "text": "I'm not interested in arguing.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8996713161468506
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        221,
+        1216,
+        285,
+        1301
+      ],
+      "text": "And then there was the village chief.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8591145575046539
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        406,
+        912,
+        486,
+        1015
+      ],
+      "text": "Unfortunately, if you don’t pay the money.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8213936686515808
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        2,
+        1138,
+        74,
+        1292
+      ],
+      "text": "I know how to pass through the world.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8207281529903412
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        133,
+        1160,
+        193,
+        1267
+      ],
+      "text": "You're an old man, aren't you?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7463100055853525
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        403,
+        1173,
+        487,
+        1301
+      ],
+      "text": "It will save the child's life.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7272903819878896
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        606,
+        441,
+        718,
+        557
+      ],
+      "text": "Let me leave the child! 2.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7058637470006943
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        700,
+        906,
+        791,
+        1035
+      ],
+      "text": "I don't know if you did it or if you did it.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6848355333010355
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        0,
+        64,
+        61,
+        313
+      ],
+      "text": "The mountains",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6322396993637085
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        459,
+        283,
+        548,
+        393
+      ],
+      "text": "Everything in between can be turned upside down.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6029230579733849
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        392,
+        607,
+        430,
+        645
+      ],
+      "text": "The country is a country.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.560206413269043
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        298,
+        606,
+        335,
+        643
+      ],
+      "text": "The country is a country.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.3734160363674164
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        300,
+        650,
+        335,
+        687
+      ],
+      "text": "Tada",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.33379921317100525
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        451,
+        639,
+        468,
+        658
+      ],
+      "text": "The West is the West.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.142745241522789
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        186,
+        526,
+        215,
+        564
+      ],
+      "text": "-Yu.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.11989431083202362
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        126,
+        528,
+        150,
+        560
+      ],
+      "text": "I'm going to use it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.1073930412530899
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        46,
+        923,
+        76,
+        983
+      ],
+      "text": "There is no such thing as a free lunch.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.09438451379537582
+    }
+  ],
+  "pg_27": [
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        22,
+        1022,
+        54,
+        1129
+      ],
+      "text": "I don't know what you're talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9788246154785156
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        367,
+        744,
+        411,
+        866
+      ],
+      "text": "and LUF!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9411142468452454
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        245,
+        467,
+        317,
+        595
+      ],
+      "text": "The fault is you.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9290912747383118
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        454,
+        904,
+        644,
+        992
+      ],
+      "text": "The sound of the sound.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8672335147857666
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        0,
+        132,
+        60,
+        336
+      ],
+      "text": "It's not very pleasant because I'm.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8647749722003937
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        674,
+        731,
+        776,
+        861
+      ],
+      "text": "I'm not going to sell you the °.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7736361821492513
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        6,
+        737,
+        82,
+        941
+      ],
+      "text": "Please, look at me!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7341431975364685
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        295,
+        1014,
+        396,
+        1141
+      ],
+      "text": "No one in the harbor can afford it.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6966672502458096
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        454,
+        730,
+        562,
+        886
+      ],
+      "text": "We are going to kill and kill.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6699090103308359
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        703,
+        82,
+        771,
+        269
+      ],
+      "text": "It's pi, but it's not pi.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6559661626815796
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        234,
+        136,
+        320,
+        368
+      ],
+      "text": "This is literally weak, and it’s been caught by a little cowboy.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6312807239592075
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        349,
+        98,
+        435,
+        271
+      ],
+      "text": "You've made me so angry that I'm.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6060300953686237
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        703,
+        292,
+        778,
+        466
+      ],
+      "text": "Well, he's a great student now, isn't he?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6056171357631683
+    }
+  ],
+  "pg_28": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        342,
+        1050,
+        447,
+        1218
+      ],
+      "text": "You were cleaning up the village, by the way?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9202003479003906
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        34,
+        40,
+        172,
+        294
+      ],
+      "text": "Your ex-Bunch was like a gun, wasn't it?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9110349655151367
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        184,
+        775,
+        299,
+        921
+      ],
+      "text": "I don't know what you're doing here, but you gotta get out of here.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8679808527231216
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        680,
+        56,
+        781,
+        164
+      ],
+      "text": "You will be a mountain thief one day.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8606522679328918
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        26,
+        773,
+        119,
+        919
+      ],
+      "text": "Even more so, if you do, you will be shot and killed.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8197239438692728
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        709,
+        1029,
+        741,
+        1091
+      ],
+      "text": "The Thief.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7208890318870544
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        228,
+        317,
+        270,
+        437
+      ],
+      "text": "Captain, you are the one who is responsible for the ship.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6396112143993378
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        661,
+        1084,
+        713,
+        1203
+      ],
+      "text": "He was there and was in the village.",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "fb",
+      "best_model_score": 0.5737686405579249
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        661,
+        1037,
+        679,
+        1067
+      ],
+      "text": "Hello, I have been waiting for you.",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "nllb",
+      "best_model_score": 0.34297800064086914
+    }
+  ],
+  "pg_29": [
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        30,
+        240,
+        72,
+        330
+      ],
+      "text": "I'm going to do it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9613475203514099
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        422,
+        385,
+        522,
+        530
+      ],
+      "text": "I'm going to throw my head, haha.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9460286299387614
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        94,
+        243,
+        135,
+        333
+      ],
+      "text": "Oh yeah?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9084089398384094
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        274,
+        242,
+        338,
+        392
+      ],
+      "text": "The gun was removed and the gun was removed.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8799692392349243
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        267,
+        404,
+        334,
+        525
+      ],
+      "text": "Put your life on the line.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7856042683124542
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        585,
+        600,
+        722,
+        805
+      ],
+      "text": "I said, \"You've got to be kidding me. \"",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7659066766500473
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        435,
+        102,
+        445,
+        112
+      ],
+      "text": "PHILIPPINES",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6749710440635681
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        683,
+        12,
+        768,
+        204
+      ],
+      "text": "Have you ever been so excited! getting closer and closer.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6605297289788723
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        435,
+        0,
+        660,
+        104
+      ],
+      "text": "Thousand",
+      "status": "merged_with",
+      "merged_with_idx": 9,
+      "best_model": "fb",
+      "best_model_score": 0.4180562198162079
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        111,
+        57,
+        148,
+        112
+      ],
+      "text": "The world is full of them.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.03769326210021973
+    }
+  ],
+  "pg_3": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        450,
+        936,
+        518,
+        1098
+      ],
+      "text": "Oh, and the truth.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.956069827079773
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        705,
+        587,
+        833,
+        655
+      ],
+      "text": "The boy with the marks.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.856730043888092
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        899,
+        832,
+        997,
+        969
+      ],
+      "text": "I don't know what you're talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.85588139295578
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        551,
+        839,
+        675,
+        965
+      ],
+      "text": "There's a lot of interesting work going on again.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8367978483438492
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        755,
+        688,
+        861,
+        739
+      ],
+      "text": "Rufi is a very good person.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8360430598258972
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        803,
+        12,
+        963,
+        403
+      ],
+      "text": "I’m not going to play half it’s already done!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8324688673019409
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        286,
+        0,
+        417,
+        106
+      ],
+      "text": "Uh-huh.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8019338846206665
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        822,
+        1270,
+        875,
+        1372
+      ],
+      "text": "What a.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7778750061988831
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        713,
+        653,
+        904,
+        699
+      ],
+      "text": "Monkey Ro is a monkey.",
+      "status": "merged_with",
+      "merged_with_idx": 11,
+      "best_model": "nllb",
+      "best_model_score": 0.7671186327934265
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        36,
+        3,
+        180,
+        357
+      ],
+      "text": "Show me the evidence.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.750668853521347
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        214,
+        1315,
+        339,
+        1481
+      ],
+      "text": "What the fuck are you, stupid bastard!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7432640790939331
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        904,
+        1018,
+        1005,
+        1119
+      ],
+      "text": "I know what to do with my life.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6212729588150978
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        512,
+        0,
+        623,
+        105
+      ],
+      "text": "A woman is a woman.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.452869176864624
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        571,
+        555,
+        587,
+        572
+      ],
+      "text": "respected",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.17229105532169342
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        264,
+        1500,
+        323,
+        1554
+      ],
+      "text": "The book is a classic.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.1613076776266098
+    }
+  ],
+  "pg_30": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        24,
+        668,
+        117,
+        833
+      ],
+      "text": "You think you're dealing with a saint?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9566412369410197
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        560,
+        683,
+        610,
+        851
+      ],
+      "text": "Oh, my God.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8329589366912842
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        157,
+        673,
+        227,
+        793
+      ],
+      "text": "It's a bit of a shock.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.818578690290451
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        713,
+        651,
+        791,
+        876
+      ],
+      "text": "but for the sake of it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7497430443763733
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        328,
+        671,
+        383,
+        792
+      ],
+      "text": "The foolish?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6886008381843567
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        442,
+        664,
+        538,
+        864
+      ],
+      "text": "What a mess they are.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6395301520824432
+    }
+  ],
+  "pg_31": [
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        0,
+        57,
+        90,
+        276
+      ],
+      "text": "They are pirates.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9855329990386963
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        656,
+        860,
+        791,
+        1185
+      ],
+      "text": "Whatever the reason, it's not a good idea.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.91374871134758
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        8,
+        424,
+        152,
+        569
+      ],
+      "text": "I don't care if you spit on me or not, but most of the things I laugh at and stare at.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8505026996135712
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        41,
+        634,
+        80,
+        744
+      ],
+      "text": "But it is!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8167949914932251
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        5,
+        878,
+        201,
+        1204
+      ],
+      "text": "I will not forgive those who hurt my friends.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8149763271212578
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        651,
+        423,
+        780,
+        546
+      ],
+      "text": "Shut the fuck up, man. I ain't got nothing to do with you.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8062767744064331
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        502,
+        422,
+        578,
+        511
+      ],
+      "text": "Look at the people who are robbers.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7743410070737203
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        502,
+        565,
+        579,
+        745
+      ],
+      "text": "I’m going to drink and eat, but I’m going to drink and eat.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.686209574341774
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        674,
+        94,
+        803,
+        226
+      ],
+      "text": "What is before your eyes is the rejuvenation.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6642780780792237
+    }
+  ],
+  "pg_32": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        318,
+        304,
+        342,
+        399
+      ],
+      "text": "Ninja.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9832664728164673
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        54,
+        496,
+        266,
+        553
+      ],
+      "text": "Oh yeah yeah!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9450733065605164
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        226,
+        119,
+        274,
+        392
+      ],
+      "text": "The first is that it is a",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9224727749824524
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        715,
+        951,
+        767,
+        1029
+      ],
+      "text": "You are dying.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9037631750106812
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        13,
+        126,
+        61,
+        379
+      ],
+      "text": "What is it that you are saying?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8983157277107239
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        338,
+        528,
+        452,
+        769
+      ],
+      "text": "You're a bastard and you're a fucking asshole.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.813263076543808
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        681,
+        720,
+        766,
+        835
+      ],
+      "text": "*The fact that the bandits are so nice makes them laugh.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7805570214986801
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        133,
+        1189,
+        177,
+        1253
+      ],
+      "text": "and",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6981677412986755
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        673,
+        515,
+        760,
+        649
+      ],
+      "text": "The sea is full of pirates floating around.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6701809167861938
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        370,
+        868,
+        751,
+        1077
+      ],
+      "text": "Ingredients",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "hl",
+      "best_model_score": 0.20654964447021484
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        388,
+        583,
+        448,
+        646
+      ],
+      "text": "Oh, my God.",
+      "status": "merged_with",
+      "merged_with_idx": 3,
+      "best_model": "hl",
+      "best_model_score": 0.09839360415935516
+    }
+  ],
+  "pg_33": [
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        20,
+        560,
+        76,
+        755
+      ],
+      "text": "That's all you need to know.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8232388496398926
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        685,
+        493,
+        745,
+        724
+      ],
+      "text": "The story is told through the eyes of a young boy.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6338629126548767
+    }
+  ],
+  "pg_34": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        295,
+        366,
+        333,
+        505
+      ],
+      "text": "You have to come.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.998055100440979
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        10,
+        731,
+        56,
+        884
+      ],
+      "text": "This is great.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9751655459403992
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        8,
+        387,
+        54,
+        549
+      ],
+      "text": "continue.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.966754138469696
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        697,
+        340,
+        786,
+        504
+      ],
+      "text": "One way or another, I'm going to be a little bit more upset.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8510016202926636
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        23,
+        31,
+        117,
+        280
+      ],
+      "text": "Don't be so proud of yourself as a bandit.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8443414171536764
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        278,
+        1018,
+        357,
+        1180
+      ],
+      "text": "Which way is the prize.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.797036329905192
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        367,
+        363,
+        417,
+        481
+      ],
+      "text": "At the same time, the military ship.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6881134957075119
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        570,
+        997,
+        657,
+        1290
+      ],
+      "text": "♪ Wait a minute. ♪ That little bastard came inside ♪",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5497934650629759
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        706,
+        1000,
+        757,
+        1080
+      ],
+      "text": "And then there's the story.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.32921522855758667
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        428,
+        533,
+        468,
+        590
+      ],
+      "text": "The country is a country.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.1659652143716812
+    }
+  ],
+  "pg_35": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        726,
+        16,
+        790,
+        111
+      ],
+      "text": "I'm going to tell you about the story.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.993992269039154
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        0,
+        1210,
+        30,
+        1300
+      ],
+      "text": "The people.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.941927969455719
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        671,
+        912,
+        795,
+        1285
+      ],
+      "text": "Fuck you, you refused!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9072766701380411
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        60,
+        551,
+        101,
+        643
+      ],
+      "text": "Rufi is a very good person.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8841462135314941
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        150,
+        971,
+        285,
+        1260
+      ],
+      "text": "You're such an idiot! You're so stupid! We're all gonna find you!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8710907548666
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        68,
+        953,
+        112,
+        1043
+      ],
+      "text": "It's a shame.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8187113404273987
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        280,
+        560,
+        385,
+        805
+      ],
+      "text": "Oh, my God! I can't let you do this!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8025999665260315
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        3,
+        265,
+        34,
+        317
+      ],
+      "text": "I'll take care of it.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.2221137434244156
+    }
+  ],
+  "pg_36": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        584,
+        870,
+        647,
+        995
+      ],
+      "text": "My mother-in-law.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9538810849189758
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        0,
+        483,
+        79,
+        675
+      ],
+      "text": "You are going to die!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8620557487010956
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        702,
+        475,
+        793,
+        622
+      ],
+      "text": "Well, I've brought you back as a hostage, but I'm not.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7770084142684937
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        16,
+        249,
+        115,
+        394
+      ],
+      "text": "#Or I don't think the pirates drowned in the sea[#]",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7195059657096863
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        515,
+        64,
+        604,
+        175
+      ],
+      "text": "One of them is a little bit of a mess.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7155139446258545
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        518,
+        274,
+        599,
+        379
+      ],
+      "text": "I made it look good on you.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7072673638661703
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        263,
+        485,
+        343,
+        644
+      ],
+      "text": "The last year's slaves have killed everyone in the past.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.702916830778122
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        238,
+        831,
+        543,
+        955
+      ],
+      "text": "The Don!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6787639260292053
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        736,
+        679,
+        776,
+        748
+      ],
+      "text": "To use [*]",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.5650913640856743
+    }
+  ],
+  "pg_37": [
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        676,
+        370,
+        710,
+        486
+      ],
+      "text": "Have you seen it?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9897850155830383
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        525,
+        1132,
+        588,
+        1259
+      ],
+      "text": "Oh, yeah!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9746311902999878
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        25,
+        744,
+        202,
+        929
+      ],
+      "text": "Don’t make the shans foolish.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.91248939037323
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        319,
+        765,
+        484,
+        925
+      ],
+      "text": "I'm gonna make a fool of the Shankes. I'm not gonna sit down.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8481869697570801
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        255,
+        547,
+        315,
+        677
+      ],
+      "text": "It's hard to be a little bit more careful.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8479794263839722
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        353,
+        356,
+        453,
+        541
+      ],
+      "text": "You don't like it when you're under the influence of alcohol. You don't like it.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8366706569989523
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        251,
+        358,
+        318,
+        522
+      ],
+      "text": "When I look at the back of my head, I see it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.827688068151474
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        364,
+        3,
+        427,
+        143
+      ],
+      "text": "I'm going to be a fucking asshole.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8232358396053314
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        16,
+        179,
+        77,
+        313
+      ],
+      "text": "The first one is the second one.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8081424832344055
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        683,
+        748,
+        762,
+        883
+      ],
+      "text": "Pirates are like that. They're like that.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8031127254168192
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        252,
+        9,
+        306,
+        142
+      ],
+      "text": "It was impossible to stop.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7959828972816467
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        390,
+        1145,
+        469,
+        1288
+      ],
+      "text": "Don't do this, Rooky!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7427929937839508
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        552,
+        746,
+        602,
+        890
+      ],
+      "text": "Stop it and let it go.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.74188631772995
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        520,
+        206,
+        584,
+        314
+      ],
+      "text": "The boy is a boy.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7237315773963928
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        9,
+        363,
+        137,
+        476
+      ],
+      "text": "I thought I was going to kill him.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6930588483810425
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        40,
+        31,
+        89,
+        116
+      ],
+      "text": "The life of the child is a dream.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.657177060842514
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        360,
+        530,
+        442,
+        695
+      ],
+      "text": "The first is the first, the second is the second.",
+      "status": "merged_with",
+      "merged_with_idx": 8,
+      "best_model": "nllb",
+      "best_model_score": 0.5813738666474819
+    },
+    {
+      "idx": 18,
+      "bbox_xyxy": [
+        490,
+        450,
+        633,
+        488
+      ],
+      "text": "The story is told from the perspective of a young boy.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.46300560235977173
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        142,
+        19,
+        171,
+        115
+      ],
+      "text": "Three.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.4598415791988373
+    }
+  ],
+  "pg_38": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        4,
+        311,
+        60,
+        367
+      ],
+      "text": "It's a very good idea.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.994765043258667
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        15,
+        422,
+        114,
+        530
+      ],
+      "text": "what kind of monster is this.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9479802250862122
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        382,
+        68,
+        455,
+        316
+      ],
+      "text": "The first is to get rid of the old ones.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9145243763923645
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        224,
+        631,
+        274,
+        704
+      ],
+      "text": "What is it?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8178707361221313
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        707,
+        818,
+        767,
+        1212
+      ],
+      "text": "Oh, and I'm so sorry.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.3844285011291504
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        125,
+        403,
+        337,
+        544
+      ],
+      "text": "In the middle.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.07304968684911728
+    }
+  ],
+  "pg_39": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        698,
+        1121,
+        749,
+        1284
+      ],
+      "text": "Shanks is a very good man.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9921759366989136
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        684,
+        370,
+        789,
+        593
+      ],
+      "text": "Oh Oh Oh Oh",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9475044310092926
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        414,
+        1019,
+        430,
+        1035
+      ],
+      "text": "Two.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.2650455832481384
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        0,
+        223,
+        610,
+        601
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.06489051878452301
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        512,
+        339,
+        622,
+        418
+      ],
+      "text": "It's a shop.",
+      "status": "merged_with",
+      "merged_with_idx": 2,
+      "best_model": "hl",
+      "best_model_score": 0.052735067903995514
+    }
+  ],
+  "pg_4": [
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        164,
+        22,
+        266,
+        177
+      ],
+      "text": "Roots and Roots of Rufus",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9931992590427399
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        15,
+        392,
+        127,
+        514
+      ],
+      "text": "It's hard to see a fight.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.985745906829834
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        858,
+        401,
+        962,
+        558
+      ],
+      "text": "I'm not sure if I'll drink or not.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9696507751941681
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        160,
+        402,
+        195,
+        527
+      ],
+      "text": "I'm going to tell you something.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9672264456748962
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        0,
+        68,
+        132,
+        205
+      ],
+      "text": "Our great expedition.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9465251962343851
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        793,
+        1126,
+        850,
+        1286
+      ],
+      "text": "there was no",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9426876902580261
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        0,
+        1200,
+        103,
+        1503
+      ],
+      "text": "You want to be a pirate and become a pirate.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9415656626224518
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        445,
+        1125,
+        599,
+        1593
+      ],
+      "text": "I'm injured and I'm not afraid of anything! take me to the next ship.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9307867685953776
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        871,
+        1120,
+        933,
+        1241
+      ],
+      "text": "Oh Oh",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9276219606399536
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        762,
+        117,
+        868,
+        266
+      ],
+      "text": "Let's drink to the boys.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9110829532146454
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        643,
+        398,
+        682,
+        559
+      ],
+      "text": "Enough is enough.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8995363116264343
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        429,
+        389,
+        558,
+        556
+      ],
+      "text": "I'm the fucking meat!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8758855859438578
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        252,
+        387,
+        352,
+        558
+      ],
+      "text": "I'm going to eat.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8611531257629395
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        628,
+        1127,
+        754,
+        1322
+      ],
+      "text": "No way! You're such an idiot!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8117445508639017
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        134,
+        540,
+        528,
+        665
+      ],
+      "text": "The grass is soaked.",
+      "status": "merged_with",
+      "merged_with_idx": 7,
+      "best_model": "nllb",
+      "best_model_score": 0.5705318450927734
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        674,
+        565,
+        868,
+        647
+      ],
+      "text": "Oh, and oh, oh,",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.49228063225746155
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        321,
+        95,
+        355,
+        134
+      ],
+      "text": "hanging",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.13747024536132812
+    }
+  ],
+  "pg_40": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        29,
+        334,
+        130,
+        563
+      ],
+      "text": "Get the fuck out of here.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9044284820556641
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        523,
+        352,
+        807,
+        641
+      ],
+      "text": "The mouth",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.3701479732990265
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        110,
+        656,
+        149,
+        693
+      ],
+      "text": "It's good.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.09071092307567596
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        0,
+        0,
+        327,
+        374
+      ],
+      "text": "Old man,",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "nllb",
+      "best_model_score": 0.024270430207252502
+    }
+  ],
+  "pg_41": [
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        37,
+        428,
+        78,
+        627
+      ],
+      "text": "The jingles.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9508956670761108
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        657,
+        399,
+        759,
+        559
+      ],
+      "text": "You are a crying man, right?",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.946440577507019
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        357,
+        413,
+        399,
+        617
+      ],
+      "text": "Because.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8021880984306335
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        52,
+        109,
+        160,
+        308
+      ],
+      "text": "You've been fighting for so long.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.785260538260142
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        662,
+        212,
+        774,
+        334
+      ],
+      "text": "I've heard all about you, ma'am.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6784478798508644
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        674,
+        74,
+        781,
+        158
+      ],
+      "text": "and the worship of the worship.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.5463402718305588
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        631,
+        760,
+        698,
+        812
+      ],
+      "text": "The wrist.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.4696044921875
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        442,
+        531,
+        464,
+        555
+      ],
+      "text": "Eight.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.1890588253736496
+    }
+  ],
+  "pg_42": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        677,
+        482,
+        821,
+        908
+      ],
+      "text": "Oh Oh Oh Oh Oh Oh",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9828104078769684
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        272,
+        1080,
+        304,
+        1172
+      ],
+      "text": "And most of all, it's not.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.970656156539917
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        720,
+        298,
+        755,
+        351
+      ],
+      "text": "one one",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9612799882888794
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        552,
+        1085,
+        598,
+        1247
+      ],
+      "text": "The roughness of the sea.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9494284391403198
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        182,
+        1074,
+        249,
+        1227
+      ],
+      "text": "The greatness of man was known to the Rufians.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9418230950832367
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        325,
+        198,
+        442,
+        371
+      ],
+      "text": "I was happy to be safe.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8644506335258484
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        694,
+        217,
+        759,
+        287
+      ],
+      "text": "The wrists of the wrists.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8488101959228516
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        400,
+        1083,
+        444,
+        1248
+      ],
+      "text": "It's my own inhumanity.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8382095098495483
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        698,
+        1081,
+        803,
+        1285
+      ],
+      "text": "The reason why the Shanks sailed is that they were the only ones who could.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7744256456693014
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        59,
+        1114,
+        151,
+        1280
+      ],
+      "text": "I thought from a very small ** heart that such a man was quite tough.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7583609640598297
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        313,
+        839,
+        416,
+        975
+      ],
+      "text": "Oh Oh",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7379162311553955
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        673,
+        43,
+        772,
+        165
+      ],
+      "text": "\\ It's cheap. [\\]",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7142970462640127
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        432,
+        837,
+        566,
+        982
+      ],
+      "text": "The City",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.05657776817679405
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        432,
+        612,
+        454,
+        637
+      ],
+      "text": "I'm going to try to get it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.05452723801136017
+    }
+  ],
+  "pg_43": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        479,
+        42,
+        532,
+        128
+      ],
+      "text": "Oh yeah.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9626874923706055
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        469,
+        508,
+        564,
+        644
+      ],
+      "text": "I made it for myself, for the pirates.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9468145966529846
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        710,
+        488,
+        785,
+        652
+      ],
+      "text": "It's sad, but it's not.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9455381035804749
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        21,
+        328,
+        53,
+        439
+      ],
+      "text": "It's sad, isn't it?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9306110143661499
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        598,
+        76,
+        766,
+        204
+      ],
+      "text": "Is it true that even if you leave this ship, you will return to this town again!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9064173936843872
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        700,
+        684,
+        787,
+        819
+      ],
+      "text": "I'm not gonna tell you to take me away from here!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8812634348869324
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        342,
+        508,
+        431,
+        649
+      ],
+      "text": "Please take me to the hospital.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8613114158312479
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        14,
+        520,
+        109,
+        820
+      ],
+      "text": "I don't know if you can be a pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7443264275789261
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        383,
+        1084,
+        535,
+        1259
+      ],
+      "text": "I will someday gather a group of friends who will never lose this flavor.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7392690122127533
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        24,
+        1098,
+        111,
+        1273
+      ],
+      "text": "The world's largest treasure is the world's largest treasure.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.679062657058239
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        30,
+        37,
+        116,
+        178
+      ],
+      "text": "After a long stay, I finally said goodbye.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.653463251888752
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        329,
+        65,
+        355,
+        94
+      ],
+      "text": "The country is a country.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.1819370687007904
+    }
+  ],
+  "pg_44": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        4,
+        99,
+        104,
+        214
+      ],
+      "text": "Well, you’re going to go beyond us.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9023757576942444
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        634,
+        704,
+        755,
+        874
+      ],
+      "text": "This hat is a hat.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9012666046619415
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        20,
+        475,
+        71,
+        619
+      ],
+      "text": "And then.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9001418948173523
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        517,
+        27,
+        683,
+        213
+      ],
+      "text": "You're a pirate king. You're a pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7467387318611145
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        36,
+        711,
+        174,
+        882
+      ],
+      "text": "*I'll leave it up to you*",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6257624886929989
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        122,
+        156,
+        138,
+        174
+      ],
+      "text": "The heart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.4234159588813782
+    }
+  ],
+  "pg_45": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        671,
+        19,
+        760,
+        207
+      ],
+      "text": "It's a precious hat for me.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9658302068710327
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        4,
+        490,
+        79,
+        679
+      ],
+      "text": "You're a good pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9075416922569275
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        700,
+        974,
+        742,
+        1044
+      ],
+      "text": "Oh yeah.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8966891169548035
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        737,
+        825,
+        795,
+        963
+      ],
+      "text": "He's going to grow up.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.890975683927536
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        24,
+        1163,
+        136,
+        1295
+      ],
+      "text": "The year will begin at this place in years to come.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8485313653945923
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        646,
+        1151,
+        767,
+        1242
+      ],
+      "text": "And this year's best adventure is coming.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8318218737840652
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        54,
+        847,
+        91,
+        1003
+      ],
+      "text": "The ship is still there.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8184537887573242
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        378,
+        817,
+        451,
+        1033
+      ],
+      "text": "The first three were made around the time of the incident.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6780756115913391
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        671,
+        363,
+        759,
+        557
+      ],
+      "text": "I'm sure someday you'll come back to me.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5451438017189503
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        275,
+        846,
+        349,
+        1000
+      ],
+      "text": "* raise your head high**",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.4255687892436981
+    }
+  ],
+  "pg_46": [
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        41,
+        928,
+        140,
+        1039
+      ],
+      "text": "Today is the day of the ship's departure.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9160135388374329
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        116,
+        431,
+        175,
+        566
+      ],
+      "text": "I don't want to be a pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8221362829208374
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        643,
+        446,
+        739,
+        617
+      ],
+      "text": "I was so upset, the village chief.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7710426847139994
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        1,
+        661,
+        80,
+        768
+      ],
+      "text": "I didn't really think I was going to do that.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7281451523303986
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        418,
+        444,
+        483,
+        554
+      ],
+      "text": "It's going to be pi.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.5642638877034187
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        434,
+        1083,
+        476,
+        1164
+      ],
+      "text": "- I'm going to try to get it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.2827933728694916
+    }
+  ],
+  "pg_47": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        11,
+        187,
+        55,
+        268
+      ],
+      "text": "That's what I'm talking about.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9281728565692902
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        303,
+        69,
+        382,
+        207
+      ],
+      "text": "The Lord of the Near and Middle Seas is a man of great power.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8600294987360636
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        19,
+        431,
+        75,
+        585
+      ],
+      "text": "He's been training for the year. He's here.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.74629345536232
+    }
+  ],
+  "pg_48": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        585,
+        169,
+        641,
+        310
+      ],
+      "text": "The pistol is a pistol.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9833022952079773
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        408,
+        148,
+        603,
+        326
+      ],
+      "text": "The gun.",
+      "status": "merged_with",
+      "merged_with_idx": 0,
+      "best_model": "fb",
+      "best_model_score": 0.7896304726600647
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        309,
+        683,
+        330,
+        701
+      ],
+      "text": "The river",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.1953127533197403
+    }
+  ],
+  "pg_49": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        -1,
+        959,
+        76,
+        1083
+      ],
+      "text": "And the flag of the pirates.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9693581163883209
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        286,
+        1148,
+        359,
+        1300
+      ],
+      "text": "People want to be able to do that.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9087598919868469
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        728,
+        1158,
+        789,
+        1298
+      ],
+      "text": "A gathering of people.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8658959865570068
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        688,
+        657,
+        772,
+        774
+      ],
+      "text": "You know what I'm talking about?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8217895328998566
+    }
+  ],
+  "pg_5": [
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        114,
+        607,
+        160,
+        644
+      ],
+      "text": "to the right.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.995383083820343
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        755,
+        804,
+        862,
+        853
+      ],
+      "text": "The head of a pirate.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9830989241600037
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        79,
+        639,
+        113,
+        680
+      ],
+      "text": "And the rest of the world.",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model": "nllb",
+      "best_model_score": 0.9524683952331543
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        223,
+        525,
+        364,
+        704
+      ],
+      "text": "You don't have to drop out of a boat if you don't want to.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8910407871007919
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        233,
+        1057,
+        337,
+        1197
+      ],
+      "text": "Because you have gotten.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8572402199109396
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        760,
+        851,
+        877,
+        897
+      ],
+      "text": "Red-haired people.",
+      "status": "merged_with",
+      "merged_with_idx": 11,
+      "best_model": "nllb",
+      "best_model_score": 0.8391197323799133
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        875,
+        121,
+        984,
+        398
+      ],
+      "text": "You are a pirate.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8290195465087891
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        0,
+        1041,
+        158,
+        1239
+      ],
+      "text": "My pants are strong with a gun.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8043750325838724
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        772,
+        885,
+        937,
+        934
+      ],
+      "text": "Shanks is a very good man.",
+      "status": "merged_with",
+      "merged_with_idx": 11,
+      "best_model": "nllb",
+      "best_model_score": 0.7818047404289246
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        2,
+        111,
+        183,
+        369
+      ],
+      "text": "Canazzini is deadly among pirates and pirates.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.772314116358757
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        190,
+        62,
+        825,
+        185
+      ],
+      "text": "The first is that it is not a problem.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6649075150489807
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        8,
+        649,
+        26,
+        671
+      ],
+      "text": "Two.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.3414655923843384
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        114,
+        562,
+        172,
+        621
+      ],
+      "text": "The hole.",
+      "status": "merged_with",
+      "merged_with_idx": 10,
+      "best_model": "nllb",
+      "best_model_score": 0.1348382532596588
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        771,
+        386,
+        780,
+        394
+      ],
+      "text": "The heart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.06698001176118851
+    }
+  ],
+  "pg_50": [
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        6,
+        716,
+        170,
+        925
+      ],
+      "text": "I will be.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.9812998473644257
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        642,
+        291,
+        749,
+        528
+      ],
+      "text": "The King of Pirates",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.961109459400177
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        570,
+        1101,
+        776,
+        1260
+      ],
+      "text": "As soon as his unseemly companions were involved, a small ship sailed through the sea.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7299455902539194
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        21,
+        1102,
+        201,
+        1283
+      ],
+      "text": "The great journey began when the world was beginning to see the light of day.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6906682401895523
+    }
+  ],
+  "pg_6": [
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        640,
+        383,
+        717,
+        500
+      ],
+      "text": "Let's do something!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9597273468971252
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        826,
+        380,
+        984,
+        526
+      ],
+      "text": "Fucking fucked up, you're a little bit of a bitch.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8858479261398315
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        464,
+        379,
+        584,
+        526
+      ],
+      "text": "It's fun to be a pirate.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.878921389579773
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        39,
+        375,
+        155,
+        556
+      ],
+      "text": "More free than anything!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8509835600852966
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        7,
+        1188,
+        100,
+        1371
+      ],
+      "text": "There are many real things about people.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8172092835108439
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        39,
+        23,
+        189,
+        251
+      ],
+      "text": "What do you say about this book!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.7494574412703514
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        16,
+        1457,
+        75,
+        1552
+      ],
+      "text": "Not to mention the fact that it's not.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7470705509185791
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        731,
+        79,
+        839,
+        182
+      ],
+      "text": "(Yes, it is true)",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6930558681488037
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        446,
+        1171,
+        570,
+        1356
+      ],
+      "text": "Don't tell me what's wrong with you guys.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.6704104132950306
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        240,
+        379,
+        404,
+        556
+      ],
+      "text": "The sea is wide and mountains are wide and mountains are wide and mountains are wide and mountains are large and mountains are large and the mountains are large and the mountains are large and the mountains are large",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.619571641087532
+    }
+  ],
+  "pg_7": [
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        591,
+        1234,
+        670,
+        1346
+      ],
+      "text": "Thank you very much!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9799624681472778
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        826,
+        690,
+        958,
+        863
+      ],
+      "text": "In other words, you are too young.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.977309783299764
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        519,
+        248,
+        572,
+        332
+      ],
+      "text": "The first is the \"Fire\".",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9726786613464355
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        564,
+        90,
+        641,
+        235
+      ],
+      "text": "I feel the same way.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9688265025615692
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        402,
+        1276,
+        493,
+        1506
+      ],
+      "text": "Come on, kid, fuck you!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9550260901451111
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        208,
+        685,
+        347,
+        882
+      ],
+      "text": "I'll tell you what I'm talking about!",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9278354644775391
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        67,
+        1467,
+        118,
+        1598
+      ],
+      "text": "Oh, my God.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9232251048088074
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        67,
+        683,
+        148,
+        876
+      ],
+      "text": "When I am not a boy!",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.8783652484416962
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        844,
+        920,
+        966,
+        1118
+      ],
+      "text": "At least I'll think about it when I'm old.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8687434792518616
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        331,
+        104,
+        485,
+        234
+      ],
+      "text": "Somebody's gotta get off the ship instead.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8331108391284943
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        817,
+        1230,
+        959,
+        1349
+      ],
+      "text": "I'll give you a couple more of these.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8068506419658661
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        857,
+        88,
+        960,
+        210
+      ],
+      "text": "What's the big deal?",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8001382350921631
+    },
+    {
+      "idx": 16,
+      "bbox_xyxy": [
+        41,
+        100,
+        132,
+        298
+      ],
+      "text": "What a great way to get a taste of the world!",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.725864440202713
+    },
+    {
+      "idx": 17,
+      "bbox_xyxy": [
+        93,
+        284,
+        309,
+        374
+      ],
+      "text": "The most common is the",
+      "status": "merged_with",
+      "merged_with_idx": 16,
+      "best_model": "nllb",
+      "best_model_score": 0.7258202433586121
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        159,
+        116,
+        287,
+        250
+      ],
+      "text": "Let's finish the conversation and drink it.",
+      "status": "merged_with",
+      "merged_with_idx": 16,
+      "best_model": "nllb",
+      "best_model_score": 0.686426617205143
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        696,
+        89,
+        815,
+        236
+      ],
+      "text": "It’s hard to take it twice, but it’s hard to do it.",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.6528163440525532
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        648,
+        1383,
+        739,
+        1514
+      ],
+      "text": "Cold water is a very common cold.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6513876914978027
+    },
+    {
+      "idx": 19,
+      "bbox_xyxy": [
+        629,
+        1380,
+        665,
+        1419
+      ],
+      "text": "EGYPT",
+      "status": "merged_with",
+      "merged_with_idx": 6,
+      "best_model": "hl",
+      "best_model_score": 0.18338574469089508
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        706,
+        329,
+        722,
+        353
+      ],
+      "text": "Items of the house.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.13769231736660004
+    },
+    {
+      "idx": 18,
+      "bbox_xyxy": [
+        473,
+        444,
+        512,
+        463
+      ],
+      "text": "by Purple",
+      "status": "added",
+      "best_model": "fb",
+      "best_model_score": 0.03429005295038223
+    }
+  ],
+  "pg_8": [
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        675,
+        982,
+        725,
+        1116
+      ],
+      "text": "Do you understand?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9978238940238953
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        343,
+        991,
+        377,
+        1097
+      ],
+      "text": "I don't know.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9792658090591431
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        572,
+        51,
+        613,
+        166
+      ],
+      "text": "Tired and tired.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9355725049972534
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        652,
+        451,
+        776,
+        608
+      ],
+      "text": "Well. that was a pirate's head anyway.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9171309173107147
+    },
+    {
+      "idx": 13,
+      "bbox_xyxy": [
+        2,
+        28,
+        124,
+        189
+      ],
+      "text": "You can also make your mind a little more relaxed.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9151150584220886
+    },
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        112,
+        979,
+        158,
+        1095
+      ],
+      "text": "Canato is a great place to visit.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8877811431884766
+    },
+    {
+      "idx": 14,
+      "bbox_xyxy": [
+        0,
+        229,
+        87,
+        361
+      ],
+      "text": "What's it like to have a second captain, Shankes?",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8805368343989054
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        402,
+        39,
+        527,
+        157
+      ],
+      "text": "I even asked for a bad look on your face today.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.8391584008932114
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        17,
+        985,
+        64,
+        1093
+      ],
+      "text": "The story is told through the eyes of a young boy.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8352702856063843
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        295,
+        28,
+        349,
+        121
+      ],
+      "text": "Rufi is a very good person.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8012905716896057
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        414,
+        993,
+        482,
+        1138
+      ],
+      "text": "It's the station I want to step on.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7935869991779327
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        198,
+        989,
+        311,
+        1117
+      ],
+      "text": "The Shanks are just playing with me like a fool.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7846413075923919
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        519,
+        990,
+        632,
+        1094
+      ],
+      "text": "I don't know. When you got caught up in this, you weren't so smart.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.7777527093887329
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        653,
+        707,
+        775,
+        864
+      ],
+      "text": "The pleasure of pirates is to know and to the contrary.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.777178943157196
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        135,
+        429,
+        271,
+        608
+      ],
+      "text": "It's known to be harsh, dangerous and dangerous to keep in touch with.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7027804337441921
+    },
+    {
+      "idx": 15,
+      "bbox_xyxy": [
+        266,
+        125,
+        375,
+        249
+      ],
+      "text": "The world is full of them.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.07279803603887558
+    }
+  ],
+  "pg_9": [
+    {
+      "idx": 11,
+      "bbox_xyxy": [
+        656,
+        741,
+        757,
+        791
+      ],
+      "text": "The machine is a machine.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.9972479939460754
+    },
+    {
+      "idx": 10,
+      "bbox_xyxy": [
+        642,
+        706,
+        759,
+        745
+      ],
+      "text": "The owner of the hotel's store.",
+      "status": "merged_with",
+      "merged_with_idx": 11,
+      "best_model": "nllb",
+      "best_model_score": 0.9471489787101746
+    },
+    {
+      "idx": 2,
+      "bbox_xyxy": [
+        341,
+        -1,
+        483,
+        142
+      ],
+      "text": "Oh, it's my pleasure to make fun of him.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.9375750660896301
+    },
+    {
+      "idx": 0,
+      "bbox_xyxy": [
+        670,
+        59,
+        804,
+        243
+      ],
+      "text": "Looks like you're still having fun, Captain.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.919264554977417
+    },
+    {
+      "idx": 3,
+      "bbox_xyxy": [
+        313,
+        1142,
+        378,
+        1296
+      ],
+      "text": "I'm looking forward to waiting",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8870077431201935
+    },
+    {
+      "idx": 6,
+      "bbox_xyxy": [
+        59,
+        18,
+        108,
+        86
+      ],
+      "text": "It's a good idea to go.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8638437390327454
+    },
+    {
+      "idx": 7,
+      "bbox_xyxy": [
+        -1,
+        410,
+        70,
+        610
+      ],
+      "text": "Oh, and I'm so excited.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.8139703273773193
+    },
+    {
+      "idx": 4,
+      "bbox_xyxy": [
+        236,
+        699,
+        359,
+        829
+      ],
+      "text": "The money was paid off, and the dog was in the front.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.7922036200761795
+    },
+    {
+      "idx": 1,
+      "bbox_xyxy": [
+        344,
+        419,
+        463,
+        587
+      ],
+      "text": "Lufypi, you're going to eat something, too.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.676293782889843
+    },
+    {
+      "idx": 8,
+      "bbox_xyxy": [
+        -1,
+        695,
+        180,
+        862
+      ],
+      "text": "My wife and I found treasure in the pirate shop and came to pay for it.",
+      "status": "added",
+      "best_model": "nllb",
+      "best_model_score": 0.6681192772729057
+    },
+    {
+      "idx": 9,
+      "bbox_xyxy": [
+        11,
+        -1,
+        119,
+        30
+      ],
+      "text": "The stack of friends",
+      "status": "merged_with",
+      "merged_with_idx": 6,
+      "best_model": "nllb",
+      "best_model_score": 0.2876793444156647
+    },
+    {
+      "idx": 12,
+      "bbox_xyxy": [
+        58,
+        884,
+        134,
+        971
+      ],
+      "text": "HAPPINESS",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.16180124878883362
+    },
+    {
+      "idx": 5,
+      "bbox_xyxy": [
+        71,
+        983,
+        106,
+        1032
+      ],
+      "text": "it's just a matter of time.",
+      "status": "added",
+      "best_model": "hl",
+      "best_model_score": 0.06490979343652725
+    }
+  ]
+}

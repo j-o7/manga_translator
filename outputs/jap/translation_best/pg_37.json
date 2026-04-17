@@ -1,0 +1,634 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_37.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        683,
+        748
+      ],
+      [
+        762,
+        748
+      ],
+      [
+        762,
+        883
+      ],
+      [
+        683,
+        883
+      ]
+    ],
+    [
+      [
+        676,
+        370
+      ],
+      [
+        710,
+        370
+      ],
+      [
+        710,
+        486
+      ],
+      [
+        676,
+        486
+      ]
+    ],
+    [
+      [
+        552,
+        746
+      ],
+      [
+        602,
+        746
+      ],
+      [
+        602,
+        890
+      ],
+      [
+        552,
+        890
+      ]
+    ],
+    [
+      [
+        525,
+        1132
+      ],
+      [
+        588,
+        1132
+      ],
+      [
+        588,
+        1259
+      ],
+      [
+        525,
+        1259
+      ]
+    ],
+    [
+      [
+        520,
+        206
+      ],
+      [
+        584,
+        206
+      ],
+      [
+        584,
+        314
+      ],
+      [
+        520,
+        314
+      ]
+    ],
+    [
+      [
+        390,
+        1145
+      ],
+      [
+        469,
+        1145
+      ],
+      [
+        469,
+        1288
+      ],
+      [
+        390,
+        1288
+      ]
+    ],
+    [
+      [
+        364,
+        3
+      ],
+      [
+        427,
+        3
+      ],
+      [
+        427,
+        143
+      ],
+      [
+        364,
+        143
+      ]
+    ],
+    [
+      [
+        360,
+        530
+      ],
+      [
+        442,
+        530
+      ],
+      [
+        442,
+        695
+      ],
+      [
+        360,
+        695
+      ]
+    ],
+    [
+      [
+        353,
+        356
+      ],
+      [
+        453,
+        356
+      ],
+      [
+        453,
+        541
+      ],
+      [
+        353,
+        541
+      ]
+    ],
+    [
+      [
+        319,
+        765
+      ],
+      [
+        484,
+        765
+      ],
+      [
+        484,
+        925
+      ],
+      [
+        319,
+        925
+      ]
+    ],
+    [
+      [
+        255,
+        547
+      ],
+      [
+        315,
+        547
+      ],
+      [
+        315,
+        677
+      ],
+      [
+        255,
+        677
+      ]
+    ],
+    [
+      [
+        252,
+        9
+      ],
+      [
+        306,
+        9
+      ],
+      [
+        306,
+        142
+      ],
+      [
+        252,
+        142
+      ]
+    ],
+    [
+      [
+        251,
+        358
+      ],
+      [
+        318,
+        358
+      ],
+      [
+        318,
+        522
+      ],
+      [
+        251,
+        522
+      ]
+    ],
+    [
+      [
+        142,
+        19
+      ],
+      [
+        171,
+        19
+      ],
+      [
+        171,
+        115
+      ],
+      [
+        142,
+        115
+      ]
+    ],
+    [
+      [
+        40,
+        31
+      ],
+      [
+        89,
+        31
+      ],
+      [
+        89,
+        116
+      ],
+      [
+        40,
+        116
+      ]
+    ],
+    [
+      [
+        25,
+        744
+      ],
+      [
+        202,
+        744
+      ],
+      [
+        202,
+        929
+      ],
+      [
+        25,
+        929
+      ]
+    ],
+    [
+      [
+        16,
+        179
+      ],
+      [
+        77,
+        179
+      ],
+      [
+        77,
+        313
+      ],
+      [
+        16,
+        313
+      ]
+    ],
+    [
+      [
+        9,
+        363
+      ],
+      [
+        137,
+        363
+      ],
+      [
+        137,
+        476
+      ],
+      [
+        9,
+        476
+      ]
+    ],
+    [
+      [
+        490,
+        450
+      ],
+      [
+        633,
+        450
+      ],
+      [
+        633,
+        488
+      ],
+      [
+        490,
+        488
+      ]
+    ]
+  ],
+  "texts": [
+    "Pirates are like that. They're like that.",
+    "Have you seen it?",
+    "Stop it and let it go.",
+    "Oh, yeah!",
+    "The boy is a boy.",
+    "Don't do this, Rooky!",
+    "I'm going to be a fucking asshole.",
+    "The first is the first, the second is the second.",
+    "You don't like it when you're under the influence of alcohol. You don't like it.",
+    "I'm gonna make a fool of the Shankes. I'm not gonna sit down.",
+    "It's hard to be a little bit more careful.",
+    "It was impossible to stop.",
+    "When I look at the back of my head, I see it.",
+    "Three.",
+    "The life of the child is a dream.",
+    "Don’t make the shans foolish.",
+    "The first one is the second one.",
+    "I thought I was going to kill him.",
+    "The story is told from the perspective of a young boy."
+  ],
+  "scores": [
+    0.8031127254168192,
+    0.9897850155830383,
+    0.74188631772995,
+    0.9746311902999878,
+    0.7237315773963928,
+    0.7427929937839508,
+    0.8232358396053314,
+    0.5813738666474819,
+    0.8366706569989523,
+    0.8481869697570801,
+    0.8479794263839722,
+    0.7959828972816467,
+    0.827688068151474,
+    0.4598415791988373,
+    0.657177060842514,
+    0.91248939037323,
+    0.8081424832344055,
+    0.6930588483810425,
+    0.46300560235977173
+  ],
+  "best_model": [
+    "hl",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb",
+    "nllb",
+    "nllb",
+    "fb",
+    "nllb",
+    "fb",
+    "nllb",
+    "nllb",
+    "nllb"
+  ],
+  "best_model_score": [
+    0.8031127254168192,
+    0.9897850155830383,
+    0.74188631772995,
+    0.9746311902999878,
+    0.7237315773963928,
+    0.7427929937839508,
+    0.8232358396053314,
+    0.5813738666474819,
+    0.8366706569989523,
+    0.8481869697570801,
+    0.8479794263839722,
+    0.7959828972816467,
+    0.827688068151474,
+    0.4598415791988373,
+    0.657177060842514,
+    0.91248939037323,
+    0.8081424832344055,
+    0.6930588483810425,
+    0.46300560235977173
+  ],
+  "source_texts": [
+    "海賊なんてあんなモンだカコばっかで",
+    "見たかよ?",
+    "やめろ",
+    "ああ!?",
+    "ガキが",
+    "やめなさいルクイ!",
+    "あつら!クスのくせに",
+    "第ねだははつははっは[第]",
+    "酒ぶつかけちれても文句一つ言えねで",
+    "シャンクス達をバカにするよ腰ヌケなんかじないそ",
+    "ム力ムカしてくんだ",
+    "一もなくれなかった...!",
+    "おれアあいう腰ヌケ見ると",
+    "三...",
+    "ちくレ备生",
+    "シャンクスたち達をバカにするなよ[たち達を]",
+    "はつはつはつはつは",
+    "上殺してやろうかと思たぜ",
+    "れはまばば"
+  ],
+  "base_ocr_scores": [
+    0.8031127254168192,
+    0.9897850155830383,
+    0.74188631772995,
+    0.9746311902999878,
+    0.7237315773963928,
+    0.7427929937839508,
+    0.8232358396053314,
+    0.5813738666474819,
+    0.8366706569989523,
+    0.8481869697570801,
+    0.8479794263839722,
+    0.7959828972816467,
+    0.827688068151474,
+    0.4598415791988373,
+    0.657177060842514,
+    0.91248939037323,
+    0.8081424832344055,
+    0.6930588483810425,
+    0.46300560235977173
+  ],
+  "selection_debug": [
+    {
+      "model": "hl",
+      "text": "Pirates are like that. They're like that.",
+      "score": 0.8031127254168192,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Have you seen it?",
+      "score": 0.9897850155830383,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Stop it and let it go.",
+      "score": 0.74188631772995,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Oh, yeah!",
+      "score": 0.9746311902999878,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The boy is a boy.",
+      "score": 0.7237315773963928,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Don't do this, Rooky!",
+      "score": 0.7427929937839508,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I'm going to be a fucking asshole.",
+      "score": 0.8232358396053314,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The first is the first, the second is the second.",
+      "score": 0.5813738666474819,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "You don't like it when you're under the influence of alcohol. You don't like it.",
+      "score": 0.8366706569989523,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I'm gonna make a fool of the Shankes. I'm not gonna sit down.",
+      "score": 0.8481869697570801,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It's hard to be a little bit more careful.",
+      "score": 0.8479794263839722,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "It was impossible to stop.",
+      "score": 0.7959828972816467,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "When I look at the back of my head, I see it.",
+      "score": 0.827688068151474,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Three.",
+      "score": 0.4598415791988373,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The life of the child is a dream.",
+      "score": 0.657177060842514,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Don’t make the shans foolish.",
+      "score": 0.91248939037323,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The first one is the second one.",
+      "score": 0.8081424832344055,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "I thought I was going to kill him.",
+      "score": 0.6930588483810425,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The story is told from the perspective of a young boy.",
+      "score": 0.46300560235977173,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_37.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_37.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_37.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_37.json"
+  }
+}

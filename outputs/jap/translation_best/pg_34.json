@@ -1,0 +1,346 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_34.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        706,
+        1000
+      ],
+      [
+        757,
+        1000
+      ],
+      [
+        757,
+        1080
+      ],
+      [
+        706,
+        1080
+      ]
+    ],
+    [
+      [
+        697,
+        340
+      ],
+      [
+        786,
+        340
+      ],
+      [
+        786,
+        504
+      ],
+      [
+        697,
+        504
+      ]
+    ],
+    [
+      [
+        570,
+        997
+      ],
+      [
+        657,
+        997
+      ],
+      [
+        657,
+        1290
+      ],
+      [
+        570,
+        1290
+      ]
+    ],
+    [
+      [
+        428,
+        533
+      ],
+      [
+        468,
+        533
+      ],
+      [
+        468,
+        590
+      ],
+      [
+        428,
+        590
+      ]
+    ],
+    [
+      [
+        367,
+        363
+      ],
+      [
+        417,
+        363
+      ],
+      [
+        417,
+        481
+      ],
+      [
+        367,
+        481
+      ]
+    ],
+    [
+      [
+        295,
+        366
+      ],
+      [
+        333,
+        366
+      ],
+      [
+        333,
+        505
+      ],
+      [
+        295,
+        505
+      ]
+    ],
+    [
+      [
+        278,
+        1018
+      ],
+      [
+        357,
+        1018
+      ],
+      [
+        357,
+        1180
+      ],
+      [
+        278,
+        1180
+      ]
+    ],
+    [
+      [
+        23,
+        31
+      ],
+      [
+        117,
+        31
+      ],
+      [
+        117,
+        280
+      ],
+      [
+        23,
+        280
+      ]
+    ],
+    [
+      [
+        10,
+        731
+      ],
+      [
+        56,
+        731
+      ],
+      [
+        56,
+        884
+      ],
+      [
+        10,
+        884
+      ]
+    ],
+    [
+      [
+        8,
+        387
+      ],
+      [
+        54,
+        387
+      ],
+      [
+        54,
+        549
+      ],
+      [
+        8,
+        549
+      ]
+    ]
+  ],
+  "texts": [
+    "And then there's the story.",
+    "One way or another, I'm going to be a little bit more upset.",
+    "♪ Wait a minute. ♪ That little bastard came inside ♪",
+    "The country is a country.",
+    "At the same time, the military ship.",
+    "You have to come.",
+    "Which way is the prize.",
+    "Don't be so proud of yourself as a bandit.",
+    "This is great.",
+    "continue."
+  ],
+  "scores": [
+    0.32921522855758667,
+    0.8510016202926636,
+    0.5497934650629759,
+    0.1659652143716812,
+    0.6881134957075119,
+    0.998055100440979,
+    0.797036329905192,
+    0.8443414171536764,
+    0.9751655459403992,
+    0.966754138469696
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "hl",
+    "nllb",
+    "fb",
+    "nllb",
+    "fb",
+    "hl",
+    "nllb",
+    "fb"
+  ],
+  "best_model_score": [
+    0.32921522855758667,
+    0.8510016202926636,
+    0.5497934650629759,
+    0.1659652143716812,
+    0.6881134957075119,
+    0.998055100440979,
+    0.797036329905192,
+    0.8443414171536764,
+    0.9751655459403992,
+    0.966754138469696
+  ],
+  "source_texts": [
+    "や",
+    "いせんウチと一やりたきや[いせん]",
+    "*待てよ...仕掛けて中来たのはこのガキぜ[中*]",
+    "国",
+    "人办人軍艦でも",
+    "来るんだな",
+    "どの道^賞金首だろう",
+    "うぬぼれるなよさんぞく山賊.........[さんぞく]",
+    "すごい......",
+    "...つええ..."
+  ],
+  "base_ocr_scores": [
+    0.32921522855758667,
+    0.8510016202926636,
+    0.5497934650629759,
+    0.1659652143716812,
+    0.6881134957075119,
+    0.998055100440979,
+    0.797036329905192,
+    0.8443414171536764,
+    0.9751655459403992,
+    0.966754138469696
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "And then there's the story.",
+      "score": 0.32921522855758667,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "One way or another, I'm going to be a little bit more upset.",
+      "score": 0.8510016202926636,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "♪ Wait a minute. ♪ That little bastard came inside ♪",
+      "score": 0.5497934650629759,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "The country is a country.",
+      "score": 0.1659652143716812,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "At the same time, the military ship.",
+      "score": 0.6881134957075119,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "You have to come.",
+      "score": 0.998055100440979,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "Which way is the prize.",
+      "score": 0.797036329905192,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "Don't be so proud of yourself as a bandit.",
+      "score": 0.8443414171536764,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "This is great.",
+      "score": 0.9751655459403992,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "fb",
+      "text": "continue.",
+      "score": 0.966754138469696,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_34.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_34.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_34.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_34.json"
+  }
+}

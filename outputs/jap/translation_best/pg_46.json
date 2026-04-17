@@ -1,0 +1,218 @@
+{
+  "input": "outputs\\jap\\adaptive\\pg_46.png",
+  "lang": "en",
+  "polys": [
+    [
+      [
+        643,
+        446
+      ],
+      [
+        739,
+        446
+      ],
+      [
+        739,
+        617
+      ],
+      [
+        643,
+        617
+      ]
+    ],
+    [
+      [
+        434,
+        1083
+      ],
+      [
+        476,
+        1083
+      ],
+      [
+        476,
+        1164
+      ],
+      [
+        434,
+        1164
+      ]
+    ],
+    [
+      [
+        418,
+        444
+      ],
+      [
+        483,
+        444
+      ],
+      [
+        483,
+        554
+      ],
+      [
+        418,
+        554
+      ]
+    ],
+    [
+      [
+        116,
+        431
+      ],
+      [
+        175,
+        431
+      ],
+      [
+        175,
+        566
+      ],
+      [
+        116,
+        566
+      ]
+    ],
+    [
+      [
+        41,
+        928
+      ],
+      [
+        140,
+        928
+      ],
+      [
+        140,
+        1039
+      ],
+      [
+        41,
+        1039
+      ]
+    ],
+    [
+      [
+        1,
+        661
+      ],
+      [
+        80,
+        661
+      ],
+      [
+        80,
+        768
+      ],
+      [
+        1,
+        768
+      ]
+    ]
+  ],
+  "texts": [
+    "I was so upset, the village chief.",
+    "- I'm going to try to get it.",
+    "It's going to be pi.",
+    "I don't want to be a pirate.",
+    "Today is the day of the ship's departure.",
+    "I didn't really think I was going to do that."
+  ],
+  "scores": [
+    0.7710426847139994,
+    0.2827933728694916,
+    0.5642638877034187,
+    0.8221362829208374,
+    0.9160135388374329,
+    0.7281451523303986
+  ],
+  "best_model": [
+    "nllb",
+    "nllb",
+    "hl",
+    "hl",
+    "nllb",
+    "hl"
+  ],
+  "best_model_score": [
+    0.7710426847139994,
+    0.2827933728694916,
+    0.5642638877034187,
+    0.8221362829208374,
+    0.9160135388374329,
+    0.7281451523303986
+  ],
+  "source_texts": [
+    "う行つちやいました村長",
+    "ー",
+    "πなるわ",
+    "は海賊にろうなんぞ",
+    "今日は船出日和だな",
+    "+本気行つちまうとはな[+]"
+  ],
+  "base_ocr_scores": [
+    0.7710426847139994,
+    0.2827933728694916,
+    0.5642638877034187,
+    0.8221362829208374,
+    0.9160135388374329,
+    0.7281451523303986
+  ],
+  "selection_debug": [
+    {
+      "model": "nllb",
+      "text": "I was so upset, the village chief.",
+      "score": 0.7710426847139994,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "- I'm going to try to get it.",
+      "score": 0.2827933728694916,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "It's going to be pi.",
+      "score": 0.5642638877034187,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I don't want to be a pirate.",
+      "score": 0.8221362829208374,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "nllb",
+      "text": "Today is the day of the ship's departure.",
+      "score": 0.9160135388374329,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    },
+    {
+      "model": "hl",
+      "text": "I didn't really think I was going to do that.",
+      "score": 0.7281451523303986,
+      "is_english": true,
+      "en_ratio": 1.0,
+      "reason": "best_english_highest_score"
+    }
+  ],
+  "sources": {
+    "base_json": "outputs\\jap\\json\\pg_46.json",
+    "fb_json": "outputs\\jap\\translation_fb\\pg_46.json",
+    "hl_json": "outputs\\jap\\translation_hl\\pg_46.json",
+    "nllb_json": "outputs\\jap\\translation_nllb\\pg_46.json"
+  }
+}
